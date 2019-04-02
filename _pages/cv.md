@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Chemical Engineering, Norwegian University of Science and Technology, 2019 (expected)
+* M.Sc. in Control Systems, Imperial College London, 2012
+* B.Engg (Hons.) in Mechatronics Engineering, University of Nottingham, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012 - 2016: Senior Researcher
+  * Equinor Research Center (formerly Statoil)
+  * Production optimization, process control 
 
 * Fall 2015: Research Assistant
   * Github University
