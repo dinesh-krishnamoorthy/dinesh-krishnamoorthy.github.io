@@ -2,7 +2,7 @@
 title: "Numerical optimization"
 collection: teaching
 type: "Grad course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2019-spring-teaching-1
 venue: "UFRJ-COPPE"
 date: Spring 2019
 location: "Rio de Janeiro, Brazil"
