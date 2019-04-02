@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Advanced Process Control"
 collection: teaching
-type: "Workshop"
+type: "Teaching assistent"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Norwegian University of Science and Technology (NTNU)"
+date: Autumn 2018
+location: "Trondheim, Norway"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Advanced Process Control course for final year masters students and PhD students
 
 Heading 1
 ======
