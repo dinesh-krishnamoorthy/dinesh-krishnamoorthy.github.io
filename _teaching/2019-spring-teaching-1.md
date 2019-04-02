@@ -46,3 +46,5 @@ Course Syllabus
   *	Formulating a linear MPC
   *	With hands on demo using CasADi
   *	Short review and introduction of the recent advances in MPC under uncertainty
+  
+  
