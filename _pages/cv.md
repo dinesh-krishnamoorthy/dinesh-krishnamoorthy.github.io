@@ -17,19 +17,24 @@ Education
 
 Work experience
 ======
-* 2012 - 2016: Senior Researcher
-  * Equinor Research Center (formerly Statoil)
+* 2012 - 2016: Senior Researcher - Equinor Research Center (formerly Statoil)
   * Process modelling, control and optimization
-
   
-Skills
+* 2010 : Applications Engineering Intern, National Instruments India
+
+Awards and Honours
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018 : IFAC-ABB Best student paper award
+* 2018 : IFAC ADCHEM Young author award finalist (top 3)
+* 2018 : IFAC ADCHEM Keynote speaker
+* 2011 : Graduating Student prize for Outstanding academic achievement
+* 2008 - 2011 : University of Nottingham high achiever's scholarship
+
+Research Interests
+======
+* Real-time Optimization and plant-wide control
+* Model Predictive Control under uncertainty
+* Machine learning based online process optimization
 
 Publications
 ======
