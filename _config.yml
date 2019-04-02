@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@dinesh_kallur"
+  username               : &twitter #"@dinesh_kallur"
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dinesh Krishnamoorthy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Researcher - Process control & optimization - PhD Candidate at NTNU and Senior Researcher at Equinor Research Center (former Statoil) - Imperial alumnus"
+  location         : "Trondheim, Norway"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : dinesh.krishnamoorthy@ntnu.no
+  researchgate     : "https://www.researchgate.net/profile/Dinesh_Krishnamoorthy"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,14 +101,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@dinesh_kallur"
   vine             :
   weibo            :
   xing             :
