@@ -86,7 +86,7 @@ author:
   location         : "Trondheim, Norway"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=AHUrS0EAAAAJ&hl=en"
   email            : dinesh.krishnamoorthy@ntnu.no
   researchgate     : "https://www.researchgate.net/profile/Dinesh_Krishnamoorthy"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "dinesh-krishnamoorthy"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         : 
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9947-8690"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
