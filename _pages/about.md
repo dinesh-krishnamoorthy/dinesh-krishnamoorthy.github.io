@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Dinesh Krishnamoorthy"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This is the hope page of Dinesh Krishnamoorthy
+This is the homepage of Dinesh Krishnamoorthy
