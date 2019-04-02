@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* 2012 - 2016: Senior Researcher - Equinor Research Center (formerly Statoil)
+* 2012 - : Senior Researcher - Equinor Research Center (formerly Statoil)
   * Process modelling, control and optimization
-  
+* 2019 : Visiting PhD Candidate, Carnegie Mellon University, Pittsburgh, USA 
 * 2010 : Applications Engineering Intern, National Instruments India
 
 Awards and Honours
