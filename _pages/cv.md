@@ -19,12 +19,8 @@ Work experience
 ======
 * 2012 - 2016: Senior Researcher
   * Equinor Research Center (formerly Statoil)
-  * Production optimization, process control 
+  * Process modelling, control and optimization
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
