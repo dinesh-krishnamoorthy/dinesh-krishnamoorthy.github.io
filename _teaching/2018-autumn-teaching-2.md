@@ -2,7 +2,7 @@
 title: "Advanced Process Control"
 collection: teaching
 type: "Teaching assistent"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2018-autumn-teaching-1
 venue: "Norwegian University of Science and Technology (NTNU)"
 date: Autumn 2018
 location: "Trondheim, Norway"
