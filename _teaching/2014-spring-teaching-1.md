@@ -14,30 +14,35 @@ The course will be supplemented with hands-on exercise using simple production o
 
 Course Syllabus 
 
-Lecture 1: Introduction to optimization and preliminaries
-* Introduction, preliminaries and notations
-*	General optimization problem
-*	Different types of optimization problem and solvers
-Lecture 2: Understanding the KKT conditions
-*	Unconstrained optimization
-*	Constrained optimization and active constraints
-*	Formalizing the KKT conditions
-Lecture 3: Steady state optimization
-*	Developing ODE and DAE models
-*	Steady state optimization 
-*	With hands-on demo using CasADi 
-Lecture 4: Dynamic optimization
-*	Direct and indirect methods
-*	Single shooting and multiple shooting
-*	Direct collocation
-*	Converting FHOCP to a standard NLP problem
-*	With hands on demo using CasADi
-Lecture 5: Parametric optimization 
-*	Parametric NLP
-*	NLP sensitivities
-*	Predictor QP
-*	Predictor-corrector QP
-Lecture 6: MPC under uncertainty 
-*	Formulating a linear MPC
-*	With hands on demo using CasADi
-*	Short review and introduction of the recent advances in MPC under uncertainty
+* Lecture 1: Introduction to optimization and preliminaries
+  * Introduction, preliminaries and notations
+  *	General optimization problem
+  *	Different types of optimization problem and solvers
+
+* Lecture 2: Understanding the KKT conditions
+  *	Unconstrained optimization
+  *	Constrained optimization and active constraints
+  *	Formalizing the KKT conditions
+
+* Lecture 3: Steady state optimization
+  *	Developing ODE and DAE models
+  *	Steady state optimization 
+  *	With hands-on demo using CasADi 
+
+* Lecture 4: Dynamic optimization
+  *	Direct and indirect methods
+  *	Single shooting and multiple shooting
+  *	Direct collocation
+  *	Converting FHOCP to a standard NLP problem
+  *	With hands on demo using CasADi
+  
+* Lecture 5: Parametric optimization 
+  *	Parametric NLP
+  *	NLP sensitivities
+  *	Predictor QP
+  *	Predictor-corrector QP
+
+* Lecture 6: MPC under uncertainty 
+  *	Formulating a linear MPC
+  *	With hands on demo using CasADi
+  *	Short review and introduction of the recent advances in MPC under uncertainty
