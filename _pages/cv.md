@@ -35,25 +35,12 @@ Research Interests
 * Real-time Optimization and plant-wide control
 * Model Predictive Control under uncertainty
 * Machine learning based online process optimization
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019 : Workshop organizer, IFAC DYCOPS pre-symposium workshop on online process optimization, Florainopolis, Brazil
+* 2018 : Program Committee, 7th Brazil-Norway Production optimization workshop, Rio de Janeiro, Brazil
+* 2018 : Acting Associate Editor, 3rd IFAC Workshop on Automatic Control in Offshore Oil and Gas Prodcution, Esbjerg, Denmark
+* 2017 : Associate Editor, 1st IEEE Conference on Control Technology and Applications, Hawaai, USA
+* 2014- : Reviewer of several IEEE CSS and IFAC contributed papers
+* 2018- : Reviwer of peer-reviewed journal papers
