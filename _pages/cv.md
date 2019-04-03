@@ -46,3 +46,11 @@ Service and leadership
 * 2017 : Associate Editor, 1st IEEE Conference on Control Technology and Applications, Hawaai, USA
 * 2014- : Reviewer of several IEEE CSS and IFAC contributed papers
 * 2018- : Reviwer of peer-reviewed journal papers
+
+Membership of Scientific Societies
+======
+* 2018-present:	Affiliate Member, International Federation of Automatic Control (IFAC)
+* 2018- present:	IFAC Technical Committee Member of subsection TC2.4 Optimal Control 
+* 2017-present:	Member, American Institute of Chemical Engineers (AIChE)
+
+
