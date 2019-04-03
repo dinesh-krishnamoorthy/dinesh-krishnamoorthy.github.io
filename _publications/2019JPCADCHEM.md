@@ -2,9 +2,9 @@
 title: "A Primal decomposition algorithm for distributed multistage scenario model predictive control"
 collection: publications
 excerpt: ''
+permalink: ''
 date: 2019-02-08
 venue: 'Journal of Process Control (ADCHEM Special issue invited paper)'
-paperurl: ''
 ---
 
 [Download paper here](http://folk.ntnu.no/dineshk/Papers/2019/JPC_Scenario%20Decomposition.pdf)
