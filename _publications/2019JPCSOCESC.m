@@ -3,7 +3,7 @@ title: "On combining self-optimizing control and extremum-seeking control - Appl
 collection: publications
 permalink: /publication/2019JPCSOCESC
 excerpt: ''
-date: 2019-02-10
+date: 2019-01-31
 venue: 'Journal of Process Control (ADCHEM Special issue invited paper)'
 paperurl: ''
 citation: 'In-Press'
