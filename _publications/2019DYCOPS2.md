@@ -3,7 +3,7 @@ title: "Data-driven Multistage Model Predictive Control of a Thermal Storage Sys
 collection: publications
 permalink: '/publication/2019DYCOPS2'
 excerpt: ''
-date: 2019-06-20
+date: 2019-04-20
 venue: 'IFAC DYCOPS-CAB'
 ---
 
