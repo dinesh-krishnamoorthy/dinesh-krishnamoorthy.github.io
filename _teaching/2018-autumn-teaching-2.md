@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching assistent"
 permalink: /teaching/2018-autumn-teaching-2
 venue: "Norwegian University of Science and Technology (NTNU)"
-date: Autumn 2018
+date: 2018-09-01
 location: "Trondheim, Norway"
 ---
 
