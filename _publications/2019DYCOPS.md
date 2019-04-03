@@ -1,5 +1,5 @@
 ---
-title: "Multistage Model Predictive Control with Online Scenario Tree Update using Recursive Bayesian Weighting"
+title: "Dynamic extremum seeking control applied to a gas lifted well network"
 collection: publications
 permalink: '/publication/2019DYCOPS'
 excerpt: ''
