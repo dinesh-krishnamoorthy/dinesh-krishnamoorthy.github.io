@@ -1,13 +1,13 @@
 ---
 title: "A Primal decomposition algorithm for distributed multistage scenario model predictive control"
 collection: publications
-permalink: /publication/2019JPCADCHEM
-excerpt: 'A primal decomposition approach to distributed multistage scenario MPC that always guarantees the feasibility of non-anticipativity constraints'
+excerpt: ''
 date: 2019-02-08
 venue: 'Journal of Process Control (ADCHEM Special issue invited paper)'
 paperurl: ''
-citation: 'In-Press'
 ---
+
+[Download paper here](http://folk.ntnu.no/dineshk/Papers/2019/JPC_Scenario%20Decomposition.pdf)
 
 Abstract: 
 
@@ -25,6 +25,6 @@ the feasibility of the nonlinear constraints. The performance of the proposed
 approach and the backtracking algorithm is demonstrated using a CSTR case
 study
 
-[Download paper here](http://folk.ntnu.no/dineshk/Papers/2019/JPC_Scenario%20Decomposition.pdf)
+
 
 Recommended citation: (In-Press).
