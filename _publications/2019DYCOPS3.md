@@ -3,8 +3,8 @@ title: "Model Predictive Control with Recon_guration Strategy applied to an Elec
 collection: publications
 permalink: '/publication/2019DYCOPS3'
 excerpt: ''
-date: 2019-06-20
-venue: '2019 IFAC DYCOPS-CAB'
+date: 2019-04-20
+venue: 'IFAC DYCOPS-CAB'
 ---
 
 
