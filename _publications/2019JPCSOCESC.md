@@ -1,6 +1,7 @@
 ---
 title: "On combining self-optimizing control and extremum-seeking control - Applied to an ammonia reactor case study"
 collection: publications
+permalink: ''
 excerpt: ''
 date: 2019-01-31
 venue: 'Journal of Process Control '
