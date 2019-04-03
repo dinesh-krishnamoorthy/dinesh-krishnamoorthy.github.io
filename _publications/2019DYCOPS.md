@@ -4,7 +4,7 @@ collection: publications
 permalink: '/publication/2019DYCOPS'
 excerpt: ''
 date: 2019-04-25
-venue: '2019 IFAC DYCOPS-CAB'
+venue: 'IFAC DYCOPS-CAB'
 ---
 
 
