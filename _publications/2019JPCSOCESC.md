@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019JPCSOCESC
 excerpt: ''
 date: 2019-01-31
-venue: 'Journal of Process Control (ADCHEM Special issue invited paper)'
+venue: 'Journal of Process Control '
 paperurl: ''
 citation: 'In-Press'
 ---
