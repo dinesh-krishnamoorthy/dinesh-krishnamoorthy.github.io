@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download full CV here](http://folk.ntnu.no/dineshk/CV_template.pdf)
+
 Education
 ======
 * Ph.D. in Chemical Engineering, Norwegian University of Science and Technology, 2019 (expected)
