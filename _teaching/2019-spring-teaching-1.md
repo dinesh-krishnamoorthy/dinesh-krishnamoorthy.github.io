@@ -1,7 +1,7 @@
 ---
 title: "Numerical optimization"
 collection: teaching
-type: "Grad course"
+type: "Lecturer"
 permalink: /teaching/2019-spring-teaching-1
 venue: "UFRJ-COPPE"
 date: 2019-04-29
@@ -49,4 +49,4 @@ Course Syllabus
   *	With hands on demo using CasADi
   *	Short review and introduction of the recent advances in MPC under uncertainty
   
-  
+
