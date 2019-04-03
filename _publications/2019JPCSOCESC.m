@@ -5,7 +5,7 @@ permalink: /publication/2019JPCSOCESC
 excerpt: ''
 date: 2019-02-10
 venue: 'Journal of Process Control (ADCHEM Special issue invited paper)'
-paperurl: 'http://folk.ntnu.no/dineshk/Papers/2019/JPC_SOC_ESC_Preprint.pdf'
+paperurl: ''
 citation: 'In-Press'
 ---
 
