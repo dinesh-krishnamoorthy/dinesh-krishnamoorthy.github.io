@@ -4,7 +4,7 @@ collection: teaching
 type: "Grad course"
 permalink: /teaching/2019-spring-teaching-1
 venue: "UFRJ-COPPE"
-date: Spring 2019
+date: 2019-04-29
 location: "Rio de Janeiro, Brazil"
 ---
 
