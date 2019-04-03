@@ -8,6 +8,8 @@ date: 2019-04-29
 location: "Rio de Janeiro, Brazil"
 ---
 
+Invited short course on numerical optimization given at the Federal University of Rio de Janerio (UFRJ) in Spring 2019.
+
 The aim of this course is to provide basic theory behind process optimization, such that these tools may be applied to subsea production and processing. This course discusses various approaches to online process optimization, where the objective is usually to minimize an economic cost function. Since most processes are nonlinear in nature, a part of this course will cover nonlinear programming in the context of optimal control. 
 The first part of the course starts with the basic overview of optimization and focuses on steady-state nonlinear optimization. The course then progresses to cover dynamic optimization problems using ordinary differential equations. In this part, various successful discretization techniques such as multiple shooting and direct collation will be covered, such that it gives the students a clear picture of to approach an optimal control problem in a continuous form. The course will further give an understanding on how to use the dynamic optimization problem for solving model predictive control problems.
 The course will be supplemented with hands-on exercise using simple production optimization problems as an example. The exercises will be delivered using CasADi toolbox with MATLAB interface, which is an open source tool. The exercises along with the solutions will also be provided to the students. The course is planned to be a full day course, i.e. morning and afternoon sessions. 
