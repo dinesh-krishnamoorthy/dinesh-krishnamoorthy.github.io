@@ -8,4 +8,4 @@ date: 2019-04-20
 location: "Florianopolis, Brazil"
 ---
 
-[Workshop Page](http://folk.ntnu.no/dineshk/Misc%20Info/worshop%20webpage.htm)
+[Workshop Page](http://folk.ntnu.no/dineshk/Misc%20Info/worshop%20webpage.htm) [Workshop slides](http://folk.ntnu.no/dineshk/Misc%20Info/worshop%20slides.pdf)
