@@ -51,4 +51,5 @@ Course Syllabus
   *	With hands on demo using CasADi
   *	Short review and introduction of the recent advances in MPC under uncertainty
   
+  [Exercise 1](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Ex1.pdf)
 
