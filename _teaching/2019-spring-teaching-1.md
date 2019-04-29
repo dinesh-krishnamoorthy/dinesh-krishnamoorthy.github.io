@@ -23,7 +23,7 @@ Course Syllabus
   *	General optimization problem
   *	Different types of optimization problem and solvers
 
-* [Lecture 2: Understanding the KKT conditions](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Lecture%202.pdf)
+* [Lecture 2: Understanding the KKT conditions](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Lecture2.pdf)
   *	Unconstrained optimization
   *	Constrained optimization and active constraints
   *	Formalizing the KKT conditions
