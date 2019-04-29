@@ -14,14 +14,16 @@ The aim of this course is to provide basic theory behind process optimization, s
 The first part of the course starts with the basic overview of optimization and focuses on steady-state nonlinear optimization. The course then progresses to cover dynamic optimization problems using ordinary differential equations. In this part, various successful discretization techniques such as multiple shooting and direct collation will be covered, such that it gives the students a clear picture of to approach an optimal control problem in a continuous form. The course will further give an understanding on how to use the dynamic optimization problem for solving model predictive control problems.
 The course will be supplemented with hands-on exercise using simple production optimization problems as an example. The exercises will be delivered using CasADi toolbox with MATLAB interface, which is an open source tool. The exercises along with the solutions will also be provided to the students. The course is planned to be a full day course, i.e. morning and afternoon sessions. 
 
+[Introduction](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Introduction.pdf)
+
 Course Syllabus 
 
-* Lecture 1: Introduction to optimization and preliminaries
+* [Lecture 1: Introduction to optimization and preliminaries](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Lecture%201.pdf)
   * Introduction, preliminaries and notations
   *	General optimization problem
   *	Different types of optimization problem and solvers
 
-* Lecture 2: Understanding the KKT conditions
+* [Lecture 2: Understanding the KKT conditions](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Lecture%202.pdf)
   *	Unconstrained optimization
   *	Constrained optimization and active constraints
   *	Formalizing the KKT conditions
