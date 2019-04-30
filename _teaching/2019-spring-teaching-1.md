@@ -28,12 +28,12 @@ Course Syllabus
   *	Constrained optimization and active constraints
   *	Formalizing the KKT conditions
 
-* Lecture 3: Steady state optimization
+* [Lecture 3: Steady state optimization](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Lecture3.pdf)
   *	Developing ODE and DAE models
   *	Steady state optimization 
   *	With hands-on demo using CasADi 
 
-* Lecture 4: Dynamic optimization
+* [Lecture 4: Dynamic optimization](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Lecture4.pdf)
   *	Direct and indirect methods
   *	Single shooting and multiple shooting
   *	Direct collocation
