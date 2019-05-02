@@ -51,4 +51,4 @@ Course Syllabus
   *	Short review and introduction of the recent advances in MPC under uncertainty
   
   [Exercise 1](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Ex1.pdf)
-
+ [Exercise 2](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Ex2.pdf)
