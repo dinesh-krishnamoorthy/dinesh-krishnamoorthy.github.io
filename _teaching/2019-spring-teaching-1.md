@@ -33,19 +33,18 @@ Course Syllabus
   *	Steady state optimization 
   *	With hands-on demo using CasADi 
 
-* [Lecture 4: Dynamic optimization](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Lecture4.pdf)
+* [Lecture 4: Dynamic optimization](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Lecture4.pdf), [Part2](http://folk.ntnu.no/dineshk/Courses/UFRJ_NumOpt/Lecture4_2.pdf)
   *	Direct and indirect methods
   *	Single shooting and multiple shooting
   *	Direct collocation
   *	Converting FHOCP to a standard NLP problem
   *	With hands on demo using CasADi
   
-* Lecture 5: Parametric optimization 
-  *	Parametric NLP
-  *	NLP sensitivities
-  *	Predictor QP
-  *	Predictor-corrector QP
-
+* Lecture 5: Model Predictive control 
+  *	Linear MPC
+  *	Nonlinear MPC
+  *	Economic MPC
+  
 * Lecture 6: MPC under uncertainty 
   *	Formulating a linear MPC
   *	With hands on demo using CasADi
