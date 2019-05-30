@@ -26,6 +26,7 @@ Work experience
 
 Awards and Honours
 ======
+* 2019 : NSF Travel Award, Foundations on Process Analytics and Machine Learning (FOPAM)
 * 2018 : IFAC-ABB Best student paper award
 * 2018 : IFAC ADCHEM Young author award finalist (top 3)
 * 2018 : IFAC ADCHEM Keynote speaker
