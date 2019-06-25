@@ -11,3 +11,5 @@ location: "Raleigh, NC"
 [Extended Abstract](http://folk.ntnu.no/dineshk/Papers/2019/FOPAM_DynESC.pdf)
 
 [Poster](http://folk.ntnu.no/dineshk/Papers/2019/DynESC2.pdf)
+
+Full paper preprint: Coming soon
