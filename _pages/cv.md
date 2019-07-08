@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV here](http://folk.ntnu.no/dineshk/CV_template.pdf)
+[Download full CV here](http://folk.ntnu.no/dineshk/CV_template.pdf) - Updated on 15 April 2019
 
 Education
 ======
