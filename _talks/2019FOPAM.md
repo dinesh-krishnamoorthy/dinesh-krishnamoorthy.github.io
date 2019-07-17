@@ -12,4 +12,4 @@ location: "Raleigh, NC"
 
 [Poster](http://folk.ntnu.no/dineshk/Papers/2019/DynESC2.pdf)
 
-Full paper preprint: Coming soon
+[Full paper preprint] (http://folk.ntnu.no/dineshk/Papers/2019/DESC_main.pdf)
