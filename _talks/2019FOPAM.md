@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019FOPAM
 venue: "Foundations on Process Analytics and Machine Learning (FOPAM)"
-date: 2018-08-05
+date: 2019-08-05
 location: "Raleigh, NC"
 ---
 
