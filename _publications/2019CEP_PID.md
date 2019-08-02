@@ -1,5 +1,5 @@
 ---
-title: "Online Process Optimization with Active Constraint Set Changes using Simple Control Structures"
+title: "Optimal operation of oil and gas production using simple feedback control structures"
 collection: publications
 permalink: '/publication/2019CEP_PID'
 excerpt: ''
