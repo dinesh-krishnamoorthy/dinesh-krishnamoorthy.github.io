@@ -88,3 +88,8 @@ Peer-reviewed Conference Publications
 *	Krishnamoorthy, D., Pavlov, A. and Li, Q., 2016. Robust Extremum Seeking Control with application to Gas Lifted Oil Wells. IFAC-PapersOnLine, 49(13), pp.205-210.
 *	Krishnamoorthy, D., Bergheim, E.M., Pavlov, A., Fredriksen, M. and Fjalestad, K., 2016. Modelling and Robustness Analysis of Model Predictive Control for Electrical Submersible Pump Lifted Heavy Oil Wells. IFAC-PapersOnLine, 49(7), pp.544-549 (IFAC DYCOPS, Trondheim, Norway).
 *	Pavlov, A., Krishnamoorthy, D., Fjalestad, K., Aske, E. and Fredriksen, M., 2014, October. Modelling and model predictive control of oil wells with electric submersible pumps. IEEE Conference on Control Applications (pp. 586-592). (Antibes, France)
+
+Patents
+======
+*	Aske, E., Krishnamoorthy, D., Fjalestad, K., Pavlov, A. and Fredriksen, M. 2014, Well Control system (WO2015070913A1, CA2930653A1, US20160290077A1, GB2535090B - granted)
+*	Krishnamoorthy, D. and Fjalestad, K. 2017, Estimating _ow rate at a pump (WO2017061873A1, CA3001234A1, GB2543048A)
