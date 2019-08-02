@@ -59,12 +59,12 @@ Journal Publications
 ======
 *	Krishnamoorthy, D., Fjalestad, K. and Skogestad, S., 2019. Optimal Control of offshore oil and gas production using simple feedback controllers, Control Engineering Practice (In-Press)
 *	Krishnamoorthy, D., and Skogestad, S., 2019. Online process optimization with changes in active constraint sets using simple feedback control structures, Ind. Eng. Chem. Res. (In-Press). DOI: 10.1021/acs.iecr.9b00308 
-*	J3.	Krishnamoorthy, D., Foss, B. and Skogestad, S., 2018. A Primal decomposition algorithm for distributed multistage scenario model predictive control. J. Proc. Control, Vol 81, pp 162-171. 
+*	Krishnamoorthy, D., Foss, B. and Skogestad, S., 2018. A Primal decomposition algorithm for distributed multistage scenario model predictive control. J. Proc. Control, Vol 81, pp 162-171. 
 * Krishnamoorthy, D., Jahanshahi, E. and Skogestad, S., 2019. A feedback RTO strategy using Transient Measurements , Ind. Eng. Chem. Res. Vol 58 (1), p.207-216.
 *	Krishnamoorthy, D., Foss, B. and Skogestad, S., 2018. Steady-State Real-time Optimization using Transient Measurements. Comput. & Chem. Eng., Vol 115, p.34-45
 *	Krishnamoorthy, D., Foss, B. Suwartadi, E., Jäschke, J. and Skogestad, S., 2018. Improving Scenario Decomposition for Multistage MPC using a Sensitivity-based Path-following Algorithm, IEEE Control System Letters, Vol 2(4), p.581-586
 *	Krishnamoorthy, D., Foss, B. and Skogestad, S., 2016. Real-Time Optimization under Uncertainty Applied to a Gas Lifted Well Network. Processes, 4(4), p.52
-*	J8.	Straus, J., Krishnamoorthy, D. and Skogestad, S., 2019. Combining self-optimizing control and extremum seeking control - Applied to ammonia reactor case study, J. Proc. Control. Vol 78, pp.78-87.
+*	Straus, J., Krishnamoorthy, D. and Skogestad, S., 2019. Combining self-optimizing control and extremum seeking control - Applied to ammonia reactor case study, J. Proc. Control. Vol 78, pp.78-87.
 *	Jahanshahi, E., Krishnamoorthy, D., Codas, A., Foss, B. and Skogestad, S., 2019. Plantwide control of an oil production network, Comput. & Chem. Eng. (Submitted).
 
 Peer-reviewed Conference Publications
