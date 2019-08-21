@@ -10,5 +10,5 @@ location: "Trondheim, Norway"
 
 Advanced Process Control course for final year masters students and PhD students.
 
-(Some useful resources)[http://folk.ntnu.no/skoge/vgprosessregulering/] 
+[Some useful resources](http://folk.ntnu.no/skoge/vgprosessregulering/) 
 
