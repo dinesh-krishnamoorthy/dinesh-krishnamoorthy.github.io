@@ -9,6 +9,8 @@ venue: 'Journal of Process Control (ADCHEM Special issue invited paper)'
 
 [Download paper here](http://folk.ntnu.no/dineshk/Papers/2019/JPC_Scenario%20Decomposition.pdf)
 
+[Download Matlab files here](http://folk.ntnu.no/dineshk/Papers/2018/CSTR_MultistageDK.zip)
+
 Abstract: 
 
 This paper proposes a primal decomposition algorithm for efficient computation
@@ -27,4 +29,4 @@ study
 
 
 
-Recommended citation: (In-Press).
+Cite paper as: Krishnamoorthy, D., Foss, B. and Skogestad, S., 2019. A Primal decomposition algorithm for distributed multistage scenario model predictive control. J. Proc. Control, Vol 81, pp 162-171. 
