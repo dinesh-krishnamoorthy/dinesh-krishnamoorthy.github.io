@@ -13,19 +13,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Chemical Engineering, Norwegian University of Science and Technology, 2019 (expected)
-* M.Sc. in Control Systems, Imperial College London, 2012
-* B.Engg (Hons.) in Mechatronics Engineering, University of Nottingham, 2011
+* 2016 - 2019: Ph.D. in Chemical Engineering, Norwegian University of Science and Technology.
+* 2011 - 2012: M.Sc. in Control Systems, Imperial College London.
+* 2008 - 2011: B.Engg (Hons.) in Mechatronics Engineering, University of Nottingham.
 
 Work experience
 ======
-* 2012 - : Senior Researcher - Equinor Research Center (formerly Statoil)
+* 2018 - 2019: Senior Researcher - Equinor Research Center (part time 20%)
+  * Process modelling, control and optimization
+* 2012 - 2016: Senior Researcher - Equinor Research Center (formerly Statoil)
   * Process modelling, control and optimization
 * 2019 : Visiting PhD Candidate, Carnegie Mellon University, Pittsburgh, USA 
 * 2010 : Applications Engineering Intern, National Instruments India
 
 Awards and Honours
 ======
+* 2020 : Dimitris N. Chorafas Outstanding PhD Thesis Award from NTNU
+* 2020 : EFCE Excellence in Computer Aided Process Engineering PhD thesis Award
+* 2020 : MDPI Post-doc Processes Travel Award
 * 2019 : NSF Travel Award, Foundations on Process Analytics and Machine Learning (FOPAM)
 * 2018 : IFAC-ABB Best student paper award
 * 2018 : IFAC ADCHEM Young author award finalist (top 3)
@@ -35,6 +40,7 @@ Awards and Honours
 
 Research Interests
 ======
+* Distributed optimization
 * Real-time Optimization and plant-wide control
 * Model Predictive Control under uncertainty
 * Machine learning based online process optimization
@@ -57,7 +63,9 @@ Membership of Scientific Societies
 
 Journal Publications
 ======
-*	Krishnamoorthy, D., Fjalestad, K. and Skogestad, S., 2019. Optimal Control of offshore oil and gas production using simple feedback controllers, _Control Engineering Practice_ (In-Press)
+* Krishnamoorthy, D.,  Skogestad, S., 2020 Systematic design of active constraint switching using selectors. _Comput. \& Chem. Eng._ (In-Press)
+* Krishnamoorthy, D., Biegler, L. and Jäschke, J., 2020 Adaptive Horizon Economic Nonlinear Model Predictive Control. _J. Proc. Control_, Vol 92, p.108-118.
+*	Krishnamoorthy, D., Fjalestad, K. and Skogestad, S., 2019. Optimal Control of offshore oil and gas production using simple feedback controllers, _Control Engineering Practice_ Vol 91, 104107.
 *	Krishnamoorthy, D., and Skogestad, S., 2019. Online process optimization with changes in active constraint sets using simple feedback control structures, _Ind. Eng. Chem. Res._ (In-Press). DOI: 10.1021/acs.iecr.9b00308 
 *	Krishnamoorthy, D., Foss, B. and Skogestad, S., 2018. A Primal decomposition algorithm for distributed multistage scenario model predictive control. _J. Proc. Control_, Vol 81, pp 162-171. 
 * Krishnamoorthy, D., Jahanshahi, E. and Skogestad, S., 2019. A feedback RTO strategy using Transient Measurements , _Ind. Eng. Chem. Res._ Vol 58 (1), p.207-216.
@@ -69,6 +77,8 @@ Journal Publications
 
 Peer-reviewed Conference Publications
 ======
+*	Krishnamoorthy, D.,Valli, C. and Skogestad, S., 2020. Real-time Optimal Resource Allocation in an Industrial Symbiotic Network using Transient Measurements. _Proceedings of the American Control Conference_ ,p. 3541-3546, Denver.
+* Krishnamoorthy, D. and Skogestad, S., 2020. Linear Combination of Gradients as Optimal Controlled Variables, _Computer aided chemical engineering_, (In-press).
 *	Krishnamoorthy, D., Jäschke, J. and Skogestad, S., 2019. Multistage Model Predictive Control with Online Scenario Tree Update using Recursive Bayesian Weighting, _Proceedings of the 2019 European Control Conference_, Naples, Italy (In-Press)
 *	Krishnamoorthy, D., Ryu, J. and Skogestad, S., 2019. Dynamic extremum seeking control applied to a gas lifted well network, _IFAC DYCOPS-CAB_, Florianopolis, Brazil (In-Press)
 *	Delou, P., Azevedo, J., Krishnamoorthy, D., de Souza Jr, M. and Secchi, A., 2019. Model Predictive Control with Recon_guration Strategy applied to an Electric Submersible Pump in a subsea environment, IFAC DYCOPS-CAB, Florianopolis, 
