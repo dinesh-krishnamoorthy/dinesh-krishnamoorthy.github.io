@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+* 10 Oct 2020 - Dinesh receives the [Dimitris N. Chorafas Foundation Award](https://www.weizmann.ac.il/feinberg/about/dimitris-n-chorafas-prize/about-foundation-and-prize) for best PhD thesis  at NTNU in 2019-20 across all scientific disciplines.
+* 27 Sept 2020 - Dinesh receives Excellence in [Computer Aided Process Engineering Award](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/) from the CAPE working party of the European Federation of Chemical Engineers (EFCE).
 * 07 Nov 2019 - Successfully defended PhD thesis entitled "[Novel Approaches to Online Process Optimization under Uncertainty](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)"
 * 16 June 2019 -  NSF Young Researcher Travel Award present his work at the [Foundations on Process Analytics and Machine learning](http://fopam.org/) meeting in Raleigh, NC. 
 * 17 May 2019 - Our paper submitted to Prof. Bonvin Festschrift in Industrial and Engineering Chemistry Research has been accepted for publication. [link](http://folk.ntnu.no/dineshk/Papers/2019/IndEngChemRed_Festschrift.pdf)
