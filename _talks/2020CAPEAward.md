@@ -1,7 +1,7 @@
 ---
 title: "CAPE PhD Award Lecture"
 collection: talks
-type: "Talk"
+type: "Invited Talk"
 permalink: /talks/2020CAPEAward
 venue: "30th European Symposium on Computer Aided Process Engineering (ESCAPE30)"
 date: 2020-09-05
