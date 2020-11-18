@@ -13,11 +13,12 @@ After completing my Masters degree in Control Systems from Imperial College Lond
 
 My research work was recognized with the [Dimitirs. N. Chorafas Foundation Award](https://www.weizmann.ac.il/feinberg/sites/feinberg/files/uploads/files/chorafas_winners_2020_by_year_and_univeristy.pdf) for best PhD thesis at NTNU in 2019-20 across all scientific disciplines, as well as  the [Excellence in Computer-Aided Process Engineering (CAPE) Award](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/) by the European Federation of Chemical Engineers (EFCE) for the best PhD thesis in the field of Process Systems Engineering between  2017-19. 
 
-I have  been actively collaborating with several research groups  including  DTU Compute on systems medicine, Braatz group at MIT on Bayesian optimization,  Mesbah lab at UC Berkeley and  Paulson lab at Ohio State University on Approximate MPC, Biegler lab at CMU on economic MPC among others. 
 My overall research objective is to  use mathematical techniques to develop rigorous decision-making  algorithms, focusing on smart systems for biomedical and advanced manufacturing applications.In particular, important research questions that I aim to address are:
 - How to cheaply and efficiently solve large-scale optimization problems? (distributed optimization)
 - How can real-time  data be used more efficiently for real-time decision making? (data-driven control)
 - What are  good problem formulations for real-time decision-making and how can we benefit from artificial intelligence? (AI for optimization)
+I have  been actively collaborating with several research groups  including  DTU Compute on systems medicine, Braatz group at MIT on Bayesian optimization,  Mesbah lab at UC Berkeley and  Paulson lab at Ohio State University on Approximate MPC, Biegler lab at CMU on economic MPC among others. 
+
 
 
 
