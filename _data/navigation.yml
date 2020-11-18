@@ -11,9 +11,6 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Supervision"
-    url: /supervision/
  
   - title: "News"
     url: /news/
