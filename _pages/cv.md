@@ -75,7 +75,7 @@ Journal Publications
 *	Krishnamoorthy, D., Foss, B. Suwartadi, E., Jäschke, J. and Skogestad, S., 2018. Improving Scenario Decomposition for Multistage MPC using a Sensitivity-based Path-following Algorithm, _IEEE Control System Letters_, Vol 2(4), p.581-586
 *	Krishnamoorthy, D., Foss, B. and Skogestad, S., 2016. Real-Time Optimization under Uncertainty Applied to a Gas Lifted Well Network. _Processes_, 4(4), p.52
 *	Straus, J., Krishnamoorthy, D. and Skogestad, S., 2019. Combining self-optimizing control and extremum seeking control - Applied to ammonia reactor case study, _J. Proc. Control._ Vol 78, pp.78-87.
-*	Jahanshahi, E., Krishnamoorthy, D., Codas, A., Foss, B. and Skogestad, S., 2019. Plantwide control of an oil production network, _Comput. & Chem. Eng._ (Submitted).
+*	Jahanshahi, E., Krishnamoorthy, D., Codas, A., Foss, B. and Skogestad, S., 2019. Plantwide control of an oil production network, _Comput. & Chem. Eng._ .
 
 Peer-reviewed Conference Publications
 ======
