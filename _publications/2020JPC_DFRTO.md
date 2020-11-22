@@ -4,7 +4,7 @@ title: "A Distributed Feedback-based Online Process Optimization Framework for O
 collection: publications
 permalink: '/publication/2020JPC_DFRTO'
 excerpt: ''
-date: 2020-08-01
+date: 2020-11-22
 venue: 'Computers and Chemcial Engineering'
 ---
 
