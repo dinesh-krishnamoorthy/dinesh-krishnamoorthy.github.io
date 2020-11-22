@@ -1,10 +1,10 @@
 ---
-title: "Optimal operation of oil and gas production using simple feedback control structures"
+title: "Adaptive horizon economic nonlinear model predictive control"
 collection: publications
 permalink: '/publication/2020JPC_CMU'
 excerpt: ''
-date: 2019-08-01
-venue: 'Control Engineering Practice'
+date: 2020-06-01
+venue: 'Journal of Process Control'
 ---
 
 
