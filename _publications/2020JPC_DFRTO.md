@@ -5,13 +5,13 @@ collection: publications
 permalink: '/publication/2020JPC_DFRTO'
 excerpt: ''
 date: 2020-11-22
-venue: 'Computers and Chemcial Engineering'
+venue: 'Journal of Process Control'
 ---
 
 
 [Download paper here](http://folk.ntnu.no/dineshk/Papers/DFRTO.pdf)
 
-[Published version]()
+[Published version](): To Appear
 
 ### Authors
  Dinesh Krishnamoorthy
