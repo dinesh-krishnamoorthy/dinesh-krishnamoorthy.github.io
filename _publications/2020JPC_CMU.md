@@ -11,6 +11,8 @@ venue: 'Journal of Process Control'
 [Download paper here](http://folk.ntnu.no/dineshk/Papers/2020/JPCCMU.pdf)
 
 [Published version](https://www.sciencedirect.com/science/article/pii/S0959152420302201)
+### Authors
+- Dinesh Krishnamoorthy, Lorenz T. Biegler, Johannes Jäschke
 
 ### Highlights
 - Computationally efficient economic NMPC formulation with adaptive horizon length.
