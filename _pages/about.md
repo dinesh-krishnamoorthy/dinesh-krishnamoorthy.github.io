@@ -21,6 +21,4 @@ My overall research objective is to  use mathematical techniques to develop rigo
 I have  been actively collaborating with several research groups  including  DTU Compute on systems medicine, Braatz group at MIT on Bayesian optimization,  Mesbah lab at UC Berkeley and  Paulson lab at Ohio State University on Approximate MPC, Biegler lab at CMU on economic MPC among others. 
 
 
-
-<a href="https://info.flagcounter.com/0V1v"><img src="https://s11.flagcounter.com/count2/0V1v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
+<a href="https://www.flagcounter.me/details/b63"><img src="https://www.flagcounter.me/b63/" alt="Flag Counter"></a>
