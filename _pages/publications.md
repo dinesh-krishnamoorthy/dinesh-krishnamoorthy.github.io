@@ -49,7 +49,7 @@ Peer-reviewed Conference Publications
 
 Patents
 ======
-*	Aske, E., **Krishnamoorthy, D.**, Fjalestad, K., Pavlov, A. and Fredriksen, M. 2014, Well Control system (WO2015070913A1, CA2930653A1, US20160290077A1, GB2535090B - granted)
-*	**Krishnamoorthy, D.** and Fjalestad, K. 2017, Estimating _ow rate at a pump (WO2017061873A1, CA3001234A1, GB2543048A)
+*	Aske, E., **Krishnamoorthy, D.**, Fjalestad, K., Pavlov, A. and Fredriksen, M. 2014, Well Control system (WO2015070913A1, CA2930653A1, US20160290077A1, GB2535090B - granted) [[link](https://patents.google.com/patent/US10125584B2/en)]
+*	**Krishnamoorthy, D.** and Fjalestad, K. 2017, Estimating flow rate at a pump (WO2017061873A1, CA3001234A1, GB2543048A) [[link](https://patents.google.com/patent/NO20180572A1/no)]
 
 
