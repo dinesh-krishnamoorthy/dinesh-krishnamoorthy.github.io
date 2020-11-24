@@ -10,9 +10,9 @@ author_profile: true
 Journal Publications
 ======
 * Krishnamoorthy, D., 2020 A Distributed Feedback-based Online Process Optimization Framework for Optimal
-		Resource Sharing _J. Proc. Control_, (To appear). [[pdf](http://folk.ntnu.no/dineshk/Papers/DFRTO.pdf)] [Published version]()
+		Resource Sharing _J. Proc. Control_, (To appear). [[pdf](http://folk.ntnu.no/dineshk/Papers/DFRTO.pdf)] 
 
-* Krishnamoorthy, D.,  Skogestad, S., 2020 Systematic design of active constraint switching using selectors. _Comput. \& Chem. Eng._ Vol. 143, p. 107106.
+* Krishnamoorthy, D.,  Skogestad, S., 2020 Systematic design of active constraint switching using selectors. _Comput. \& Chem. Eng._ Vol. 143, p. 107106. [[pdf](http://folk.ntnu.no/dineshk/Papers/selector_Main.pdf)] 
 * Krishnamoorthy, D., Biegler, L. and Jäschke, J., 2020 Adaptive Horizon Economic Nonlinear Model Predictive Control. _J. Proc. Control_, Vol 92, p.108-118.
 *	Krishnamoorthy, D., Fjalestad, K. and Skogestad, S., 2019. Optimal Control of offshore oil and gas production using simple feedback controllers, _Control Engineering Practice_ Vol 91, 104107.
 *	Krishnamoorthy, D., and Skogestad, S., 2019. Online process optimization with changes in active constraint sets using simple feedback control structures, _Ind. Eng. Chem. Res._ (In-Press). DOI: 10.1021/acs.iecr.9b00308 
