@@ -10,7 +10,7 @@ author_profile: true
 Journal Publications
 ======
 * Krishnamoorthy, D., 2020 A Distributed Feedback-based Online Process Optimization Framework for Optimal
-		Resource Sharing _J. Proc. Control_, (To appear). [PDF](http://folk.ntnu.no/dineshk/Papers/DFRTO.pdf) [Published version]()
+		Resource Sharing _J. Proc. Control_, (To appear). [[PDF](http://folk.ntnu.no/dineshk/Papers/DFRTO.pdf)] [Published version]()
 
 * Krishnamoorthy, D.,  Skogestad, S., 2020 Systematic design of active constraint switching using selectors. _Comput. \& Chem. Eng._ Vol. 143, p. 107106.
 * Krishnamoorthy, D., Biegler, L. and Jäschke, J., 2020 Adaptive Horizon Economic Nonlinear Model Predictive Control. _J. Proc. Control_, Vol 92, p.108-118.
