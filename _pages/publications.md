@@ -10,18 +10,18 @@ Journal Publications
 ======
 * **Krishnamoorthy, D.**, 2020 A Distributed Feedback-based Online Process Optimization Framework for Optimal
 		Resource Sharing _J. Proc. Control_, (To appear). [[pdf](http://folk.ntnu.no/dineshk/Papers/DFRTO.pdf)][[Code](https://github.com/dinesh-krishnamoorthy/Industrial-Symbiosis/tree/master/Feedback_DistRTO_AL)]
-
-* **Krishnamoorthy, D.**,  Skogestad, S., 2020 Systematic design of active constraint switching using selectors. _Comput. \& Chem. Eng._ Vol. 143, p. 107106. [[pdf](http://folk.ntnu.no/dineshk/Papers/2020/selector_Main.pdf)] [[Code](https://github.com/dinesh-krishnamoorthy/Feedback-based-RTO/tree/master/Selectors)]
+* **Krishnamoorthy, D.**,  Skogestad, S., 2020 Systematic design of active constraint switching using selectors. _Comput. & Chem. Eng._ Vol. 143, p. 107106. [[pdf](http://folk.ntnu.no/dineshk/Papers/2020/selector_Main.pdf)] [[Code](https://github.com/dinesh-krishnamoorthy/Feedback-based-RTO/tree/master/Selectors)]
 * **Krishnamoorthy, D.**, Biegler, L. and Jäschke, J., 2020 Adaptive Horizon Economic Nonlinear Model Predictive Control. _J. Proc. Control_, Vol 92, p.108-118. [[pdf](http://folk.ntnu.no/dineshk/Papers/2020/JPCCMU.pdf)] 
+*	Jahanshahi, E., **Krishnamoorthy, D.**, Codas, A., Foss, B. and Skogestad, S., 2020. Plantwide control of an oil production network, _Comput. & Chem. Eng._ .
 *	**Krishnamoorthy, D.**, Fjalestad, K. and Skogestad, S., 2019. Optimal Control of offshore oil and gas production using simple feedback controllers, _Control Engineering Practice_ Vol 91, 104107. [[pdf](http://folk.ntnu.no/dineshk/Papers/2019/ArtificialLift_Control.pdf)] [[Code](http://folk.ntnu.no/dineshk/Papers/2019/GasliftControl_6wells_CEP_2019.zip)]
 *	**Krishnamoorthy, D.**, and Skogestad, S., 2019. Online process optimization with changes in active constraint sets using simple feedback control structures, _Ind. Eng. Chem. Res._ Vol. 58, p.13555 - 13567. DOI: 10.1021/acs.iecr.9b00308 [[pdf](http://folk.ntnu.no/dineshk/Papers/2019/IndEngChemRed_Festschrift.pdf)] [[Code Example 1](http://folk.ntnu.no/dineshk/Papers/2019/Exothermic_CSTR.zip)], [[Code Example 2](http://folk.ntnu.no/dineshk/Papers/2019/Isothermal%20CSTR.zip)]
+*	Straus, J., **Krishnamoorthy, D.** and Skogestad, S., 2019. Combining self-optimizing control and extremum seeking control - Applied to ammonia reactor case study, _J. Proc. Control._ Vol 78, pp.78-87.[[pdf](http://folk.ntnu.no/dineshk/Papers/2019/JPC_SOC_ESC_Preprint.pdf)]
 *	**Krishnamoorthy, D.**, Foss, B. and Skogestad, S., 2018. A Primal decomposition algorithm for distributed multistage scenario model predictive control. _J. Proc. Control_, Vol 81, pp 162-171. [[pdf](http://folk.ntnu.no/dineshk/Papers/2019/JPC_Scenario%20Decomposition.pdf)] [[Code](http://folk.ntnu.no/dineshk/Papers/2018/CSTR_MultistageDK.zip)]
 * **Krishnamoorthy, D.**, Jahanshahi, E. and Skogestad, S., 2019. A feedback RTO strategy using Transient Measurements , _Ind. Eng. Chem. Res._ Vol 58 (1), p.207-216. [[pdf](http://folk.ntnu.no/dineshk/Papers/2019/IndEngChemRes_Feedback%20RTO.pdf)]
-*	**Krishnamoorthy, D.**, Foss, B. and Skogestad, S., 2018. Steady-State Real-time Optimization using Transient Measurements. _Comput. & Chem. Eng._, Vol 115, p.34-45
-*	**Krishnamoorthy, D.**, Foss, B. Suwartadi, E., Jäschke, J. and Skogestad, S., 2018. Improving Scenario Decomposition for Multistage MPC using a Sensitivity-based Path-following Algorithm, _IEEE Control System Letters_, Vol 2(4), p.581-586
-*	**Krishnamoorthy, D.**, Foss, B. and Skogestad, S., 2016. Real-Time Optimization under Uncertainty Applied to a Gas Lifted Well Network. _Processes_, 4(4), p.52
-*	Straus, J., **Krishnamoorthy, D.** and Skogestad, S., 2019. Combining self-optimizing control and extremum seeking control - Applied to ammonia reactor case study, _J. Proc. Control._ Vol 78, pp.78-87.
-*	Jahanshahi, E., **Krishnamoorthy, D.**, Codas, A., Foss, B. and Skogestad, S., 2019. Plantwide control of an oil production network, _Comput. & Chem. Eng._ .
+*	**Krishnamoorthy, D.**, Foss, B. and Skogestad, S., 2018. Steady-State Real-time Optimization using Transient Measurements. _Comput. & Chem. Eng._, Vol 115, p.34-45 [[pdf](http://folk.ntnu.no/dineshk/Papers/2018/Hybrid%20RTO_Computers%20and%20Chemical%20Engineering.pdf)]
+*	**Krishnamoorthy, D.**, Foss, B. Suwartadi, E., Jäschke, J. and Skogestad, S., 2018. Improving Scenario Decomposition for Multistage MPC using a Sensitivity-based Path-following Algorithm, _IEEE Control System Letters_, Vol 2(4), p.581-586 [[pdf](http://folk.ntnu.no/dineshk/Papers/2018/PrimalDecompQP_L-CSS.pdf)]
+*	**Krishnamoorthy, D.**, Foss, B. and Skogestad, S., 2016. Real-Time Optimization under Uncertainty Applied to a Gas Lifted Well Network. _Processes_, 4(4), p.52 [[pdf](https://www.mdpi.com/2227-9717/4/4/52)]
+
 
 Peer-reviewed Conference Publications
 ======
