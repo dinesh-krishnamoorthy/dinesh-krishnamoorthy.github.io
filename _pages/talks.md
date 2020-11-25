@@ -31,6 +31,5 @@ author_profile: true
 *	Krishnamoorthy, D., Pavlov, A., Aske, E., Fjalestad, K. and Fredriksen, M. Modelling and model predictive control of oil wells with electric submersible pumps, 19th Nordic Process Control Workshop, Trondheim-Bodø Norway, Jan 2015
 *	Krishnamoorthy, D., Pavlov, A., Aske, E., Fjalestad, K. and Fredriksen, M. Automatic Control of electric submersible pumps, Statoil ResPro Seminar, Stavanger, Jun 2013.
 
-
 <iframe src="https://www.google.com/maps/d/embed?mid=1GRCDuT1MyW-NOGd3qtu-OPZuMjL1YPCC&hl=en" width="640" height="480"></iframe>
 
