@@ -7,8 +7,8 @@ author_profile: true
 Thesis
 ======
 
-**Krishnamoorthy, D.**, 2019. Novel Approaches to Online Process Optimization under Uncertainty, PhD Thesis, NTNU. [[pdf](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)] [[slides](http://folk.ntnu.no/dineshk/Presentations/PhD%0defense_Dinesh.pdf)]2
-**Krishnamoorthy, D.**, 2012. Efficient Algorithm implementation of Model Predictive Control, MSc Thesis, Imperial College London.
+* **Krishnamoorthy, D.**, 2019. Novel Approaches to Online Process Optimization under Uncertainty, PhD Thesis, NTNU. [[pdf](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)] [[slides](http://folk.ntnu.no/dineshk/Presentations/PhD%0defense_Dinesh.pdf)]2
+* **Krishnamoorthy, D.**, 2012. Efficient Algorithm implementation of Model Predictive Control, MSc Thesis, Imperial College London.
 
 Journal Publications
 ======
