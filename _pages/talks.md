@@ -12,6 +12,7 @@ author_profile: true
 * Krishnamoorthy, D. A Brief Overview of online process optimization approaches, CAPE PhD Award Lecture, 30th European symposium on Computer Aided Process Engineering (ESCAPE), 31 Aug 2020 (Invited talk) [[Slides](http://folk.ntnu.no/dineshk/Presentations/CAPE%20Award%20Lecture.pdf)][[Video](https://youtu.be/O_1hDuIlhvA)][[PhD Thesis](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)]
 *	Krishnamoorthy, D., Achieving optimal operation without solving optimization problems, Virtual Seminar on Systems and Control at the Federal University of Rio de Janeiro, 20 Jul 2020 (Invited talk) [[Slides](http://folk.ntnu.no/dineshk/Presentations/Slides_COPPE_seminar.pdf)]
 * Krishnamoorthy, D. Online process optimization approaches under uncertainty, Technical University of Denmark, Kgs. Lyngby, Denmark (23 Jan 2020) (Invited talk) [[Slides](http://folk.ntnu.no/dineshk/Presentations/RTO%20workshop_DTU_Jan2020.pdf)]
+* Krishnamoorthy, D. Reinforcement Learning in Optimal Control. PhD Defence Trial Lecture, NTNU, 07 Nov 2019. [[slides](http://folk.ntnu.no/dineshk/Presentations/TrialLecture_RL_Dinesh%20Krishnamoorthy.pdf)]
 *	Krishnamoorthy, D., and Skogestad, S. Real-time optimization strategies using surrogate optimizers, AIChE Annual Meeting, Orlando, 9. Nov - 14.Nov 2019.
 *	Krishnamoorthy, D., and Skogestad, S. Adaptive horizon economic NMPC, AIChE Annual Meeting, Orlando, 9. Nov - 14.Nov 2019
 * Krishnamoorthy, D. Production optimization using simple control loops, Subsea Valley Conference, Oslo, 10 - 11 Apr 2019 (Invited talk)
