@@ -12,7 +12,7 @@ redirect_from:
 * 27 Sept 2020 - Dinesh receives Excellence in [Computer Aided Process Engineering Award](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/) from the CAPE working party of the European Federation of Chemical Engineers (EFCE).
 * 02 Aug 2020 - Peder Sather Research grant awarded together with Prof. Ali Mesbah at UC Berkeley (USD24k).
 * 21 Feb 2020 - Dinesh receives MDPI Processes [Post-Doc Travel Award](https://www.mdpi.com/journal/processes/awards.pdf/0/pdf_164_2020_1_award.pdf).
-* 07 Nov 2019 - Successfully defended PhD thesis entitled "[Novel Approaches to Online Process Optimization under Uncertainty](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)"
+* 07 Nov 2019 - Successfully defended PhD thesis entitled "[Novel Approaches to Online Process Optimization under Uncertainty](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)" [[photo](http://folk.ntnu.no/dineshk/Photos/PhD_Morari_JayLee.jpeg)]
 * 16 June 2019 -  Dinesh receives NSF Young Researcher Travel Award to present his work at the [Foundations on Process Analytics and Machine learning](http://fopam.org/) meeting in Raleigh, NC. 
 * 17 May 2019 - Our paper submitted to Prof. Bonvin Festschrift in Industrial and Engineering Chemistry Research has been accepted for publication. [link](http://folk.ntnu.no/dineshk/Papers/2019/IndEngChemRed_Festschrift.pdf)
 * 14 April 2019 - Special issue of Processes on "Real-time optimization of processes using simple control structures, economic MPC or machine learning." - Deadline: 15 Nov.2019 [link](https://www.mdpi.com/journal/processes/special_issues/real_time_process). 
