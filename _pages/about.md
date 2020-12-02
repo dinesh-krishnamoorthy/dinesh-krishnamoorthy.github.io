@@ -24,12 +24,10 @@ I have  been actively collaborating with several research groups  including  DTU
 
 
 <a class="twitter-timeline"
-  href="https://twitter.com/TwitterDev"
-  data-width="300"
-  data-height="300">
+  href="https://twitter.com/dinesh_kallur"
+  data-chrome="nofooter noborders">
 Tweets by @dinesh_kallur
 </a>
-
 
 
 <a href="https://info.flagcounter.com/0V1v"><img src="https://s11.flagcounter.com/count2/0V1v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
