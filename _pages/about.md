@@ -23,7 +23,12 @@ I have  been actively collaborating with several research groups  including  DTU
 
 
 
-
+<a class="twitter-timeline"
+  href="https://twitter.com/TwitterDev"
+  data-width="300"
+  data-height="300">
+Tweets by @dinesh_kallur
+</a>
 
 
 
