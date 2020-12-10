@@ -17,8 +17,8 @@ author_profile: true
 *	Krishnamoorthy, D., and Skogestad, S. Adaptive horizon economic NMPC, AIChE Annual Meeting, Orlando, 9. Nov - 14.Nov 2019 [[Slides](http://folk.ntnu.no/dineshk/Presentations/AHeNMPC.pdf)]
 * Krishnamoorthy, D. Production optimization using simple control loops, Subsea Valley Conference, Oslo, 10 - 11 Apr 2019 (Invited talk)
 *	P4 Skogestad, S. and Krishnamoorthy, D., An Overview and Evaluation of Approaches for Online Process Optimization, PSE Asia, (Invited opening plenary talk given by S. Skogestad), 16 -19 Jan 2019.
+*	Krishnamoorthy, D., Jäschke, J. An Efficient Distributed Algorithm for Multistage Scenario Model Predictive Control Using Primal Decomposition, AIChE Annual Meeting, Pittsburgh, 28. Oct - 2. Nov 2018. [[Slides](http://folk.ntnu.no/dineshk/Presentations/AIChE_MPC_slides.pdf)]
 *	Krishnamoorthy, D. and Skogestad, S. An Overview and Evaluation of Approaches for Online Process Optimization, AIChE Annual Meeting, Pittsburgh, 28. Oct - 2.Nov 2018.
-*	Krishnamoorthy, D., Jäschke, J. An Efficient Distributed Algorithm for Multistage Scenario Model Predictive Control Using Primal Decomposition, AIChE Annual Meeting, Pittsburgh, 28. Oct - 2. Nov 2018.
 *	Krishnamoorthy, D. and Skogestad, S. An Overview and Evaluation of Approaches for Online Process Optimization, 1st Workshop on Advanced Methods for Control and Estimation of Dynamical Systems (AMCEDS), Shanghai Tech University, China, 23. Jul 2018 (Invited Keynote presented by S. Skogestad).
 *	Krishnamoorthy, D., Overview of Real-time optimization approaches under uncertainty, Federal university of Rio de Jenerio (UFRJ-COPPE), May 2018. (Guest Lecture)
 *	Krishnamoorthy, D., Efficient production optimization strategies using transient measurements, VII Brazil-Norway Production Optimization workshop, Rio De Jenerio, May 2018. (Invited talk)
