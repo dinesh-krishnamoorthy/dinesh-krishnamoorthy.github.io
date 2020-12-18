@@ -19,6 +19,7 @@ Education
 
 Work experience
 ======
+* 2020 - 2021: Senior Data Scientist - Novo Nordisk (External Consultant)
 * 2018 - 2019: Senior Researcher - Equinor Research Center (part time 20%)
   * Process modelling, control and optimization
 * 2012 - 2016: Senior Researcher - Equinor Research Center (formerly Statoil)
