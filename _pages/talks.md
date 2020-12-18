@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-
+* Krishnamoorthy, D., Optimal resource sharing in Industrial Symbiosis - Towards sustainable manufacturing. Invited talk at the Digitalization, Artificial Intelligence and Related Technologies for Energy Efficiency and GHG Emissions Reduction in Industry Seminar,  Dec 2020. [[Slides]()]
 * Krishnamoorthy, D., On the interplay between Optimization and Machine learning, and the role of Sensitivities, Invited Talk at the Data Analytics and Intelligent Systems Lab, Unibersity of British Columbia (UBC), Nov 2020. [[Slides](http://folk.ntnu.no/dineshk/Presentations/Optimization_ML.pdf)][[Video](https://www.youtube.com/watch?v=6wMR3fw5Uv4&ab_channel=DineshKrishnamoorthy)][[Related Paper1](https://arxiv.org/abs/2009.07398)][[Related Paper2](https://arxiv.org/abs/2009.05845)]
 * Krishnamoorthy, D., Open Challenges in the Optimization of Industrial Symbiotic Systems, Future Innovations in Process Systems Engineering (FIPSE 5), Crete, Greece, 17 - 19 Jul 2021. (Invited talk)
 *	Krishnamoorthy, D., and Sandeep Prakash, Real-time Optimal Resource Allocation in an Industrial Symbiotic Network using ADMM, AIChE Annual Meeting, San Francisco, Nov 2020. [[Video](https://www.youtube.com/watch?v=UV82GkfsyM4&ab_channel=DineshKrishnamoorthy)][[iPoster](https://ann20-aiche.ipostersessions.com/default.aspx?s=3A-FD-9B-DC-49-E0-38-46-FB-78-72-B8-67-70-92-E2)]
