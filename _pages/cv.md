@@ -61,4 +61,4 @@ Membership of Scientific Societies
 ======
 * 2018-present:	Affiliate Member, International Federation of Automatic Control (IFAC)
 * 2018- present:	IFAC Technical Committee Member of subsection TC2.4 Optimal Control 
-* 2017-present:	Member, American Institute of Chemical Engineers (AIChE)
+* 2017-present:	Senior Member, American Institute of Chemical Engineers (AIChE)
