@@ -60,7 +60,7 @@ Service and leadership
 Membership of Scientific Societies
 ======
 * 2018-present:	Affiliate Member, International Federation of Automatic Control (IFAC)
-  * IFAC Technical Committee Member of subsection TC2.4 Optimal Control, TC6.1 Process Control
+  * Memeber of subsections, TC2.4 Optimal Control and TC6.1 Process Control
 * 2018- present:	Member, Institute of Electrical and Electonic Engineers (IEEE) 
   * IEEE Control Systems Society (CSS) member
 * 2017-present:	Senior Member, American Institute of Chemical Engineers (AIChE)
