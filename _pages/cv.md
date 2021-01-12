@@ -31,6 +31,7 @@ Awards and Honours
 ======
 * 2020 : Dimitris N. Chorafas Outstanding PhD Thesis Award 
 * 2020 : EFCE Excellence in Computer Aided Process Engineering (CAPE) PhD thesis Award
+* 2020 : Faculty of Natural Sciences Best PhD Thesis Award, NTNU 
 * 2020 : MDPI Post-doc Processes Travel Award
 * 2019 : NSF Travel Award, Foundations on Process Analytics and Machine Learning (FOPAM)
 * 2018 : IFAC-ABB Best student paper award
