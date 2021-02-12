@@ -29,6 +29,16 @@ Journal Publications
 
 Peer-reviewed Conference Publications
 ======
+	
+* **Krishnamoorthy, D.**, Mesbah, A., Paulson, J., 2020. An Adaptive Correction Scheme for Offset-Free Asymptotic Performance in
+		Deep Learning-based Economic MPC. _IFAC ADCHEM 2021_, In-Press.
+* Dirza, R., Skogestad,S.,  **Krishnamoorthy, D.**, Optimal Resource Allocation using Distributed Feedback
+		Real-time Optimization. _IFAC ADCHEM 2021_, In-Press. (Keynote paper)
+* **Krishnamoorthy, D.**, Dimitri Boiroux, Tinna Björk Aradottir, Sarah Ellinor Engell and John Bagterp Jørgensen, 2021. A Model-free Approach to Automatic Dose Guidance in Long Acting Insulin Treatment of Type 2 Diabetes. 
+  _Proceedings of the 2020 American Control Conference_, In-Press.
+* Mdoe, Z., **Krishnamoorthy, D.**, and Jäschke,J., 2020. Adaptive Horizon Multistage Nonlinear Model Predictive Control. _Proceedings of the 2020 American Control Conference_, In-Press.	
+  _Proceedings of the 2020 American Control Conference_, In-Press.	
+* Prakash, S.,  **Krishnamoorthy, D.**, and Jäschke,J., Multi-scenario Design Optimization using ADMM of a Thermal Energy Storage system. _Computer aided chemical engineering_ (ESCAPE 31), In-press.
 *	**Krishnamoorthy, D.**,Valli, C. and Skogestad, S., 2020. Real-time Optimal Resource Allocation in an Industrial Symbiotic Network using Transient Measurements. _Proceedings of the American Control Conference_ ,p. 3541-3546, Denver. [[pdf](http://folk.ntnu.no/dineshk/Papers/2020/ACC2020.pdf)][[Video](https://youtu.be/aoDmXLjO_Kw)]
 * **Krishnamoorthy, D.** and Skogestad, S., 2020. Linear Combination of Gradients as Optimal Controlled Variables, _Computer aided chemical engineering_, (In-press). [[pdf](http://folk.ntnu.no/dineshk/Papers/2020/ESCAPE30.pdf)]
 *	**Krishnamoorthy, D.**, Jäschke, J. and Skogestad, S., 2019. Multistage Model Predictive Control with Online Scenario Tree Update using Recursive Bayesian Weighting, _Proceedings of the 2019 European Control Conference_, Naples, Italy [[pdf](http://folk.ntnu.no/dineshk/Papers/2019/ECC2019.pdf)][[Slides](http://folk.ntnu.no/dineshk/Presentations/ECC2019.pdf)]
