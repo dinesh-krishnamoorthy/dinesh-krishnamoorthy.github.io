@@ -18,7 +18,7 @@ My overall research objective is to  use mathematical techniques to develop rigo
 - How can real-time  data be used more efficiently for real-time decision making? (data-driven control)
 - What are  good problem formulations for real-time decision-making and how can we benefit from artificial intelligence? (AI for optimization)
 
-I have  been actively collaborating with several research groups  including  DTU Compute on systems medicine, Braatz group at MIT on Bayesian optimization,  Mesbah lab at UC Berkeley and  Paulson lab at Ohio State University on Approximate MPC, Biegler lab at CMU on economic MPC among others. 
+I have  been actively collaborating with several research groups  including  DTU Compute on systems medicine,  Mesbah lab at UC Berkeley and  Paulson lab at Ohio State University on Approximate MPC, Biegler lab at CMU on economic MPC among others. 
 
 ![Digital Process Operations](Digital_Process_Operations2.png "Digital Process Operations")
 
