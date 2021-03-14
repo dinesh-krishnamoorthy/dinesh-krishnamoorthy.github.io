@@ -49,10 +49,8 @@ Research Interests
 
 Service and leadership
 ======
-* 2019 : Co-guest editor, Processes special issue on "Real-time Process Optimization with Simple Control Structures, Economic MPC or Machine Learning"
 * 2019 : Workshop organizer, IFAC DYCOPS pre-symposium workshop on online process optimization, Florainopolis, Brazil
 * 2018 : Program Committee, 7th Brazil-Norway Production optimization workshop, Rio de Janeiro, Brazil
-* 2018 : Acting Associate Editor, 3rd IFAC Workshop on Automatic Control in Offshore Oil and Gas Prodcution, Esbjerg, Denmark
 * 2017 : Associate Editor, 1st IEEE Conference on Control Technology and Applications, Hawaai, USA
 * 2014- : Reviewer of several IEEE CSS and IFAC contributed papers
 * 2018- : Reviwer of peer-reviewed journal papers
