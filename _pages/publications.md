@@ -12,9 +12,9 @@ Theses
 
 Preprints
 ======
-* **Krishnamoorthy, D.**, 2020. Sensitivity-based Data Augmentation for Learning an Approximate Model Predictive Controller. _arXiv:2009.07398_. [[pdf](https://arxiv.org/pdf/2009.07398.pdf)]
-* **Krishnamoorthy, D.** and Kungurtsev, V., 2020. A Sensitivity-assisted Alternating Directions Method of Multipliers for Distributed Optimization and Statistical Learning,  _arXiv:2009.05845_. [[pdf](https://arxiv.org/pdf/2009.05845.pdf)]
-* **Krishnamoorthy, D.**, 2021. On the Design and Analysis of Multivariable Extremum Seeking Control using Fast Fourier Transform. _arXiv:2104.14365_ [[pdf](https://arxiv.org/pdf/2104.14365.pdf)]
+* **Krishnamoorthy, D.**, 2020. Sensitivity-based Data Augmentation for Learning an Approximate Model Predictive Controller. _arXiv:2009.07398_. [[pdf](https://arxiv.org/pdf/2009.07398.pdf)][[code](https://github.com/dinesh-krishnamoorthy/Sensitivity-DataAugmentation)]
+* **Krishnamoorthy, D.** and Kungurtsev, V., 2020. A Sensitivity-assisted Alternating Directions Method of Multipliers for Distributed Optimization and Statistical Learning,  _arXiv:2009.05845_. [[pdf](https://arxiv.org/pdf/2009.05845.pdf)][[code](https://github.com/dinesh-krishnamoorthy/sADMM)]
+* **Krishnamoorthy, D.**, 2021. On the Design and Analysis of Multivariable Extremum Seeking Control using Fast Fourier Transform. _arXiv:2104.14365_ [[pdf](https://arxiv.org/pdf/2104.14365.pdf)][[code](https://github.com/dinesh-krishnamoorthy/Extremum-Seeking-FFT)]
 * **Krishnamoorthy, D.** and Skogestad, S., 2021. Real-Time Optimization as a Feedback Control Problem - A Review. _Invited  paper in connection to the Excellence in CAPE PhD thesis award._
 
 
