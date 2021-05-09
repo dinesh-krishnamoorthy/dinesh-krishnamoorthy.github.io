@@ -10,6 +10,14 @@ Theses
 * **Krishnamoorthy, D.**, 2019. Novel Approaches to Online Process Optimization under Uncertainty, PhD Thesis, NTNU. [[pdf](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)] [[slides](http://folk.ntnu.no/dineshk/Presentations/PhD%20defense_Dinesh.pdf)]
 * **Krishnamoorthy, D.**, 2012. Efficient Algorithm implementation of Model Predictive Control, MSc Thesis, Imperial College London. [[pdf](http://folk.ntnu.no/dineshk/Research/Krishnamoorthy_Dinesh_Effective%20Algorithm%20Implementaion%20of%20predictive%20control.pdf)][[slides](http://folk.ntnu.no/dineshk/Research/MSc%20final%20Presentation.pdf)]
 
+Preprints
+======
+* **Krishnamoorthy, D.**, 2020. Sensitivity-based Data Augmentation for Learning an Approximate Model Predictive Controller. _arXiv:2009.07398_. [[pdf](https://arxiv.org/pdf/2009.07398.pdf)]
+* **Krishnamoorthy, D.** and Kungurtsev, V., 2020. A Sensitivity-assisted Alternating Directions Method of Multipliers for Distributed Optimization and Statistical Learning,  _arXiv:2009.05845_. [[pdf](https://arxiv.org/pdf/2009.05845.pdf)]
+		\item \textbf{Krishnamoorthy, D.}, 2021. On the Design and Analysis of Multivariable Extremum Seeking Control using Fast Fourier Transform. _arXiv:2104.14365_ [[pdf](https://arxiv.org/pdf/2104.14365.pdf)]
+* **Krishnamoorthy, D.** and Skogestad, S., 2021. Real-Time Optimization as a Feedback Control Problem - A Review. _Invited  paper in connection to the Excellence in CAPE PhD thesis award._
+
+
 Journal Publications
 ======
 * **Krishnamoorthy, D.**, 2021. A Distributed Feedback-based Online Process Optimization Framework for Optimal Resource Sharing. _J. Proc. Control_, Vol 97, p.72-83. [[pdf](http://folk.ntnu.no/dineshk/Papers/DFRTO.pdf)][[Code](https://github.com/dinesh-krishnamoorthy/Industrial-Symbiosis/tree/master/Feedback_DistRTO_AL)]
