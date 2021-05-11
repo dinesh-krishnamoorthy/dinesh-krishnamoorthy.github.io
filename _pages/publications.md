@@ -39,7 +39,7 @@ Peer-reviewed Conference Publications
 ======
 	
 * **Krishnamoorthy, D.**, Mesbah, A., Paulson, J., 2020. An Adaptive Correction Scheme for Offset-Free Asymptotic Performance in
-		Deep Learning-based Economic MPC. _IFAC ADCHEM 2021_, In-Press. [[pdf](https://www.dropbox.com/s/a8bv7whf3uul91i/offsetfreeDNNMPC_main.pdf?dl=0)][[slides](https://www.dropbox.com/s/yc3a6jwmbsk8ok7/OffsetFreeApproxMPC.pdf?dl=0)]
+		Deep Learning-based Economic MPC. _IFAC ADCHEM 2021_, In-Press. [[pdf](https://www.dropbox.com/s/a8bv7whf3uul91i/offsetfreeDNNMPC_main.pdf?dl=0)][[slides](https://www.dropbox.com/s/yc3a6jwmbsk8ok7/OffsetFreeApproxMPC.pdf?dl=0)][[video](https://youtu.be/wLHgtb_emcM)]
 * Dirza, R., Skogestad,S.,  **Krishnamoorthy, D.**, Optimal Resource Allocation using Distributed Feedback
 		Real-time Optimization. _IFAC ADCHEM 2021_, In-Press. (Keynote paper) [[pdf](https://www.dropbox.com/s/9bj6bewyn18v6ll/DFTRO_ADCHEM.pdf?dl=0)][[slides](https://www.dropbox.com/s/1bxrz074yyck47h/DFRTO.pdf?dl=0)]
 * **Krishnamoorthy, D.**, Dimitri Boiroux, Tinna Björk Aradottir, Sarah Ellinor Engell and John Bagterp Jørgensen, 2021. A Model-free Approach to Automatic Dose Guidance in Long Acting Insulin Treatment of Type 2 Diabetes. 
