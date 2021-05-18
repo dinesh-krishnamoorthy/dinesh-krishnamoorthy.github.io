@@ -41,7 +41,7 @@ Peer-reviewed Conference Publications
 * **Krishnamoorthy, D.**, Mesbah, A., Paulson, J., 2020. An Adaptive Correction Scheme for Offset-Free Asymptotic Performance in
 		Deep Learning-based Economic MPC. _IFAC ADCHEM 2021_, In-Press. [[pdf](https://www.dropbox.com/s/a8bv7whf3uul91i/offsetfreeDNNMPC_main.pdf?dl=0)][[slides](https://www.dropbox.com/s/yc3a6jwmbsk8ok7/OffsetFreeApproxMPC.pdf?dl=0)][[video](https://youtu.be/wLHgtb_emcM)]
 * Dirza, R., Skogestad,S.,  **Krishnamoorthy, D.**, Optimal Resource Allocation using Distributed Feedback
-		Real-time Optimization. _IFAC ADCHEM 2021_, In-Press. (Keynote paper) [[pdf](https://www.dropbox.com/s/9bj6bewyn18v6ll/DFTRO_ADCHEM.pdf?dl=0)][[slides](https://www.dropbox.com/s/1bxrz074yyck47h/DFRTO.pdf?dl=0)][[keynote talk](https://youtu.be/PUBxAXKOiG4)]
+		Real-time Optimization. _IFAC ADCHEM 2021_, In-Press. (Keynote paper) [[pdf](https://www.dropbox.com/s/9bj6bewyn18v6ll/DFTRO_ADCHEM.pdf?dl=0)][[slides](https://www.dropbox.com/s/or0lbn13kyfgfv9/DFRTO_v2.pdf?dl=0)][[keynote talk](https://youtu.be/PUBxAXKOiG4)]
 * **Krishnamoorthy, D.**, Dimitri Boiroux, Tinna Björk Aradottir, Sarah Ellinor Engell and John Bagterp Jørgensen, 2021. A Model-free Approach to Automatic Dose Guidance in Long Acting Insulin Treatment of Type 2 Diabetes. 
   _Proceedings of the 2020 American Control Conference_, In-Press. [[pdf](http://folk.ntnu.no/dineshk/Papers/2020/T2D.pdf)][[slides](https://www.dropbox.com/s/mqvlsjep0yhyz3b/T2D.pdf?dl=0)]
 * Mdoe, Z., **Krishnamoorthy, D.**, and Jäschke,J., 2020. Adaptive Horizon Multistage Nonlinear Model Predictive Control. _Proceedings of the 2020 American Control Conference_, In-Press. [[pdf](https://www.dropbox.com/s/zui40176l4ow4jw/ACC21_0625_FI.pdf?dl=0)]		
