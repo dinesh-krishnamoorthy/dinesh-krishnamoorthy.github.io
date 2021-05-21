@@ -30,7 +30,7 @@ Work experience
 Awards and Honours
 ======
 * 2020 : Dimitris N. Chorafas Outstanding PhD Thesis Award [[link](https://www.weizmann.ac.il/feinberg/sites/feinberg/files/uploads/files/chorafas_winners_2020_by_year_and_univeristy.pdf)]
-* 2020 : EFCE Excellence in Computer Aided Process Engineering (CAPE) PhD thesis Award [[link](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/)]
+* 2020 : EFCE Excellence in Computer Aided Process Engineering (CAPE) PhD thesis Award [[link](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/)][[link](https://efce.info/Awards/Excellence+Awards_Young+Researcher+Awards/Excellence+Award+in+CAPE/Award+winners.html)]
 * 2020 : Faculty of Natural Sciences Best PhD Thesis Award, NTNU [[link](https://www.youtube.com/watch?v=QuHFnoTiy-k&ab_channel=NTNUFakultetfornaturvitenskap)]
 * 2020 : MDPI Post-doc Processes Travel Award [[link](https://www.mdpi.com/journal/processes/awards.pdf/0/pdf_164_2020_1_award.pdf)]
 * 2019 : NSF Travel Award, Foundations on Process Analytics and Machine Learning (FOPAM)
