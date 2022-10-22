@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<span class="publications">
+<div class="publications",markdown="1">
 	
 Theses
 ======
