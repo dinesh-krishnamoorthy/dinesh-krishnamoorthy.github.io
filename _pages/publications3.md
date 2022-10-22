@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default2
 permalink: /publications/
 title: publications
 description: publications by categories in reversed chronological order. 
