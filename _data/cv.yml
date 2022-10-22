@@ -16,7 +16,7 @@
       description:
         - Novel Appeoaches to Online Process Optimization under Uncertainty
         - Doctoral Advisor - Prof. Sigurd Skogestad
-        - Date of Defense: 07 Nov 2019
+        - Date of Defense - 07 Nov 2019
         
     - title: Imperial College London
       institution: MSc Control Systems (Distinction)
@@ -96,39 +96,28 @@
   contents:
     - year: 2020
       items: 
-        - title: Dimitris N. Chorafas Prize (as one of 35 worldwide)
-          contents:
-            - Dimitris N. Chorafas Foundation
-        - title: EFCE Excellence Award on Computer Aided Process Engineering (CAPE) PhD Award
-          contents:
-            - European Federation of Chemical Engineers (EFCE)
-        - title: Best PhD Thesis Award
-          contents: NTNU Faculty of Natural Sciences
-        - title: Post-doc Travel Award
-          contents: Processes
-  
-            
+        - Dimitris N. Chorafas Prize (as one of 35 worldwide)
+        - EFCE Excellence Award on Computer Aided Process Engineering (CAPE) PhD Award
+        - NTNU Faculty of Natural Sciences Best PhD Thesis Award
+        - Processes Post-doc Travel Award
+       
     - year: 2019
       items: 
         - NSF Young Researcher Travel Award
      
     - year: 2018
       items: 
-       - title: IFAC Young Author Award
-         contents: IFAC OOGP
-       - title: IFAC Young Author Award Finalist (top 3) and Keynote. speaker
-         contents: IFAC ADCHEM
+       -  IFAC Young Author Award, IFAC OOGP
+       -  IFAC Young Author Award Finalist (top 3) and Keynote speaker, IFAC ADCHEM
                 
    - year: 2008 - 2011
       items: 
-        - title: Graduating Student Award for Outstanding Academic Performance
-         contents: University of Nottingham
-       
+        - University of Nottingham Graduating Student Award for Outstanding Academic Performance
              
     - year: 2008 - 2011
       items: 
-        - title: High Achievers Scholarship (Three consequtive years)
-         contents: University of Nottingham
+        - University of Nottingham High Achievers Scholarship (Three consequtive years)
+       
         
 - title: Academic Interests
   type: nested_list
