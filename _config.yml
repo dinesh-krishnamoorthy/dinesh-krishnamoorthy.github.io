@@ -67,11 +67,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: "dinesh-krishnamoorthy"# your GitHub user name
+github_username: "dinesh-krishnamoorthy" # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: "@dinesh_kallur"# your Twitter handle
+twitter_username: "@dinesh_kallur" # your Twitter handle
 linkedin_username: "https://www.linkedin.com/in/dinesh-krishnamoorthy-ntnu/" # your LinkedIn user name
-scholar_userid: "https://scholar.google.com/citations?user=AHUrS0EAAAAJ&hl=en"# your Google Scholar ID
+scholar_userid: "https://scholar.google.com/citations?user=AHUrS0EAAAAJ&hl=en" # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id:  "https://orcid.org/0000-0002-9947-8690" # your ORCID ID
 medium_username: # your Medium username
