@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: publications by categories in reversed chronological order. 
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
 Theses
