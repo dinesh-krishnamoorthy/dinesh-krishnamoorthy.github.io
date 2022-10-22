@@ -7,7 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-
+<span class="publications">
+	
 Theses
 ======
 
@@ -97,5 +98,5 @@ Press, Media, and others
 * Report on Age-dependent Epidemiological model of COVID-19 to assist policy makers in Norway - Communicated to the Director-General of the Norwegian Institute of Public Health ([NIPH](https://www.fhi.no/en/)) on 23 March 2020 (National Lockdown announed on 12 March 2020). [[link](https://www.dropbox.com/s/2gfb7fi63mbhc2v/COVID19_Age%20dependant%20restrictions_DineshK.pdf?dl=0)]
 
 
-<!-- _pages/publications.md -->
-<div class="publications">
+
+
