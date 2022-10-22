@@ -26,7 +26,6 @@
       institution: B.Engg (Hons.) Mechatronics Engineering - First class (Top rank)
       year: 2011
     
-
 - title: Academic Appointments
   type: time_table
   contents:
@@ -48,7 +47,7 @@
       institution: Norwegian University of Science and Technology, Norway
       year: 2019 - 2021
       
- - title: Industrial Experience
+- title: Industrial Experience
   type: time_table
   contents:
     - title: Senior Data Scientist
@@ -72,7 +71,7 @@
       description:
         - Production Optimization 
         
-  - title: Secondary Academic Appointments
+- title: Secondary Academic Appointments
   type: time_table
   contents:
     - title: Research Affiliate
