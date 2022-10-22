@@ -97,15 +97,29 @@
     - year: 2020
       items: 
         - Dimitris N. Chorafas Prize (as one of 35 worldwide)
-        
-    - year: 2020
-      items: 
         - EFCE Excellence Award on Computer Aided Process Engineering (CAPE) PhD Award
-        
-    - year: 2020
-      items: 
+          - European Federation of Chemical Engineers (EFCE)
         - NTNU Faculty of Natural Sciences Best PhD Thesis Award
-
+          - NTNU
+        - Processes Post-doc Travel Award
+            
+    - year: 2019
+      items: 
+        - NSF Young Researcher Travel Award
+     
+    - year: 2018
+      items: 
+        - IFAC Young Author Award, IFAC OOGP
+        - IFAC Young Author Award Finalist (top 3) & Keynote speaker, IFAC ADCHEM
+             
+    - year: 2011
+      items: 
+        - Graduating Student Award for Outstanding Academic Performance
+             
+    - year: 2008 - 2011
+      items: 
+        - High Achievers Scholarship (Three consequtive years)
+        
 - title: Academic Interests
   type: nested_list
   contents:
