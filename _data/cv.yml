@@ -96,12 +96,17 @@
   contents:
     - year: 2020
       items: 
-        - Dimitris N. Chorafas Prize (as one of 35 worldwide)
-        - EFCE Excellence Award on Computer Aided Process Engineering (CAPE) PhD Award
-          - European Federation of Chemical Engineers (EFCE)
-        - NTNU Faculty of Natural Sciences Best PhD Thesis Award
-          - NTNU
-        - Processes Post-doc Travel Award
+       - title: Dimitris N. Chorafas Prize (as one of 35 worldwide)
+          contents:
+            - Dimitris N. Chorafas Foundation
+        - title: EFCE Excellence Award on Computer Aided Process Engineering (CAPE) PhD Award
+          contents:
+            - European Federation of Chemical Engineers (EFCE)
+        - title: Best PhD Thesis Award
+          contents: NTNU Faculty of Natural Sciences
+        - title: Post-doc Travel Award
+          contents: Processes
+  
             
     - year: 2019
       items: 
@@ -109,16 +114,21 @@
      
     - year: 2018
       items: 
-        - IFAC Young Author Award, IFAC OOGP
-        - IFAC Young Author Award Finalist (top 3) & Keynote speaker, IFAC ADCHEM
-             
-    - year: 2011
+       - title: IFAC Young Author Award
+         contents: IFAC OOGP
+       - title: IFAC Young Author Award Finalist (top 3) and Keynote. speaker
+         contents: IFAC ADCHEM
+                
+   - year: 2008 - 2011
       items: 
-        - Graduating Student Award for Outstanding Academic Performance
+        - title: Graduating Student Award for Outstanding Academic Performance
+         contents: University of Nottingham
+       
              
     - year: 2008 - 2011
       items: 
-        - High Achievers Scholarship (Three consequtive years)
+        - title: High Achievers Scholarship (Three consequtive years)
+         contents: University of Nottingham
         
 - title: Academic Interests
   type: nested_list
