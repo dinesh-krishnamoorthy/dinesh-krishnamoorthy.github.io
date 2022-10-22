@@ -2,82 +2,110 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Dinesh Krishnamoorthy
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 26 December 1990
+  
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Norwegian University of Science and Technology (NTNU)
+      institution: PhD in Chemical Engineering
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Novel Appeoaches to Online Process Optimization under Uncertainty
+        - Doctoral Advisor - Prof. Sigurd Skogestad
+        - Date of Defense: 07 Nov 2019
+        
+    - title: Imperial College London
+      institution: MSc Control Systems (Distinction)
+      year: 2012
+    
+    - title: University of Nottingham
+      institution: B.Engg (Hons.) Mechatronics Engineering - First class (Top rank)
+      year: 2011
+    
 
-- title: Experience
+- title: Academic Appointments
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assitant Professor of Control Systems Technology
+      institution: Eindhoven University of Technology (TU/e), The Netherlands
+      year: 2022 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Department of Mechanical Engineering
+        
+        
+    - title: Post-doctoral Fellow
+      institution: Harvard University, USA
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Doyle Lab, Harvard John A. Paulson School of Engineering and Applied Sciences
+       
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+    - title: Post-doctoral Fellow
+      institution: Norwegian University of Science and Technology, Norway
+      year: 2019 - 2021
+      
+ - title: Industrial Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Senior Data Scientist
+      institution: Novo Nordisk A/S, Denmark
+      year: 2020 - 2021 
+      description:
+        - Device R&D
+        - External Consusltant  (0.2 FTE)
+        
+        
+    - title: Senior Researcher
+      institution: Equinor Research Center, Norway
+      year: 2018 - 2019
+      description:
+        - Production Optimization (0.2 FTE)
+       
 
+    - title: Senior Researcher
+      institution: Equinor Research Center, Norway
+      year: 2012 - 2016
+      description:
+        - Production Optimization 
+        
+  - title: Secondary Academic Appointments
+  type: time_table
+  contents:
+    - title: Research Affiliate
+      institution: Harvard University, USA
+      year: 2022 - 
+
+    - title: Visiting Researcher
+      institution: Technical University of Denmark (DTU), Denmark
+      year: 2020
+      description:
+        - DTU Compute, Department of Applied Mathematics and Computer Science 
+
+    - title: Visiting Researcher
+      institution: Carnegie Mellon University, USA
+      year: 2019
+      description:
+        - Biegler Lab, Department of Chemical Engineering
+
+    
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Dimitris N. Chorafas Prize (as one of 35 worldwide)
+        
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - EFCE Excellence Award on Computer Aided Process Engineering (CAPE) PhD Award
+        
+    - year: 2020
+      items: 
+        - NTNU Faculty of Natural Sciences Best PhD Thesis Award
 
 - title: Academic Interests
   type: nested_list
