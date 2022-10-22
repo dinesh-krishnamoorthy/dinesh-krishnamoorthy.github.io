@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor, Eindhoven University of Technology (TU/e)
 
 profile:
   align: right
   image: NTNUsubproDinesh-6419v2 (2).jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Gemini Zuid</p>
     <p>Groen Loeper</p>
