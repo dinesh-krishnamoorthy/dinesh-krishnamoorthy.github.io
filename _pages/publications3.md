@@ -1,7 +1,7 @@
 ---
 layout: none
-permalink: /publications3/
-title: publications3
+permalink: /publications/
+title: publications
 description: publications by categories in reversed chronological order. 
 nav: true
 nav_order: 2
