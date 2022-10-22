@@ -116,4 +116,57 @@
     - year: 2008 - 2011
       items: 
         - University of Nottingham High Achievers Scholarship (Three consequtive years)
-   
+        
+- title: Professional Service
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Associate Editor, IFAC World Congress, Yokohama, Japan
+        - Associate Editor, Euopean Control Conference (ECC), Buchartest, Romanaia
+        
+    - year: 2022
+      items: 
+        - International Program Committee, IEEE Symposium on Advanced Control of Industrial Processes (AdCONIP), Vancouver, Canada
+        - Session chair for CAST division 10B & 10C, AIChE Annual meeting, Pheonix, AZ
+        
+    - year: 2021
+      items: 
+        - Session chair for CAST division 10B & 10C, AIChE Annual meeting, Boston, MA
+        
+    - year: 2020
+      items: 
+        - Session chair for CAST division 10B & 10C, AIChE Annual meeting, San Fransisco, CA
+        - Undergraduate Student Poster Competition Judge, AIChE Annual meeting, San Fransisco, CA
+        - Workshop organizer, IFAC ACODS pre-symposium conference, Chennai, India
+        
+    - year: 2019
+      items: 
+        - Workshop organizer, Workshop on Open Challenges in Online Process Optimization, Trondheim, Norway
+        - Workshop organizer, IFAC DYCOPS pre-symposium conference, Florianopolis, Brazil
+        - Undergraduate Student Poster Competition Judge, AIChE Annual meeting, San Fransisco, CA
+            
+    - year: 2018
+      items: 
+        - Program Committee, 7th Brazil-Norway Production Optimization Workshop, Rio de Janeiro, Brazil
+            
+    - year: 2017
+      items: 
+        - Associate Editor, IEEE Conference on Control Technology and Applications (CCTA), Hawaii, USA
+    
+        
+    - year: 2014 - 
+      items: 
+        - Reviewer of several Journal and conference papers 
+        
+  
+     
+- title: Professional Membership
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - Affiliate Member, International Federation of Automatic Control (IFAC)
+        - Member, IEEE Control Systems Society (CSS) 
+        - Senior Member, American Institute of Chemical Engineers
+        
