@@ -1,11 +1,13 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /publications3/
+title: publications3
 description: publications by categories in reversed chronological order. 
 nav: true
 nav_order: 2
 ---
+
+<div class="publications">
 
 
 
