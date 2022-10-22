@@ -106,31 +106,14 @@
      
     - year: 2018
       items: 
-        -  IFAC Young Author Award, IFAC OOGP
-        -  IFAC Young Author Award Finalist (top 3) and Keynote speaker, IFAC ADCHEM
+        - IFAC Young Author Award, IFAC OOGP
+        - IFAC Young Author Award Finalist (top 3) and Keynote speaker, IFAC ADCHEM
                 
-   - year: 2008 - 2011
+   - year: 2008
       items: 
         - University of Nottingham Graduating Student Award for Outstanding Academic Performance
              
-    - year: 2008 - 2011
+   - year: 2008 - 2011
       items: 
         - University of Nottingham High Achievers Scholarship (Three consequtive years)
-       
-        
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Distributed control and optimization 
-      items: 
-        - Fast Distributed optimization
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+   
