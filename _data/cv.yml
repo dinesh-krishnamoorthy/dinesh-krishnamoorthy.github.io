@@ -96,7 +96,7 @@
   contents:
     - year: 2020
       items: 
-       - title: Dimitris N. Chorafas Prize (as one of 35 worldwide)
+        - title: Dimitris N. Chorafas Prize (as one of 35 worldwide)
           contents:
             - Dimitris N. Chorafas Foundation
         - title: EFCE Excellence Award on Computer Aided Process Engineering (CAPE) PhD Award
@@ -133,9 +133,9 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Distributed control and optimization 
       items: 
-        - Description 1.
+        - Fast Distributed optimization
         - Description 2.
     - title: Topic 2.
       items:
