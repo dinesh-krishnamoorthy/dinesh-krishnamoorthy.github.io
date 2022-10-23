@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: news
@@ -6,6 +5,7 @@ permalink: /news/
 nav: true
 nav_order: 5
 ---
+
 
 * [Open invited track](https://www.ifac2023.org/submission/open-invited-track-list/#Recent%20Advances%20in%20Automated%20Learning%20and%20Calibration%20of%20MPC%20Policies) at IFAC World congress 2023
 * 12 Feb 2021 - Paper entitled "Optimal Resource Allocation using Distributed Feedback Real-time Optimization" has been accepted as a Keynote paper at [IFAC ADCHEM 2021](https://www.adchem2021.org/). 
