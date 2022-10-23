@@ -5,7 +5,7 @@ permalink: /
 subtitle: Assistant Professor, Eindhoven University of Technology (TU/e)
 
 profile:
-  align: right
+  align: left
   image: NTNUsubproDinesh-6419v2 (2).jpeg
   image_circular: false # crops the image to make it circular
   address: >
