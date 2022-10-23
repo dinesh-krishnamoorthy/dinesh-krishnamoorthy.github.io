@@ -1,11 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Dinesh Krishnamoorthy
-    - name: Date of Birth
-      value: 26 December 1990
-  
 
 - title: Education
   type: time_table
