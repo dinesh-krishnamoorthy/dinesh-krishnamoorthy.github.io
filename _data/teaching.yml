@@ -1,0 +1,41 @@
+     
+- title: Courses
+  type: time_table
+  contents:
+    - year: 2021
+      items: 
+        - Lecturer and Course coordinator - [KP3100] Chemical Engineering, NTNU
+        
+    - year: 2020
+      items: 
+        - Lecturer and Course coordinator - [KP3100] Chemical Engineering, NTNU
+        - Lecturer - [KP8115] Advanced Process Control, NTNU
+        
+    - year: 2019
+      items: 
+        - Lecturer - [KP8115] Advanced Process Control, NTNU
+          
+    - year: 2018
+      items: 
+        - Teaching Assistant - [KP8115] Advanced Process Control, NTNU
+        
+        
+- title: Short courses 
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - Lecturer - Numerical Optimal Control - Federal University of Rio de Janeiro
+       
+     
+- title: Supervision
+  type: time_table
+  contents:
+    - year: 2019 - 
+      items: 
+        - Co-supervisor for 2 PhD Students 
+        
+    - year: 2017 - 
+      items: 
+        - Co-supervisor for 9 Master Students 
+        
