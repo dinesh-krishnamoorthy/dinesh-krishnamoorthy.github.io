@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: teaching
 permalink: /teaching/
 title: teaching
 nav: true
