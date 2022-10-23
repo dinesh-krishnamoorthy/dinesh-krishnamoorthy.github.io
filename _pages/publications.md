@@ -73,3 +73,16 @@ nav_order: 2
 *	**Krishnamoorthy, D.**, Pavlov, A. and Li, Q., 2016. Robust Extremum Seeking Control with application to Gas Lifted Oil Wells. IFAC-PapersOnLine, 49(13), pp.205-210.[[pdf](http://folk.ntnu.no/dineshk/Papers/2016/ALCOSP_Submitted.pdf)]
 *	**Krishnamoorthy, D.**, Bergheim, E.M., Pavlov, A., Fredriksen, M. and Fjalestad, K., 2016. Modelling and Robustness Analysis of Model Predictive Control for Electrical Submersible Pump Lifted Heavy Oil Wells. IFAC-PapersOnLine, 49(7), pp.544-549 (IFAC DYCOPS, Trondheim, Norway). [[pdf](http://folk.ntnu.no/dineshk/Papers/2016/DYCOPS_final.pdf)]
 *	Pavlov, A., **Krishnamoorthy, D.**, Fjalestad, K., Aske, E. and Fredriksen, M., 2014, October. Modelling and model predictive control of oil wells with electric submersible pumps. IEEE Conference on Control Applications (pp. 586-592). (Antibes, France)
+
+
+### Patents
+
+* **Krishnamoorthy, D.**, and Doyle III, F.J. 2022, System and Methods for Individualized Bolus Calculations. US serial no. 63/338,363.
+*	Aske, E., **Krishnamoorthy, D.**, Fjalestad, K., Pavlov, A. and Fredriksen, M. 2014, Well Control system (WO2015070913A1, CA2930653A1, US20160290077A1, GB2535090B - granted) [[link](https://patents.google.com/patent/US10125584B2/en)]
+*	**Krishnamoorthy, D.** and Fjalestad, K. 2017, Estimating flow rate at a pump (WO2017061873A1, CA3001234A1, GB2543048A,RU2737055C2 - granted) [[link](https://patents.google.com/patent/NO20180572A1/no)]
+
+### Press, Media, and others
+
+* Article on Universitets Avisa (in Norwegian) interviewing me in connection to my PhD Excellence Award.  [[link](https://www.universitetsavisa.no/forskning/hvordan-skal-ntnu-bli-et-bedre-forskningsuniversitet/103076)]
+* Contribution to the Biography on Prof. Jens G. Balchen titled, _Altid Rabiat_ by Gard Paulsen (In Norwegian) [[link](https://www.dropbox.com/s/xk3xxr8jka82y32/Alltid%20Rabiat_foreword.pdf?dl=0)][[link to book](https://www.alltidrabiat.no/)]
+* Report on Age-dependent Epidemiological model of COVID-19 to assist policy makers in Norway - Communicated to the Director-General of the Norwegian Institute of Public Health ([NIPH](https://www.fhi.no/en/)) on 23 March 2020 (National Lockdown announed on 12 March 2020). [[link](https://www.dropbox.com/s/2gfb7fi63mbhc2v/COVID19_Age%20dependant%20restrictions_DineshK.pdf?dl=0)]
