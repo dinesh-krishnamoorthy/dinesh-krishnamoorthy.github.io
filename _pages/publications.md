@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 	
-###Theses
+### Theses
 ======
 
 * **Krishnamoorthy, D.**, 2019. Novel Approaches to Online Process Optimization under Uncertainty, PhD Thesis, NTNU. [[pdf](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)] [[slides](http://folk.ntnu.no/dineshk/Presentations/PhD%20defense_Dinesh.pdf)]
