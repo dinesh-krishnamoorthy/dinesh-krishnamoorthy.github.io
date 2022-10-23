@@ -9,10 +9,10 @@ profile:
   image: NTNUsubproDinesh-6419v2 (2).jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Mechanical Engineering </p>
+    <p> Mechanical Engineering </p>
     <p>Gemini Zuid</p>
     <p>Eindhoven, 5600 MB</p>
-    <p>e-mail: d (dot) krishnamoorthy (at) tue (dot) nl</p>
+    
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
