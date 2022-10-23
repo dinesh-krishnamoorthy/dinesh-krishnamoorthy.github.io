@@ -14,7 +14,7 @@ nav_order: 2
 * **Krishnamoorthy, D.**, 2012. Efficient Algorithm implementation of Model Predictive Control, MSc Thesis, Imperial College London. [[pdf](http://folk.ntnu.no/dineshk/Research/Krishnamoorthy_Dinesh_Effective%20Algorithm%20Implementaion%20of%20predictive%20control.pdf)][[slides](http://folk.ntnu.no/dineshk/Research/MSc%20final%20Presentation.pdf)]
 
 
-###Preprints
+### Preprints
 ======
 
 * **Krishnamoorthy, D.** and Kungurtsev, V. A Sensitivity-assisted Alternating Directions Method of Multipliers for Distributed Optimization and Statistical Learning,  _arXiv:2009.05845_. [[pdf](https://arxiv.org/pdf/2009.05845.pdf)][[code](https://github.com/dinesh-krishnamoorthy/sADMM)]
@@ -24,7 +24,7 @@ nav_order: 2
 
 
 
-###Journal Publications
+### Journal Publications
 ======
 * **Krishnamoorthy, D.**, 2022. A Sensitivity-based Data Augmentation for Model Predictive Controller Policy Approximation. _IEEE Transactions on Automatic Control_, DOI:10.1109/TAC.2021.3124983 (In-Press). [[pdf](https://arxiv.org/pdf/2009.07398.pdf)][[code](https://github.com/dinesh-krishnamoorthy/Sensitivity-DataAugmentation)]
 * Dirza, R., Matias, J., Skogestad, S., and **Krishnamoorthy, D**. 2022. Experimental validation of distributed feedback-based RTO, _Control Engineering Practice_ (In-Press).[[pdf](https://www.dropbox.com/s/z9xmgslsw6jic22/DFRTO_ExperimentalValidation.pdf?dl=0)]
@@ -45,7 +45,7 @@ nav_order: 2
 *	**Krishnamoorthy, D.**, Foss, B. and Skogestad, S., 2016. Real-Time Optimization under Uncertainty Applied to a Gas Lifted Well Network. _Processes_, 4(4), p.52 [[pdf](https://www.mdpi.com/2227-9717/4/4/52)]
 
 
-###Peer-reviewed Conference Publications
+### Peer-reviewed Conference Publications
 ======
 * **Krishnamoorthy, D.** and Kungurtsev, V., 2022. A Sensitivity-assisted Alternating Directions Method of Multipliers for Distributed Optimization, _Proceedings of the 2022 IEEE Conference on Decision and Control_, Cancun, Mexico. [[pdf](https://www.dropbox.com/s/yrn67za9hpzw7n0/main_sADMM_CDC22.pdf?dl=0)]
 * **Krishnamoorthy, D.** and Doyle III, F. J., 2022. Safe Bayesian Optimization using Interior-Point Methods - Applied to Personalized Insulin Dose Guidance. _Proceedings of the 2022 IEEE Conference on Decision and Control_, Cancun, Mexico. [[pdf](https://www.dropbox.com/s/ftywntsundtt78h/Main_ConstrainedBayesOpt.pdf?dl=0)]
@@ -84,13 +84,13 @@ nav_order: 2
 *	**Krishnamoorthy, D.**, Bergheim, E.M., Pavlov, A., Fredriksen, M. and Fjalestad, K., 2016. Modelling and Robustness Analysis of Model Predictive Control for Electrical Submersible Pump Lifted Heavy Oil Wells. IFAC-PapersOnLine, 49(7), pp.544-549 (IFAC DYCOPS, Trondheim, Norway). [[pdf](http://folk.ntnu.no/dineshk/Papers/2016/DYCOPS_final.pdf)]
 *	Pavlov, A., **Krishnamoorthy, D.**, Fjalestad, K., Aske, E. and Fredriksen, M., 2014, October. Modelling and model predictive control of oil wells with electric submersible pumps. IEEE Conference on Control Applications (pp. 586-592). (Antibes, France)
 
-###Patents
+### Patents
 ======
 * **Krishnamoorthy, D.**, and Doyle III, F.J. 2022, System and Methods for Individualized Bolus Calculations. US serial no. 63/338,363.
 *	Aske, E., **Krishnamoorthy, D.**, Fjalestad, K., Pavlov, A. and Fredriksen, M. 2014, Well Control system (WO2015070913A1, CA2930653A1, US20160290077A1, GB2535090B - granted) [[link](https://patents.google.com/patent/US10125584B2/en)]
 *	**Krishnamoorthy, D.** and Fjalestad, K. 2017, Estimating flow rate at a pump (WO2017061873A1, CA3001234A1, GB2543048A,RU2737055C2 - granted) [[link](https://patents.google.com/patent/NO20180572A1/no)]
 
-###Press, Media, and others
+### Press, Media, and others
 ======
 * Article on Universitets Avisa (in Norwegian) interviewing me in connection to my PhD Excellence Award.  [[link](https://www.universitetsavisa.no/forskning/hvordan-skal-ntnu-bli-et-bedre-forskningsuniversitet/103076)]
 * Contribution to the Biography on Prof. Jens G. Balchen titled, _Altid Rabiat_ by Gard Paulsen (In Norwegian) [[link](https://www.dropbox.com/s/xk3xxr8jka82y32/Alltid%20Rabiat_foreword.pdf?dl=0)][[link to book](https://www.alltidrabiat.no/)]
