@@ -9,8 +9,10 @@ profile:
   image: NTNUsubproDinesh-6419v2 (2).jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Eindhoven </p>
-    <p>The Netherlands</p>
+    <p>Department of Mechanical Engineering </p>
+    <p>Gemini Zuid</p>
+    <p>Eindhoven, 5600 MB</p>
+    <p>e-mail: d (dot) krishnamoorthy (at) tue (dot) nl</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -23,7 +25,7 @@ Dinesh Krishnamoorthy is an Assistant professor at the Department of Mechanical 
 
 He was a post-doctoral researcher at Harvard John A. Paulson School of Engineering and Applied Sciences. Dinesh received his PhD in Process Systems Engineering from the Norwegian University of Science and Technology (NTNU), MSc in Control Systems from Imperial College London, and B.Eng in Mechatronics from the University of Nottingham. 
 
-Dinesh also has more than four years of industrial research experience. He was working as a Senior Researcher at Statoil Research centre, Norway between 2012-2016, and was also a part-time Senior Data Science consultant for Novo Nordisk R\&D (2021). 
+Dinesh also has more than four years of industrial research experience. He was working as a Senior Researcher at Statoil Research centre, Norway between 2012-2016, and was also a part-time Senior Data Science consultant for Novo Nordisk R&D (2021). 
 
 Dinesh is the recipient of the [Dimitirs. N. Chorafas Foundation Award](https://www.weizmann.ac.il/feinberg/sites/feinberg/files/uploads/files/chorafas_winners_2020_by_year_and_univeristy.pdf) (as one of 35 worldwide), [Excellence in Computer-Aided Process Engineering (CAPE) PhD Award](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/) by the European Federation of Chemical Engineers (EFCE), [NTNU Faculty of Natural Sciences Best PhD Thesis Award](https://www.youtube.com/watch?v=QuHFnoTiy-k&ab_channel=NTNUFakultetfornaturvitenskap), as well as IFAC Young author award. 
 
