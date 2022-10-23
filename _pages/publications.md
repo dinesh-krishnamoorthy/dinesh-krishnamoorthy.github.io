@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: none
 title: publications
 permalink: /publications/
 
@@ -8,7 +8,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
+<!-- _pages/publications.md -->
+<div class="publications">
+	
 Theses
 ======
 
