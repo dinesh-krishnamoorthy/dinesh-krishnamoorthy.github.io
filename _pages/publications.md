@@ -16,7 +16,7 @@ nav_order: 2
 
 ### Journal Publications
 
-* **Krishnamoorthy, D.** and Doyle III, F. J., 2022.  Safe and Personalized Meal Bolus Calculator for Type-1 Diabetes using Bayesian Optimization. _IEEE Transactions on Biomedical Engineering_ (In-Press). [[pdf](https://www.dropbox.com/s/zjmp8uzozj3lqsl/main_BolusCalculator.pdf?dl=0)]
+* **Krishnamoorthy, D.** and Doyle III, F. J., 2022.  Safe and Personalized Meal Bolus Calculator for Type-1 Diabetes using Bayesian Optimization. _IEEE Transactions on Biomedical Engineering_ 10.1109/TBME.2022.3219370 (In-Press). [[pdf](https://www.dropbox.com/s/zjmp8uzozj3lqsl/main_BolusCalculator.pdf?dl=0)]
 * **Krishnamoorthy, D.**, 2022. A Sensitivity-based Data Augmentation for Model Predictive Controller Policy Approximation. _IEEE Transactions on Automatic Control_, DOI:10.1109/TAC.2021.3124983 (In-Press). [[pdf](https://arxiv.org/pdf/2009.07398.pdf)][[code](https://github.com/dinesh-krishnamoorthy/Sensitivity-DataAugmentation)]
 * Dirza, R., Matias, J., Skogestad, S., and **Krishnamoorthy, D**. 2022. Experimental validation of distributed feedback-based RTO, _Control Engineering Practice_ Vol 126, p. 105253.[[pdf](https://www.dropbox.com/s/z9xmgslsw6jic22/DFRTO_ExperimentalValidation.pdf?dl=0)]
 * **Krishnamoorthy, D.** and Doyle III, F. J., 2022. Safe Bayesian Optimization using Interior-Point Methods - Applied to Personalized Insulin Dose Guidance. _IEEE Control System Letters_ Vol. 6, p. 2834 - 2839. [[pdf](https://arxiv.org/pdf/2205.02327.pdf)][[extended version](https://arxiv.org/abs/2205.02327)]
