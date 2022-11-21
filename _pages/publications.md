@@ -38,7 +38,7 @@ nav_order: 2
 
 ### Peer-reviewed Conference Publications
 
-* **Krishnamoorthy, D.** and Kungurtsev, V., 2022. A Sensitivity-assisted Alternating Directions Method of Multipliers for Distributed Optimization, _Proceedings of the 2022 IEEE Conference on Decision and Control_, Cancun, Mexico. [[pdf](https://www.dropbox.com/s/yrn67za9hpzw7n0/main_sADMM_CDC22.pdf?dl=0)]
+* **Krishnamoorthy, D.** and Kungurtsev, V., 2022. A Sensitivity-assisted Alternating Directions Method of Multipliers for Distributed Optimization, _Proceedings of the 2022 IEEE Conference on Decision and Control_, Cancun, Mexico. [[pdf](https://www.dropbox.com/s/yrn67za9hpzw7n0/main_sADMM_CDC22.pdf?dl=0)][[video](https://youtu.be/3nTpb3SDLK8)]
 * **Krishnamoorthy, D.** and Doyle III, F. J., 2022. Safe Bayesian Optimization using Interior-Point Methods - Applied to Personalized Insulin Dose Guidance. _Proceedings of the 2022 IEEE Conference on Decision and Control_, Cancun, Mexico. [[pdf](https://www.dropbox.com/s/ftywntsundtt78h/Main_ConstrainedBayesOpt.pdf?dl=0)]
 * **Krishnamoorthy, D.** and Doyle III, F. J., 2022. Personalized Dose Guidance using Safe Bayesian Optimization. _NeurIPS 2022 Workshop on Learning from Time Series for Health_, New Orleans, USA. (Spotlight paper)
 * **Krishnamoorthy, D.** and Doyle III, F. J., 2022. Personalized Dose Guidance using Safe Bayesian Optimization. _2022 Machine Learning for Health (ML4H)_, New Orleans, USA. [[pdf](https://www.dropbox.com/s/bnolvzlj0rjjtwd/pmlr-sample.pdf?dl=0)]
