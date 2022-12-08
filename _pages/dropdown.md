@@ -10,6 +10,8 @@ children:
     - title: divider
     - title: TU/e Mechanical Engineering 
       permalink: https://www.tue.nl/en/our-university/departments/mechanical-engineering/the-department/
-    
+    - title: divider
+    - title: DIFFER
+      permalink:https://www.differ.nl/
     
 ---
