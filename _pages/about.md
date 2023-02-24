@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p> Mechanical Engineering </p>
-    <p>Gemini Zuid</p>
+    <p>Gemini Zuid, Room 0.132</p>
     <p>Eindhoven, 5600 MB</p>
     
 
