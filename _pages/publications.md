@@ -38,7 +38,7 @@ nav_order: 2
 
 
 ### Peer-reviewed Conference Publications
-* **Krishnamoorthy, D.**, 2023. On Tuning Parameterized Control Policies Online for Safety-Critical Systems – Applied to Biomedical Systems, _IFAC World Congress_, Yokohama, Japan (In-Press).
+* **Krishnamoorthy, D.**, 2023. On Tuning Parameterized Control Policies Online for Safety-Critical Systems – Applied to Biomedical Systems, _IFAC World Congress_, Yokohama, Japan (In-Press). [[pdf](https://www.dropbox.com/s/fe8ta54a2qps0ga/BO_tuning_final.pdf?dl=0)]
 * **Krishnamoorthy, D.** and Paulson, J., 2023. Multi-agent Black-box Optimization using a Bayesian Approach to Alternating Direction Method of Multipliers, _IFAC World Congress_, Yokohama, Japan (In-Press).
 * **Krishnamoorthy, D.**, 2023. Optimizing Surplus Heat Recovery using Fast Fourier Transform-based Extremum Seeking Control, _IFAC World Congress_, Yokohama, Japan (In-Press).
 * Aas, V., Dirza, R., **Krishnamoorthy, D.**, Skogestad, S., 2023. A comparative study of distributed feedback-optimizing control strategies, _Computer-aided Chemical Engineering_, (in-Press).
