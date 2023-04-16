@@ -38,7 +38,10 @@ nav_order: 2
 
 
 ### Peer-reviewed Conference Publications
-
+* **Krishnamoorthy, D.**, 2023. On Tuning Parameterized Control Policies Online for Safety-Critical Systems – Applied to Biomedical Systems, _IFAC World Congress_, Yokohama, Japan (In-Press).
+* **Krishnamoorthy, D.** and Paulson, J., 2023. Multi-agent Black-box Optimization using a Bayesian Approach to Alternating Direction Method of Multipliers, _IFAC World Congress_, Yokohama, Japan (In-Press).
+* **Krishnamoorthy, D.**, 2023. Optimizing Surplus Heat Recovery using Fast Fourier Transform-based Extremum Seeking Control, _IFAC World Congress_, Yokohama, Japan (In-Press).
+* Aas, V., Dirza, R., **Krishnamoorthy, D.**, Skogestad, S., 2023. A comparative study of distributed feedback-optimizing control strategies, _Computer-aided Chemical Engineering_, (in-Press).
 * **Krishnamoorthy, D.** and Kungurtsev, V., 2022. A Sensitivity-assisted Alternating Directions Method of Multipliers for Distributed Optimization, _Proceedings of the 2022 IEEE Conference on Decision and Control_, Cancun, Mexico. [[pdf](https://www.dropbox.com/s/yrn67za9hpzw7n0/main_sADMM_CDC22.pdf?dl=0)][[video](https://youtu.be/3nTpb3SDLK8)]
 * **Krishnamoorthy, D.** and Doyle III, F. J., 2022. Safe Bayesian Optimization using Interior-Point Methods - Applied to Personalized Insulin Dose Guidance. _Proceedings of the 2022 IEEE Conference on Decision and Control_, Cancun, Mexico. [[pdf](https://www.dropbox.com/s/ftywntsundtt78h/Main_ConstrainedBayesOpt.pdf?dl=0)]
 * **Krishnamoorthy, D.** and Doyle III, F. J., 2022. Personalized Dose Guidance using Safe Bayesian Optimization. _NeurIPS 2022 Workshop on Learning from Time Series for Health_, New Orleans, USA. (Spotlight paper)
