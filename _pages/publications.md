@@ -15,7 +15,7 @@ nav_order: 2
 
 
 ### Journal Publications
-* Mdoe, Z., **Krishnamoorthy, D.**, Jäschke, J. 2023. Stability Properties of the Adaptive Horizon Multi-Stage MPC. _ Journal of Process Control_ (In-Press). [pdf]
+* Mdoe, Z., **Krishnamoorthy, D.**, Jäschke, J. 2023. Stability Properties of the Adaptive Horizon Multi-Stage MPC. _Journal of Process Control_ (In-Press). [pdf]
 * **Krishnamoorthy, D.** and Doyle III, F. J., 2022.  Safe and Personalized Meal Bolus Calculator for Type-1 Diabetes using Bayesian Optimization. _IEEE Transactions on Biomedical Engineering_, DOI:10.1109/TBME.2022.3219370 (In-Press). [[pdf](https://www.dropbox.com/s/zjmp8uzozj3lqsl/main_BolusCalculator.pdf?dl=0)][[video](https://youtu.be/VMV64__1I8A)]
 * **Krishnamoorthy, D.**, 2022. A Sensitivity-based Data Augmentation for Model Predictive Controller Policy Approximation. _IEEE Transactions on Automatic Control_, DOI:10.1109/TAC.2021.3124983 (In-Press). [[pdf](https://arxiv.org/pdf/2009.07398.pdf)][[code](https://github.com/dinesh-krishnamoorthy/Sensitivity-DataAugmentation)]
 * Dirza, R., Matias, J., Skogestad, S., and **Krishnamoorthy, D**. 2022. Experimental validation of distributed feedback-based RTO, _Control Engineering Practice_ Vol 126, p. 105253.[[pdf](https://reader.elsevier.com/reader/sd/pii/S0967066122001216?token=6171E5F7B9136069037E89EE8D0970210D288557A578D4EF3BC1E9FC322AA92BDB87A96AD453A6A61EF1D6E774DA8D41&originRegion=us-east-1&originCreation=20221208214212)]
