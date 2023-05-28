@@ -16,6 +16,7 @@ nav_order: 2
 
 ### Journal Publications
 * **Krishnamoorthy, D.**, 2023. An Improved Data Augmentation Scheme for Model Predictive Control Policy Approximation, _IEEE Control System Letters_ (In-Press) [[pdf](https://arxiv.org/abs/2303.05607)]
+* Orrico, C. A., van Berkel, M., Bosman, T., Heemels, W.P.M.H., **Krishnamoorthy, D.**, 2023. Mixed-Integer MPC Strategies for Fueling and Density Control in Fusion Tokamaks, _IEEE Control System Letters_ (In-Press) [pdf]
 * Mdoe, Z., **Krishnamoorthy, D.**, Jäschke, J. 2023. Stability Properties of the Adaptive Horizon Multi-Stage MPC. _Journal of Process Control_ (In-Press). [pdf]
 * **Krishnamoorthy, D.** and Doyle III, F. J., 2022.  Safe and Personalized Meal Bolus Calculator for Type-1 Diabetes using Bayesian Optimization. _IEEE Transactions on Biomedical Engineering_, DOI:10.1109/TBME.2022.3219370 (In-Press). [[pdf](https://www.dropbox.com/s/zjmp8uzozj3lqsl/main_BolusCalculator.pdf?dl=0)][[video](https://youtu.be/VMV64__1I8A)]
 * **Krishnamoorthy, D.**, 2022. A Sensitivity-based Data Augmentation for Model Predictive Controller Policy Approximation. _IEEE Transactions on Automatic Control_, DOI:10.1109/TAC.2021.3124983 (In-Press). [[pdf](https://arxiv.org/pdf/2009.07398.pdf)][[code](https://github.com/dinesh-krishnamoorthy/Sensitivity-DataAugmentation)]
