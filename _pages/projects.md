@@ -6,7 +6,7 @@ nav: false
 ---
 
 <details>
-  <summary> Project 1: Multiagent Black-box optimization </summary>
+  <summary> ## Project 1: Multiagent Black-box optimization </summary>
   
   
  
