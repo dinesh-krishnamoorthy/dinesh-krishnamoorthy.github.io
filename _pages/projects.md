@@ -6,7 +6,7 @@ nav: false
 ---
 
 <details>
-  #<summary> Project 1: Multiagent Black-box optimization </summary>
+  <summary> Project 1: Multiagent Black-box optimization </summary>
   
 Multiagent decision-making arises where a collection of agents collaborate to achieve a common goal. Such problems commonly arise in many smart infrastructure systems such as in collaborative robotics, vehicle fleets, eco industrial parks etc. Here each agent takes its own local decision, but the agent’s actions and decisions may be inter-dependent through common variables or shared constraints.  
 
@@ -20,15 +20,15 @@ The main aim of this project is to develop a decomposable Bayesian optimization 
 *	Investigate different decomposition strategies 
 *	Perform simulation studies on a vehicle platooning problem.
 
-Prerequisites
+### Prerequisites
 *	Passionate about optimization and willingness to explore and learn new concepts 
 *	Basic understanding of optimization (it would help if you have taken the 4DM20 course).
 
 
 Please send me an e-mail at d.krishnamoorthy@tue.nl if you want to know more about this topic. 
 
-Reference:
-* Krishnamoorthy, D. and Paulson, J., 2023. Multi-agent Black-box Optimization using a Bayesian Approach to Alternating Direction Method of Multipliers, IFAC World Congress, Yokohama, Japan.
+### Reference:
+1. Krishnamoorthy, D. and Paulson, J., 2023. Multi-agent Black-box Optimization using a Bayesian Approach to Alternating Direction Method of Multipliers, IFAC World Congress, Yokohama, Japan.
   
 </details>
 
@@ -42,18 +42,18 @@ Due to the interdependencies among subsystems, the MPC subproblems must communic
 
 While the subproblems solved between consecutive iterations are not identical, they only differ based on the newly received information from other agents. Leveraging this fact, this project will exploit the parametric sensitivities to efficiently compute the subproblem solution using solutions obtained from previous iterations, instead of repeatedly solving the numerical optimization problem at each iteration. Learning-based MPC methods to handle this challenge in distributed MPC will also be studied.
 
-Tasks
+### Tasks
 *	Literature study on distributed MPC
 *	Formulate a distributed MPC problem and improve its computation time by exploiting its sensitivities
 *	Perform a simulation study on a large-scale multi-agent system.
 
-Prerequisites
+### Prerequisites
 *	Passionate about MPC and optimization and willingness to explore and learn new concepts 
 *	Basic understanding of optimization and MPC (it would help if you have taken these courses: 4DM20, 5LMB0)
 
 Please send me an e-mail at d.krishnamoorthy@tue.nl if you want to know more about this topic, along with your CV and transcript of records. 
 
-  References
+### References
 1. Hult, Robert, et al. "Primal decomposition of the optimal coordination of vehicles at traffic intersections." 2016 IEEE 55th Conference on Decision and Control (CDC). IEEE, 2016.
 2.  Krishnamoorthy, D. and Kungurtsev, V. (2022),  A Sensitivity Assisted Alternating Directions Method of Multipliers for Distributed Optimization, IEEE Conference on Decision and Control (CDC). 
 
