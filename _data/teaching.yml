@@ -2,24 +2,24 @@
 - title: Courses
   type: time_table
   contents:
-    - year: 2022
+    - year: 2022 - 2023
       items: 
         - Lecturer - [4DM20] Engineering Optimization, TU/e
         
-    - year: 2021
+    - year: 2021 - 2022
       items: 
         - Lecturer and Course coordinator - [KP3100] Chemical Engineering, NTNU
         
-    - year: 2020
+    - year: 2020 - 2021
       items: 
         - Lecturer and Course coordinator - [KP3100] Chemical Engineering, NTNU
         - Lecturer - [KP8115] Advanced Process Control, NTNU
         
-    - year: 2019
+    - year: 2019 - 2020
       items: 
         - Lecturer - [KP8115] Advanced Process Control, NTNU
           
-    - year: 2018
+    - year: 2018 - 2019
       items: 
         - Teaching Assistant - [KP8115] Advanced Process Control, NTNU
         
