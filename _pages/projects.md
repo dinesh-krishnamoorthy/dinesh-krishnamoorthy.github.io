@@ -35,3 +35,32 @@ Reference:
   
 </details>
 
+<details>
+  <summary> Project 2: Fast Distributed Model Predictive Control 
+ </summary>
+  
+  Multiagent decision-making occurs when a group of agents collaborates to achieve a shared objective. These scenarios commonly arise in smart infrastructure systems, including collaborative robotics, vehicle fleets, and eco-industrial parks. In such systems, autonomous operation necessitates distributed Model Predictive Control (MPC), where each agent makes decisions locally. However, these actions and decisions may be interconnected through shared variables or constraints.
+
+Due to the interdependencies among subsystems, the MPC subproblems must communicate information to enable coordination. Consequently, whenever new information is received, the MPC problem needs to be solved again. In other words, distributed MPC requires multiple iterations or communication rounds to converge on the optimal solution. This iterative process presents a challenge for real-time control, where timely arrival of the solution is not only desirable but also crucial in many applications. For instance, consider the optimal coordination of autonomous vehicles at traffic intersections [1]. In this case, the coordination of MPCs in each vehicle must reach a solution within a specific timeframe.
+
+While the subproblems solved between consecutive iterations are not identical, they only differ based on the newly received information from other agents. Leveraging this fact, this project will exploit the parametric sensitivities to efficiently compute the subproblem solution using solutions obtained from previous iterations, instead of repeatedly solving the numerical optimization problem at each iteration. Learning-based MPC methods to handle this challenge in distributed MPC will also be studied.
+
+Tasks
+*	Literature study on distributed MPC
+*	Formulate a distributed MPC problem and improve its computation time by exploiting its sensitivities
+*	Perform a simulation study on a large-scale multi-agent system.
+
+Prerequisites
+*	Passionate about MPC and optimization and willingness to explore and learn new concepts 
+*	Basic understanding of optimization and MPC (it would help if you have taken these courses: 4DM20, 5LMB0)
+
+Please send me an e-mail at d.krishnamoorthy@tue.nl if you want to know more about this topic, along with your CV and transcript of records. 
+
+  References
+1. Hult, Robert, et al. "Primal decomposition of the optimal coordination of vehicles at traffic intersections." 2016 IEEE 55th Conference on Decision and Control (CDC). IEEE, 2016.
+2.  Krishnamoorthy, D. and Kungurtsev, V. (2022),  A Sensitivity Assisted Alternating Directions Method of Multipliers for Distributed Optimization, IEEE Conference on Decision and Control (CDC). 
+
+</details>
+
+
+
