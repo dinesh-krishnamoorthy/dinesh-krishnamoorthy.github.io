@@ -6,7 +6,7 @@ nav: false
 ---
 
 <details>
-  **<summary> Project 1: Multiagent Black-box optimization </summary>**
+  <summary> Project 1: Multiagent Black-box optimization </summary>
   
 Multiagent decision-making arises where a collection of agents collaborate to achieve a common goal. Such problems commonly arise in many smart infrastructure systems such as in collaborative robotics, vehicle fleets, eco industrial parks etc. Here each agent takes its own local decision, but the agent’s actions and decisions may be inter-dependent through common variables or shared constraints.  
 
@@ -56,6 +56,62 @@ Please send me an e-mail at d.krishnamoorthy@tue.nl if you want to know more abo
 ### References
 1. Hult, Robert, et al. "Primal decomposition of the optimal coordination of vehicles at traffic intersections." 2016 IEEE 55th Conference on Decision and Control (CDC). IEEE, 2016.
 2.  Krishnamoorthy, D. and Kungurtsev, V. (2022),  A Sensitivity Assisted Alternating Directions Method of Multipliers for Distributed Optimization, IEEE Conference on Decision and Control (CDC). 
+
+</details>
+
+<details>
+  <summary> Project 3: Mixed integer Model Predictive Control using Value Function Approximation
+ </summary>
+ 
+ Application of nonlinear model predictive control (NMPC) to problems with hybrid dynamical systems, disjoint constraints, or discrete controls often results in mixed-integer formulations with both continuous and discrete decision variables. However, solving the resulting mixed-integer nonlinear programming problems (MINLP) in real-time is challenging. This can be a serious limiting factor in many applications. 
+
+To address the computational complexity of solving mixed integer nonlinear model predictive control problem in real-time, the aim of this master project is to explore the idea of approximating mixed integer NMPC formulations using value function approximation. Leveraging Bellman's principle of optimality, the key idea here is to divide the prediction horizon into two parts, where the optimal value function of the latter part of the prediction horizon is approximated offline using expert demonstrations. Doing so allows us to solve the Mixed integer NMPC problem with a considerably shorter prediction horizon online, thereby reducing the online computation cost. 
+
+The goal of this master thesis is to develop a mixed integer NMPC formulation based on value function approximation and apply it to an engineering case study such as process control, automotive system, or nuclear fusion.
+
+### Tasks
+* Literature study on mixed integer MPC and learning-based MPC
+*	Formulate a mixed integer MPC problem with a cost-to-go approximation 
+*	Investigate different approaches to learn the cost-to-go function (e.g. inverse optimization, supervised learning)
+*	Perform a simulation study on a suitable application example
+
+### Prerequisites
+*	Passionate about optimization and willingness to explore and learn new concepts 
+*	Basic understanding of optimization and MPC (it would help if you have taken these courses: 4SC000, 4DM20, 5LMB0)
+ 
+ Please send me an e-mail at d.krishnamoorthy@tue.nl if you want to know more about this topic, along with your CV and transcript of records. 
+ 
+### References
+ 
+1. Orrico, C. A., van Berkel, M., Bosman, T., Heemels, W.P.M.H., Krishnamoorthy, D., 2023. Mixed-Integer MPC Strategies for Fueling and Density Control in Fusion Tokamaks, IEEE Control System Letters (In-Press) 
+
+
+</details>
+
+
+<details>
+  <summary> Project 4:Learning-based Model Predictive Control 
+ </summary>
+ Model predictive control (MPC) is a popular control strategy for constrained multivariable systems that is based on repeatedly solving a receding horizon optimal control problem at each time of the controller. As the range of MPC application extends beyond the traditional process industries, additional challenges such as computational effort and memory footprint need to be addressed. One approach to eliminate the need for solving optimization problems online, is to pre-compute the MPC policy as a function of the states. This can be done by using machine learning techniques. 
+
+Learning-based MPC may either involve learning the underlying model, the cost function, or directly the policy using machine learning techniques. As such, learning-based MPC requires labelled training data sets sampled from the MPC policy. This is typically obtained by sampling the feasible state-space and evaluating the control law by solving the numerical optimization problem offline for each sample. Although the resulting approximate policy can be cheaply evaluated online, generating large training samples to learn the MPC policy can be time consuming and prohibitively expensive. This is one of the fundamental bottlenecks that limit the design and implementation of learning-based MPC. This project will use a recently proposed data augmentation scheme [1] to efficiently develop learning-based MPC controller offline. Furthermore, online learning techniques for safety critical systems such as robotics and autonomous vehicles will also be developed to improve the controller performance. 
+
+### Tasks
+*	Literature study on Learning-based MPC 
+*	Formulate a MPC problem for quadcopter control 
+*	Setup a framework for learning the MPC policy and perform simulation studies
+
+### Prerequisites
+*	Passionate about applications of MPC and optimization, and willingness to explore and learn new concepts 
+*	Basic understanding of optimization, MPC, and dynamic programming (it would help if you have taken these courses: 4SC000, 4DM20, 5LMB0)
+ 
+ Please send me an e-mail at d.krishnamoorthy@tue.nl if you want to know more about this topic, along with your CV and transcript of records. 
+ 
+### References
+ 
+1. Krishnamoorthy, D. 2021. A Sensitivity-based Data Augmentation Framework for Model Predictive Control Policy Approximation. IEEE Transactions on Automatic Control. DOI: 10.1109/TAC.2021.3124983
+2. Krishnamoorthy, D., 2023. An Improved Data Augmentation Scheme for Model Predictive Control Policy Approximation, IEEE Control System Letters
+
 
 </details>
 
