@@ -6,7 +6,7 @@ nav: false
 ---
 
 <details>
-  <summary> Project 1: Multiagent Black-box optimization <span style="color:blue">some *blue* text</span> </summary>
+  **<summary> Project 1: Multiagent Black-box optimization </summary>**
   
 Multiagent decision-making arises where a collection of agents collaborate to achieve a common goal. Such problems commonly arise in many smart infrastructure systems such as in collaborative robotics, vehicle fleets, eco industrial parks etc. Here each agent takes its own local decision, but the agent’s actions and decisions may be inter-dependent through common variables or shared constraints.  
 
