@@ -2,7 +2,7 @@
 - title: Courses
   type: time_table
   contents:
-   - year: 2022
+    - year: 2022
       items: 
         - Lecturer - [4DM20] Engineering Optimization, TU/e
         
