@@ -6,7 +6,7 @@ subtitle: Assistant Professor, Eindhoven University of Technology (TU/e)
 
 profile:
   align: left
-  image: Krishnamoorthy_Dinesh_ME_UD_PO_AS_1004.jpg
+  image: NTNUsubproDinesh-6419v2 (2).jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p> Mechanical Engineering </p>
