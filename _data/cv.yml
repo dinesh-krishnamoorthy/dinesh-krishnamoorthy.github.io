@@ -87,6 +87,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - EuroTech Future Award
+        
     - year: 2022
       items: 
         - IEEE Control System Letters Outstanding Reviewer
