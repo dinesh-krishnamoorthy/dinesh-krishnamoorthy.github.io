@@ -5,9 +5,9 @@ permalink: /news/
 nav: true
 nav_order: 5
 ---
-
+* August 2023 - Dinesh recieves the prestigious VENI grant from  NWO - which is a Dutch early career starting grant (success rate ~13%). 
 * June 2023 - Dinesh recieves EuroTech Future Award recognizing early career contributions to a more sustainable world. [[link](https://eurotech-universities.eu/news-and-events/news/eurotech-future-award-2023-winners/)]
-* Feb 2023 - iDnesh named as one of the [Outstanding Reviewers in 2022](http://ieee-cssletters.dei.unipd.it/Page_reviewers.php?p=3) for IEEE Control System Letters Journal.
+* Feb 2023 - Dinesh named as one of the [Outstanding Reviewers in 2022](http://ieee-cssletters.dei.unipd.it/Page_reviewers.php?p=3) for IEEE Control System Letters Journal.
 * Nov 2022 - Dinesh recieves EuroFusion Engineering Grant [[link](https://www.differ.nl/grant-for-dinesh-krishnamoorthy-for-research-on-controlled-nuclear-fusion)]
 * Feb 2021 - Paper entitled "Optimal Resource Allocation using Distributed Feedback Real-time Optimization" has been accepted as a Keynote paper at [IFAC ADCHEM 2021](https://www.adchem2021.org/). 
 * Jan 2021 - Dinesh receives the [Best PhD Fellow Award](https://www.youtube.com/watch?v=QuHFnoTiy-k&ab_channel=NTNUFakultetfornaturvitenskap) from the Faculty of Natural Sciences at NTNU.  
