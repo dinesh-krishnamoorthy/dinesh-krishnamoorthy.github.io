@@ -5,6 +5,7 @@ permalink: /news/
 nav: true
 nav_order: 5
 ---
+
 * Sept 2023 - Elevated to IEEE Senior Member grade.  
 * Aug 2023 - Dinesh recieves the prestigious VENI grant from  NWO - which is a Dutch early career starting grant (success rate ~13%). 
 * Jun 2023 - Dinesh recieves EuroTech Future Award recognizing early career contributions to a more sustainable world. [[link](https://eurotech-universities.eu/news-and-events/news/eurotech-future-award-2023-winners/)]
