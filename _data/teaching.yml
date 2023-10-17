@@ -2,6 +2,11 @@
 - title: Courses
   type: time_table
   contents:
+    - year: 2023 - 2024
+      items: 
+        - Lecturer - [4DM20] Engineering Optimization, TU/e
+        - Lecturer - [4SC010] Control and Operation of Fusion Tokamaks, TU/e
+        
     - year: 2022 - 2023
       items: 
         - Lecturer - [4DM20] Engineering Optimization, TU/e
