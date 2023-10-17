@@ -5,7 +5,7 @@ permalink: /talks/
 nav: true
 nav_order: 3
 ---
-* Krishnamoorthy, D., Bayesian Optimization for safety critical systems - Applications to biomedical and chemcial process systems, Seminar at DTU Compute, July 2023. [[Slides](https://www.dropbox.com/scl/fi/h4iyvdt71q3xuvyvgs6hs/2023_SafeBO_DTU_DK.pdf?rlkey=dbqir168wq7gh8zi5ji2apg0h&dl=0)]
+* Krishnamoorthy, D., Bayesian Optimization for safety critical systems - Applications to biomedical and chemcial process systems, Seminar at DTU Compute, July 2023. :Denmark: [[Slides](https://www.dropbox.com/scl/fi/h4iyvdt71q3xuvyvgs6hs/2023_SafeBO_DTU_DK.pdf?rlkey=dbqir168wq7gh8zi5ji2apg0h&dl=0)]
 * Krishnamoorthy, D., To each their own - Decision-making in a connected world, Seminar at Laboratoire d'Automatique at EPFL, April 2023.
 * Krishnamoorthy, D., Decisions on the Fly: Advances in Optimization Algorithms for Distributed Operations, Operations Planning Accounting & Control (OPAC) Seminar Series, TU Eindhoven, March 2023. 
 * Krishnamoorthy, D., The role of parametric sensitivities at the interface of control, learning, and optimization,
