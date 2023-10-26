@@ -7,11 +7,6 @@ nav_order: 2
 ---
 
 	
-### Theses
-
-
-* **Krishnamoorthy, D.**, 2019. Novel Approaches to Online Process Optimization under Uncertainty, PhD Thesis, NTNU. [[pdf](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)] [[slides](http://folk.ntnu.no/dineshk/Presentations/PhD%20defense_Dinesh.pdf)]
-* **Krishnamoorthy, D.**, 2012. Efficient Algorithm implementation of Model Predictive Control, MSc Thesis, Imperial College London. [[pdf](http://folk.ntnu.no/dineshk/Research/Krishnamoorthy_Dinesh_Effective%20Algorithm%20Implementaion%20of%20predictive%20control.pdf)][[slides](http://folk.ntnu.no/dineshk/Research/MSc%20final%20Presentation.pdf)]
 
 
 ### Journal Publications
@@ -89,6 +84,13 @@ nav_order: 2
 * **Krishnamoorthy, D.**, and Doyle III, F.J. 2022, System and Methods for Individualized Bolus Calculations. US serial no. 63/338,363.
 *	Aske, E., **Krishnamoorthy, D.**, Fjalestad, K., Pavlov, A. and Fredriksen, M. 2014, Well Control system (WO2015070913A1, CA2930653A1, US20160290077A1, GB2535090B - granted) [[link](https://patents.google.com/patent/US10125584B2/en)]
 *	**Krishnamoorthy, D.** and Fjalestad, K. 2017, Estimating flow rate at a pump (WO2017061873A1, CA3001234A1, GB2543048A,RU2737055C2 - granted) [[link](https://patents.google.com/patent/NO20180572A1/no)]
+
+### Theses
+
+
+* **Krishnamoorthy, D.**, 2019. Novel Approaches to Online Process Optimization under Uncertainty, PhD Thesis, NTNU. [[pdf](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)] [[slides](http://folk.ntnu.no/dineshk/Presentations/PhD%20defense_Dinesh.pdf)]
+* **Krishnamoorthy, D.**, 2012. Efficient Algorithm implementation of Model Predictive Control, MSc Thesis, Imperial College London. [[pdf](http://folk.ntnu.no/dineshk/Research/Krishnamoorthy_Dinesh_Effective%20Algorithm%20Implementaion%20of%20predictive%20control.pdf)][[slides](http://folk.ntnu.no/dineshk/Research/MSc%20final%20Presentation.pdf)]
+
 
 ### Press, Media, and others
 
