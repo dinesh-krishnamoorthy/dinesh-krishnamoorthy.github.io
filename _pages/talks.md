@@ -2,8 +2,8 @@
 layout: page
 title: talks
 permalink: /talks/
-nav: true
-nav_order: 3
+nav: false
+nav_order: 9
 ---
 * Krishnamoorthy, D., Bayesian Optimization for safety critical systems - Applications to biomedical and chemcial process systems, Seminar at DTU Compute, July 2023. :denmark: [[Slides](https://www.dropbox.com/scl/fi/h4iyvdt71q3xuvyvgs6hs/2023_SafeBO_DTU_DK.pdf?rlkey=dbqir168wq7gh8zi5ji2apg0h&dl=0)]
 * Krishnamoorthy, D., To each their own - Decision-making in a connected world, Seminar at Laboratoire d'Automatique at EPFL, April 2023 🇨🇭.
