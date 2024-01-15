@@ -36,6 +36,9 @@ nav_order: 2
 
 
 ### Peer-reviewed Conference Publications
+* **Krishnamoorthy, D.**, 2023. An Improved Data Augmentation Scheme for Model Predictive Control Policy Approximation, _Proceedings of the 2023 IEEE Conference on Decision and Control_, Singapore. [[pdf](https://arxiv.org/pdf/2303.05607.pdf)]
+* Orrico, C. A., van Berkel, M., Bosman, T., Heemels, W.P.M.H., **Krishnamoorthy, D.**, 2023. Mixed-Integer MPC Strategies for Fueling and Density Control in Fusion Tokamaks, _Proceedings of the 2023 IEEE Conference on Decision and Control_, Singapore. [[pdf](https://arxiv.org/pdf/2306.00415.pdf)]
+* Chanfreut, P., Maestre, J.M., **Krishnamoorthy, D.** and Camacho, E.F., 2023. ALADIN-based Distributed Model Predictive Control with dynamic partitioning: An application to Solar Parabolic Trough Plants. _Proceedings of the 2023 IEEE Conference on Decision and Control_, Singapore. (In-Press)
 * **Krishnamoorthy, D.** and Paulson, J., 2023. Multi-agent Black-box Optimization using a Bayesian Approach to Alternating Direction Method of Multipliers, _IFAC World Congress_, Yokohama, Japan (In-Press). [[pdf](https://arxiv.org/pdf/2303.14414.pdf)][[video](https://youtu.be/wemfd3En4iI)]
 * **Krishnamoorthy, D.**, 2023. On Tuning Parameterized Control Policies Online for Safety-Critical Systems – Applied to Biomedical Systems, _IFAC World Congress_, Yokohama, Japan (In-Press). [[pdf](https://www.dropbox.com/s/fe8ta54a2qps0ga/BO_tuning_final.pdf?dl=0)][[video](https://youtu.be/bvsmT_blMa4)]
 * **Krishnamoorthy, D.**, 2023. Optimizing Surplus Heat Recovery using Fast Fourier Transform-based Extremum Seeking Control, _IFAC World Congress_, Yokohama, Japan (In-Press). [[pdf](https://www.dropbox.com/s/ulds21jtmujv4xz/postprint.pdf?dl=0)][[video](https://youtu.be/Tw8-Uw0vwqI)]
