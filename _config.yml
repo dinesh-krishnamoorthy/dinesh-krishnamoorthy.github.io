@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Dinesh
-middle_name: 
-last_name: Krishnamoorthy
+middle_name: Krishnamoorthy
+last_name: Kallur
 email: d.krishnamoorthy@tue.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
  Assistant Professor, TU/e.
