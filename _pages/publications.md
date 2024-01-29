@@ -36,7 +36,7 @@ nav_order: 2
 
 
 ### Peer-reviewed Conference Publications
-* Van der Horst, A., Meere, B., **Krishnamoorthy, D.**, Bakker, S., van de Vrande, B.,  Stoutjesdijk, H.,  Alonso, M.,  Torta, E., 2024. A Bayesian optimization framework for the automatic tuning of MPC-based shared controllers. _Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan. [[pdf](https://arxiv.org/pdf/2311.01133.pdf)]
+* Van der Horst, A., Meere, B., **Krishnamoorthy, D.**, Bakker, S., van de Vrande, B.,  Stoutjesdijk, H.,  Alonso, M.,  Torta, E., 2024. A Bayesian optimization framework for the automatic tuning of MPC-based shared controllers. _Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA)_, Yokohama, Japan. [[pdf](https://arxiv.org/pdf/2311.01133.pdf)]
 * **Krishnamoorthy, D.**, 2023. An Improved Data Augmentation Scheme for Model Predictive Control Policy Approximation, _Proceedings of the 2023 IEEE Conference on Decision and Control_, Singapore. [[pdf](https://arxiv.org/pdf/2303.05607.pdf)]
 * Orrico, C. A., van Berkel, M., Bosman, T., Heemels, W.P.M.H., **Krishnamoorthy, D.**, 2023. Mixed-Integer MPC Strategies for Fueling and Density Control in Fusion Tokamaks, _Proceedings of the 2023 IEEE Conference on Decision and Control_, Singapore. [[pdf](https://arxiv.org/pdf/2306.00415.pdf)]
 * Chanfreut, P., Maestre, J.M., **Krishnamoorthy, D.** and Camacho, E.F., 2023. ALADIN-based Distributed Model Predictive Control with dynamic partitioning: An application to Solar Parabolic Trough Plants. _Proceedings of the 2023 IEEE Conference on Decision and Control_, Singapore. (In-Press)
