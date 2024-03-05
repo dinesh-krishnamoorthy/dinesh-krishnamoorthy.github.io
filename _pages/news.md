@@ -6,6 +6,7 @@ nav: true
 nav_order: 5
 ---
 
+* Jul 2024 - Keynote talk at IFAC ADCHEM, Toronto, Canada.
 * Nov 2023 -  Obtained University Teaching Qualification ([UTQ](https://www.universiteitenvannederland.nl/en_GB/utq)) certification.
 * Sept 2023 - Elevated to IEEE Senior Member grade.  
 * Aug 2023 - Dinesh recieves the prestigious VENI grant from  NWO - which is a Dutch early career starting grant (success rate = 11%). 
