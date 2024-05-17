@@ -32,6 +32,14 @@ Dinesh is the recipient of the [Dimitirs. N. Chorafas Foundation Award](https://
 His research interests include distributed optimization, numerical optimal control, real-time optimization, and Bayesian optimization, with applications to energy systems.
 
 
+---
+layout: cv
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 1
+cv_pdf: CV.pdf
+---
 
 
 
