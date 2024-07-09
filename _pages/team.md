@@ -13,7 +13,7 @@ nav_order: 3
 
 ## Graduate Students ##
 * Jochem Baltussen
-* Bokan Yang
 * Caesar Kok
 * Tom Vreugdenhil
 * Martijn de Beij
+* Tom Minten
