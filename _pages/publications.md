@@ -10,7 +10,7 @@ nav_order: 2
 
 
 ### Journal Publications
-* Dirza, R., Varadarajan, H.P., Aas, V., Skogestad, S., **Krishnamoorthy, D.**, 2024. A Comparative Study of Distributed Feedback Optimizing Control Architectures, _IEEE Transactions on Control Systems Technology_ (In-Press) [pdf]
+* Dirza, R., Varadarajan, H.P., Aas, V., Skogestad, S., **Krishnamoorthy, D.**, 2024. A Comparative Study of Distributed Feedback Optimizing Control Architectures, _IEEE Transactions on Control Systems Technology_ (In-Press) [[pdf](https://www.dropbox.com/scl/fi/j9v9hmmqw01mpxs81n3op/MainIEEETrans.pdf?rlkey=ot336sudcba0tt9o4q1supu8d&st=v7lrqj6c&dl=0)]
 * **Krishnamoorthy, D.**, 2023. An Improved Data Augmentation Scheme for Model Predictive Control Policy Approximation, _IEEE Control System Letters_, Vol. 7, p. 1867 - 1872. [[pdf](https://arxiv.org/pdf/2303.05607.pdf)]
 * Orrico, C. A., van Berkel, M., Bosman, T., Heemels, W.P.M.H., **Krishnamoorthy, D.**, 2023. Mixed-Integer MPC Strategies for Fueling and Density Control in Fusion Tokamaks, _IEEE Control System Letters_, Vol. 7, p. 1897 - 1902. (IEEE CSS TC-ES Outstanding Student Paper Prize) [[pdf](https://arxiv.org/pdf/2306.00415.pdf)]
 * Bosman, T.,  Koechl, F., Ho, A., de Baar, M., **Krishnamoorthy, D.**, van Berkel, M., 2023. Integrated model control simulations of the electron density profile and the implications of using multiple discrete pellet injectors for control, _Nuclear Fusion_, Vol. 63, p. 126047. [[pdf](https://iopscience.iop.org/article/10.1088/1741-4326/ad0251/meta)]
