@@ -10,6 +10,7 @@ nav_order: 2
 
 
 ### Journal Publications
+* **Krishnamoorthy, D.**, 2025. A General-Purpose Approach to Multi-Agent Bayesian Optimization Across Decomposition Methods, _Optimization and Engineering_ (In-Press) [[pdf](https://www.dropbox.com/scl/fi/c2ftl5jre5qzgjzzqhqw9/MABO.pdf?rlkey=i4ivysildek6wjmsmlg7t2i4j&st=l250nju2&dl=0)]   
 * Dirza, R., Varadarajan, H.P., Aas, V., Skogestad, S., **Krishnamoorthy, D.**, 2024. A Comparative Study of Distributed Feedback Optimizing Control Architectures, _IEEE Transactions on Control Systems Technology_ (In-Press) [[pdf](https://arxiv.org/pdf/2411.04676)]
 * **Krishnamoorthy, D.**, 2023. An Improved Data Augmentation Scheme for Model Predictive Control Policy Approximation, _IEEE Control System Letters_, Vol. 7, p. 1867 - 1872. [[pdf](https://arxiv.org/pdf/2303.05607.pdf)]
 * Orrico, C. A., van Berkel, M., Bosman, T., Heemels, W.P.M.H., **Krishnamoorthy, D.**, 2023. Mixed-Integer MPC Strategies for Fueling and Density Control in Fusion Tokamaks, _IEEE Control System Letters_, Vol. 7, p. 1897 - 1902. (IEEE CSS TC-ES Outstanding Student Paper Prize) [[pdf](https://arxiv.org/pdf/2306.00415.pdf)]
