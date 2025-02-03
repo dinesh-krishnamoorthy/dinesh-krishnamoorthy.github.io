@@ -2,6 +2,11 @@
 - title: Courses
   type: time_table
   contents:
+    - year: 2024 - 2025
+      items: 
+        - Lecturer - [4DM20] Engineering Optimization, TU/e
+        - Lecturer and Course coordinator - [4SC090] Control and Operation of Future Energy Systems, TU/e
+        - Lecturer and Course coordinator - Numerical Optimal Control, Dutch Institue for Systems and Control (DISC)
     - year: 2023 - 2024
       items: 
         - Lecturer - [4DM20] Engineering Optimization, TU/e
