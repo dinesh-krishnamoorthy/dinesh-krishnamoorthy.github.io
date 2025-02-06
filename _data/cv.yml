@@ -4,42 +4,40 @@
   contents:
     - year: 2024 - 2025
       items: 
-        - Lecturer - [4DM20] Engineering Optimization, TU/e
-        - Lecturer and Course coordinator - [4SC090] Control and Operation of Future Energy Systems, TU/e
-        - Lecturer and Course coordinator - [DISC] Numerical Optimal Control, Dutch Invtue for Systems and Control  
+        - [4DM20] Engineering Optimization, TU/e
+        - [4SC090] Control and Operation of Future Energy Systems, TU/
     - year: 2023 - 2024
       items: 
-        - Lecturer - [4DM20] Engineering Optimization, TU/e
-        - Lecturer - [4SC010] Control and Operation of Fusion Tokamaks, TU/e
+        - [4DM20] Engineering Optimization, TU/e
+        - [4SC010] Control and Operation of Fusion Tokamaks, TU/e
         
     - year: 2022 - 2023
       items: 
-        - Lecturer - [4DM20] Engineering Optimization, TU/e
+        - [4DM20] Engineering Optimization, TU/e
         
     - year: 2021 - 2022
       items: 
-        - Lecturer and Course coordinator - [KP3100] Chemical Engineering, NTNU
+        - [KP3100] Introduction to Chemical Engineering, NTNU
         
     - year: 2020 - 2021
       items: 
-        - Lecturer and Course coordinator - [KP3100] Chemical Engineering, NTNU
-        - Lecturer - [KP8115] Advanced Process Control, NTNU
+        - [KP3100] Introduction to Chemical Engineering, NTNU
+        - [KP8115] Advanced Process Control, NTNU
         
     - year: 2019 - 2020
       items: 
-        - Lecturer - [KP8115] Advanced Process Control, NTNU
-          
-    - year: 2018 - 2019
-      items: 
-        - Teaching Assistant - [KP8115] Advanced Process Control, NTNU
+        - [KP8115] Advanced Process Control, NTNU
         
         
 - title: Short courses 
   type: time_table
   contents:
+    - year: 2024 - 2025
+      items: 
+        - Numerical Optimal Control, Dutch Institute for Systems and Control (DISC)
     - year: 2019
       items: 
-        - Lecturer - Numerical Optimal Control - Federal University of Rio de Janeiro
+        - Numerical Optimal Control - Federal University of Rio de Janeiro (UFRJ)
        
      
 
