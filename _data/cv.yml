@@ -4,12 +4,13 @@
   contents:
     - year: 2024 - 2025
       items: 
-         - [4DM20] Engineering Optimization, TU/e
-         - [4SC090] Control and Operation of Future Energy Systems, TU/e
+        - [4DM20] Engineering Optimization, TU/e
+        - [4SC090] Control and Operation of Future Energy Systems, TU/e
+        
     - year: 2023 - 2024
       items: 
-         - [4DM20] Engineering Optimization, TU/e
-         - [4SC010] Control and Operation of Fusion Tokamaks, TU/e
+        - [4DM20] Engineering Optimization, TU/e
+        - [4SC010] Control and Operation of Fusion Tokamaks, TU/e
         
     - year: 2022 - 2023
       items: 
