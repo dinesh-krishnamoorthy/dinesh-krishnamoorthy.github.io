@@ -23,9 +23,9 @@ social: true  # includes social icons at the bottom of the page
 ## Short bio
 Dinesh Krishnamoorthy is an Associate professor at the [Department of Engineering Cybernetics](https://www.ntnu.edu/itk) at NTNU. 
 
-From 2022 - 2025, he was an Assistant Professor at the Department of Mechanical Engineering at [TU Eindhoven](https://www.tue.nl/en/our-university/departments/mechanical-engineering/), where he is a part of the [Control Systems Technology](https://www.tue.nl/en/research/research-groups/control-systems-technology/) group. 
+From 2022 - 2025, he was an Assistant Professor at the Department of Mechanical Engineering at [TU Eindhoven](https://www.tue.nl/en/our-university/departments/mechanical-engineering/), where he was part of the [Control Systems Technology](https://www.tue.nl/en/research/research-groups/control-systems-technology/) group, and between 2021-2022, he was a post-doctoral researcher at Harvard John A. Paulson School of Engineering and Applied Sciences. 
 
-He was a post-doctoral researcher at Harvard John A. Paulson School of Engineering and Applied Sciences. Dinesh received his PhD in Process Systems Engineering from the Norwegian University of Science and Technology (NTNU), MSc in Control Systems from Imperial College London, and B.Eng in Mechatronics from the University of Nottingham. 
+Dinesh received his PhD in Process Systems Engineering from the Norwegian University of Science and Technology (NTNU), MSc in Control Systems from Imperial College London, and B.Eng in Mechatronics from the University of Nottingham. 
 
 Dinesh also has more than four years of industrial research experience. He was working as a Senior Researcher at Statoil Research centre, Norway between 2012-2016, and was also a part-time Senior Data Science consultant for Novo Nordisk R&D (2021). 
 
@@ -36,6 +36,7 @@ His research interests include distributed optimization, numerical optimal contr
 
 ## News
 
+* May 2025 - Dinesh starts as an Associate Professor at the Department of Engineering Cybernetics, NTNU, while maintaining a 20% part-time Visiting Professorship at TU/e. 
 * Jul 2024 - Keynote talk at IFAC ADCHEM, Toronto, Canada.
 * Nov 2023 -  Obtained University Teaching Qualification ([UTQ](https://www.universiteitenvannederland.nl/en_GB/utq)) certification.
 * Sept 2023 - Elevated to IEEE Senior Member grade.  
