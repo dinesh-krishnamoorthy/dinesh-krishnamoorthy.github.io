@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, Eindhoven University of Technology (TU/e)
+subtitle: Associate Professor, Norwegian University of Science and Technology (NTNU)
 
 profile:
   align: left
   image: NTNUsubproDinesh-6419v2 (2).jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> Mechanical Engineering </p>
-    <p>Pendulum, Room 3.30</p>
-    <p>Eindhoven, 5600 MB</p>
+    <p>  O.S. Bragstads plass 2D</p>
+    <p> Room D439</p>
+    <p> 7034 Trondhiem</p>
     
 
 news: false  # includes a list of news items
