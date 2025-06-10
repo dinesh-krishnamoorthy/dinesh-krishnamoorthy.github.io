@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 ## Short bio
-Dinesh Krishnamoorthy is an Assistant professor at the Department of Mechanical Engineering at [TU Eindhoven](https://www.tue.nl/en/our-university/departments/mechanical-engineering/), where he is a part of the [Control Systems Technology](https://www.tue.nl/en/research/research-groups/control-systems-technology/) group. 
+Dinesh Krishnamoorthy is an Associate professor at the Department of Mechanical Engineering at [TU Eindhoven](https://www.tue.nl/en/our-university/departments/mechanical-engineering/), where he is a part of the [Control Systems Technology](https://www.tue.nl/en/research/research-groups/control-systems-technology/) group. 
 
 He was a post-doctoral researcher at Harvard John A. Paulson School of Engineering and Applied Sciences. Dinesh received his PhD in Process Systems Engineering from the Norwegian University of Science and Technology (NTNU), MSc in Control Systems from Imperial College London, and B.Eng in Mechatronics from the University of Nottingham. 
 
