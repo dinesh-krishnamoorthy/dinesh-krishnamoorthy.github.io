@@ -10,6 +10,7 @@ nav_order: 2
 
 
 ### Journal Publications
+* **Krishnamoorthy, D.**, 2025. ECCBO: An Inherently Safe Bayesian Optimization with Embedded Constraint Control for Real-time Process Optimization, _Journal of Process Control_ (In-Press). [[pdf](https://www.dropbox.com/scl/fi/0965fo7c5ydz9296tfzeo/ECCBO_main.pdf?rlkey=yhjtptox7wfjv671r41t7oq41&st=old4rylx&dl=0)]
 * **Krishnamoorthy, D.**, 2025. A General-Purpose Approach to Multi-Agent Bayesian Optimization Across Decomposition Methods, _Optimization and Engineering_ (In-Press) [[pdf](https://link.springer.com/article/10.1007/s11081-024-09953-w)]
 * Dirza, R., Varadarajan, H.P., Aas, V., Skogestad, S., **Krishnamoorthy, D.**, 2025. A Comparative Study of Distributed Feedback Optimizing Control Architectures, _IEEE Transactions on Control Systems Technology_ Vol. 33 ´(2), p. 613-628 [[pdf](https://arxiv.org/pdf/2411.04676)]
 * **Krishnamoorthy, D.**, 2023. An Improved Data Augmentation Scheme for Model Predictive Control Policy Approximation, _IEEE Control System Letters_, Vol. 7, p. 1867 - 1872. [[pdf](https://arxiv.org/pdf/2303.05607.pdf)]
