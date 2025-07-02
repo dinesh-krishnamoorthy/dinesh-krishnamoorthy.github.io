@@ -10,7 +10,7 @@ nav_order: 2
 
 
 ### Journal Publications
-* Orrico, C. A., van Berkel, M., Bosman, T., Ceelen, L., Heemels, W.P.M.H., Koechl, F., **Krishnamoorthy, D.**, 2025. Predictive density profile control with discrete pellets, applied to integrated simulations of ITER, _Nuclear Fusion_ (In-Press) [[pdf](https://www.dropbox.com/scl/fi/p8x85xubf48rirn6c9mmw/Nucl_Fus_JINTRAC_PTH_MPC.pdf?rlkey=kamzcseuem6bq0p5t5ee5tbms&st=t3iwxyee&dl=0)]
+* Orrico, C. A., van Berkel, M., Bosman, T., Ceelen, L., Heemels, W.P.M.H., Koechl, F., **Krishnamoorthy, D.**, 2025. Predictive density profile control with discrete pellets, applied to integrated simulations of ITER, _Nuclear Fusion_ (In-Press) [[pdf](https://www.dropbox.com/scl/fi/fgbpkhby1p5j0f412lvaq/Nucl_Fus_JINTRAC_PTH_MPC.pdf?rlkey=fqkqkroiszthj58e332gclbn2&st=2gn1fahi&dl=0)]
 * **Krishnamoorthy, D.**, 2025. ECCBO: An Inherently Safe Bayesian Optimization with Embedded Constraint Control for Real-time Process Optimization, _Journal of Process Control_ (In-Press). [[pdf](https://www.dropbox.com/scl/fi/0965fo7c5ydz9296tfzeo/ECCBO_main.pdf?rlkey=yhjtptox7wfjv671r41t7oq41&st=old4rylx&dl=0)]
 * **Krishnamoorthy, D.**, 2025. A General-Purpose Approach to Multi-Agent Bayesian Optimization Across Decomposition Methods, _Optimization and Engineering_ (In-Press) [[pdf](https://link.springer.com/article/10.1007/s11081-024-09953-w)]
 * Dirza, R., Varadarajan, H.P., Aas, V., Skogestad, S., **Krishnamoorthy, D.**, 2025. A Comparative Study of Distributed Feedback Optimizing Control Architectures, _IEEE Transactions on Control Systems Technology_ Vol. 33 ´(2), p. 613-628 [[pdf](https://arxiv.org/pdf/2411.04676)]
