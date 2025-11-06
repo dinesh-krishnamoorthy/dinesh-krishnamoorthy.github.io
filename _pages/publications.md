@@ -40,6 +40,8 @@ nav_order: 2
 
 
 ### Peer-reviewed Conference Publications
+* Baltussen, T.M.J.T., Orrico, C.A., Katriniok, A., W.P.M.H. Heemels, **Krishnamoorthy, D.**, 2025. Value Function Approximation for Nonlinear MPC: Learning a Terminal Cost Function with a Descent Property, _IEEE Conference on Decision and Control (CDC),_ Rio de Janeiro. [[pdf](https://arxiv.org/pdf/2508.05804)]
+* Orrico, C. A., Varadarajan, H. P., van Berkel, M., Ceelen, L., Bosman, T., Heemels, W.P.M.H., **Krishnamoorthy, D.**, 2025. MPC strategies for density profile control with pellet fueling in nuclear fusion tokamaks under uncertainty, _IEEE Conference on Decision and Control (CDC),_ Rio de Janeiro. [[pdf](https://arxiv.org/pdf/2510.04784)]
 * Herceg, D., Dell’Oro, M., Bertollo, R., Miura, F., de Klaver, P., Breschi, V., **Krishnamoorthy, D.**, Salazar, M., 2025. A Scenario-based Model Predictive Control Scheme for Pandemic Response through Non-pharmaceutical Interventions, _IEEE Conference on Control Technology and Applications (CCTA),_ San Diego, USA. [[pdf](https://www.dropbox.com/scl/fi/4uqfh9pwuwo6leyxzxgn4/CCTA2025_final.pdf?rlkey=10h9eipmhfxrn1g93apg7ix4b&st=folo6vsq&dl=0)]
 * **Krishnamoorthy, D.** and Doyle III, F., 2025. Personalized Meal Bolus Calculator for Type-1 Diabetes Accounting for Diurnal Effects. _IFAC EDT_, Valencia, Spain. [[pdf](https://www.dropbox.com/s/s9kbq80t4e7puzt/main_diurnal_IFAC.pdf?st=vtqc09tr&dl=0)]
 * **Krishnamoorthy, D.**, 2024. ECCBO: An Inherently Safe Bayesian Optimization with Embedded Constraint Control for Real-Time Optimization. _IFAC ADCHEM_, Toronto, Canada (Keynote paper) [[pdf](https://arxiv.org/pdf/2402.18415v1.pdf)] 
