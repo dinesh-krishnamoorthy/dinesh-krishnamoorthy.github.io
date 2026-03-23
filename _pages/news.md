@@ -5,7 +5,8 @@ permalink: /news/
 nav: false
 nav_order: 5
 ---
-
+* Mar 2023 - Dinesh is awarded a FRIPRO Early Career Talent Grant from the Research Council of Norway. [[link](https://www.forskningsradet.no/nyheter/2026/banebrytande-forskarar-far-236-millionar-kroner/)]
+* May 2025 - Dinesh joins as Associate Professor at the Department of Engieering Cybernetics, NTNU.
 * Jul 2024 - Keynote talk at IFAC ADCHEM, Toronto, Canada.
 * Nov 2023 -  Obtained University Teaching Qualification ([UTQ](https://www.universiteitenvannederland.nl/en_GB/utq)) certification.
 * Sept 2023 - Elevated to IEEE Senior Member grade.  
