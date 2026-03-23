@@ -7,6 +7,7 @@ nav_order: 5
 ---
 * Mar 2023 - Dinesh is awarded a FRIPRO Early Career Talent Grant from the Research Council of Norway. [[link](https://www.forskningsradet.no/nyheter/2026/banebrytande-forskarar-far-236-millionar-kroner/)]
 * May 2025 - Dinesh joins as Associate Professor at the Department of Engieering Cybernetics, NTNU.
+* Dec 2024 - Outstanding Student Paper Prize from the IEEE CSS TC on Energy Systems for Chris Orrico. [[paper](https://arxiv.org/pdf/2306.00415)]
 * Jul 2024 - Keynote talk at IFAC ADCHEM, Toronto, Canada.
 * Nov 2023 -  Obtained University Teaching Qualification ([UTQ](https://www.universiteitenvannederland.nl/en_GB/utq)) certification.
 * Sept 2023 - Elevated to IEEE Senior Member grade.  
