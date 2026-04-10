@@ -35,7 +35,7 @@ His research interests include distributed optimization, numerical optimal contr
 
 
 ## News
-* Apr 2026 - Selected for the Outstanding Academic Fellows Program and NTNU.
+* Apr 2026 - Selected for the Outstanding Academic Fellows Program at NTNU.
 * Mar 2026 - Awarded a FRIPRO Early Career Talent Grant from the Research Council of Norway. [[link](https://www.forskningsradet.no/nyheter/2026/banebrytande-forskarar-far-236-millionar-kroner/)]
 * May 2025 - Started as an Associate Professor at the Department of Engineering Cybernetics, NTNU, while maintaining a 20% part-time Visiting Professorship at TU/e.
 * Dec 2024 - Outstanding Student Paper Prize from the IEEE CSS TC on Energy Systems for Chris Orrico. [[paper](https://arxiv.org/pdf/2306.00415)]
