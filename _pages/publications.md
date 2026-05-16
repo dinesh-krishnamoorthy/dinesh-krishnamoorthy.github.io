@@ -40,7 +40,7 @@ nav_order: 2
 
 
 ### Peer-reviewed Conference Publications
-* Orrico, C. A., Heemels, W.P.M.H., **Krishnamoorthy, D.** 2025. Learning myopic mixed-integer nonlinear model predictive control from expert demonstrations, _IFAC World Congress_, Busan, Soth Korea.
+* Orrico, C. A., Heemels, W.P.M.H., **Krishnamoorthy, D.** 2025. Learning myopic mixed-integer nonlinear model predictive control from expert demonstrations, _IFAC World Congress_, Busan, Soth Korea. [[pdf](https://arxiv.org/abs/2605.07401)]
 
 * Varadarajan, H. P., and **Krishnamoorthy, D.** 2026. Control Architecture Design based on Primal Decomposition with Local Constraints - Applied to a Thermal Energy Network, _IFAC World Congress_, Busan, Soth Korea.
 
