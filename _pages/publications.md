@@ -10,6 +10,8 @@ nav_order: 2
 
 
 ### Journal Publications
+* Gabrielsen, T. A., Imsland, L., **Krishnamoorthy, D.**, 2026. Output Sensitivity Modification for Nonlinear Model Predictive
+Control, _IEEE Control System Letters_, (In-Press)
 * de Vos, K., Minten, T., Bruyninckx, H.,van de Molengraft, R., **Krishnamoorthy, D.**, Torta, E., 2026. Structure-aware Constraint Configuration for Distributed OnlineTrajectory Generators: an Application to Mobile Robot Navigation, _Control Engineering Practice_, (In-Press) 
 * Orrico, C. A., van Berkel, M., Bosman, T., Ceelen, L., Heemels, W.P.M.H., Koechl, F., **Krishnamoorthy, D.**, 2025. Predictive density profile control with discrete pellets, applied to integrated simulations of ITER, _Nuclear Fusion_, Vol. 65(7), p. 076041. [[pdf](https://www.dropbox.com/scl/fi/fgbpkhby1p5j0f412lvaq/Nucl_Fus_JINTRAC_PTH_MPC.pdf?rlkey=fqkqkroiszthj58e332gclbn2&st=2gn1fahi&dl=0)]
 * **Krishnamoorthy, D.**, 2025. ECCBO: An Inherently Safe Bayesian Optimization with Embedded Constraint Control for Real-time Process Optimization, _Journal of Process Control_, Vol. 152, p. 103467. [[pdf](https://www.dropbox.com/scl/fi/0965fo7c5ydz9296tfzeo/ECCBO_main.pdf?rlkey=yhjtptox7wfjv671r41t7oq41&st=old4rylx&dl=0)]
