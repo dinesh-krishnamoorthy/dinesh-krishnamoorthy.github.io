@@ -1,6 +1,6 @@
 ---
 layout: page
-title: group
+title: COLLAB Group
 permalink: /group/
 nav: true
 nav_order: 4
