@@ -51,6 +51,8 @@ His research interests include distributed optimization, numerical optimal contr
 * Feb 2021 - Paper entitled "Optimal Resource Allocation using Distributed Feedback Real-time Optimization" has been accepted as a Keynote paper at [IFAC ADCHEM 2021](https://www.adchem2021.org/). 
 * Jan 2021 - [Best PhD Fellow Award](https://www.youtube.com/watch?v=QuHFnoTiy-k&ab_channel=NTNUFakultetfornaturvitenskap) from the Faculty of Natural Sciences at NTNU.  
 * Oct 2020 - Recognized with the prestigious [Dimitris N. Chorafas Foundation Award](https://www.weizmann.ac.il/feinberg/about/dimitris-n-chorafas-prize/about-foundation-and-prize) for best PhD thesis (one of 35 worldwide). [[link](https://www.weizmann.ac.il/feinberg/sites/feinberg/files/uploads/files/chorafas_winners_2020_by_year_and_univeristy.pdf)]
+<details>
+  <summary>Show More</summary>
 * Sept 2020 - Article (in Norwegian) about my PhD award and my views on early career research appears on Universitets Avisa. [[link](https://www.universitetsavisa.no/forskning/hvordan-skal-ntnu-bli-et-bedre-forskningsuniversitet/103076)] 
 * Sept 2020 - Recieved the Excellence in [Computer Aided Process Engineering Award](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/) from the CAPE working party of the European Federation of Chemical Engineers (EFCE).
 * Aug 2020 - Peder Sather Research grant awarded together with Prof. Ali Mesbah at UC Berkeley (USD24k).
@@ -59,4 +61,7 @@ His research interests include distributed optimization, numerical optimal contr
 
 
 <a href="https://info.flagcounter.com/0V1v"><img src="https://s11.flagcounter.com/count2/0V1v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
+</details>
 
