@@ -1,0 +1,90 @@
+{% comment %}
+  News timeline. Reads _data/news.yml.
+  Usage:  {% include news_timeline.liquid %}
+          {% include news_timeline.liquid visible=6 %}   (number shown before "Show older news")
+{% endcomment %}
+{% assign nt_visible = include.visible | default: 8 %}
+{% assign nt_recent = site.data.news | slice: 0, nt_visible %}
+{% assign nt_older = site.data.news | slice: nt_visible, 1000 %}
+
+<style>
+  .nt-wrap { --nt-accent: var(--global-theme-color, #2f6fa8); --nt-muted: var(--global-text-color-light, #6c757d); --nt-line: var(--global-divider-color, rgba(0,0,0,.12)); --nt-bg: var(--global-bg-color, #fff); }
+  .nt { list-style: none; margin: 0; padding: 0; position: relative; }
+  .nt::before { content: ""; position: absolute; top: .4rem; bottom: .4rem; left: 4.6rem; width: 2px; background: var(--nt-line); }
+  .nt li { position: relative; display: grid; grid-template-columns: 3.6rem 1fr; column-gap: 2.2rem; padding: .45rem 0; margin: 0; }
+  .nt li::marker { content: none; }
+  .nt-item::before { content: ""; position: absolute; left: calc(4.6rem - 5px); top: .95rem; width: 12px; height: 12px; border-radius: 50%; background: var(--nt-bg); border: 2px solid var(--nt-c, var(--nt-accent)); box-sizing: border-box; }
+  .nt-year { padding-top: 1rem !important; }
+  .nt-year:first-child { padding-top: 0 !important; }
+  .nt-year span { grid-column: 1; text-align: right; font-weight: 700; font-size: 1.05rem; color: var(--nt-accent); }
+  .nt-year::before { content: ""; position: absolute; left: calc(4.6rem - 7px); top: calc(50% - 8px); width: 16px; height: 16px; border-radius: 50%; background: var(--nt-accent); }
+  .nt-year:first-child::before { top: calc(50% - 8px - .5rem); }
+  .nt-month { text-align: right; font-size: .85rem; color: var(--nt-muted); padding-top: .2rem; text-transform: uppercase; letter-spacing: .04em; }
+  .nt-body { line-height: 1.55; }
+  .nt-tag { display: inline-block; font-size: .68rem; font-weight: 600; text-transform: uppercase; letter-spacing: .05em; padding: .05rem .5rem; margin-right: .4rem; border-radius: 999px; vertical-align: .12em; color: var(--nt-c); background: color-mix(in srgb, var(--nt-c) 13%, transparent); }
+  .nt-links a { display: inline-block; font-size: .75rem; padding: 0 .5rem; margin-left: .3rem; border: 1px solid var(--nt-line); border-radius: 4px; text-decoration: none; vertical-align: .1em; line-height: 1.6; }
+  .nt-links a:hover { border-color: var(--nt-accent); }
+
+  .nt-award     { --nt-c: #c48a00; }
+  .nt-honour    { --nt-c: #b5367a; }
+  .nt-grant     { --nt-c: #2e8b57; }
+  .nt-talk      { --nt-c: #7c4dcc; }
+  .nt-career    { --nt-c: var(--nt-accent); }
+  .nt-milestone { --nt-c: #6b7a8c; }
+  .nt-media     { --nt-c: #d0632a; }
+
+  .nt-older { margin-top: .75rem; }
+  .nt-older > summary { list-style: none; cursor: pointer; display: inline-block; margin-left: 2.6rem; padding: .3rem .95rem; border: 1px solid var(--nt-accent); border-radius: 999px; color: var(--nt-accent); font-size: .9rem; user-select: none; }
+  .nt-older > summary::-webkit-details-marker { display: none; }
+  .nt-older > summary::after { content: " ▾"; }
+  .nt-older[open] > summary::after { content: " ▴"; }
+  .nt-older > summary .less, .nt-older[open] > summary .more { display: none; }
+  .nt-older[open] > summary .less { display: inline; }
+  .nt-older > summary:hover { background: var(--nt-accent); color: #fff; }
+  .nt-older > .nt { margin-top: 1rem; }
+
+  @media (max-width: 576px) {
+    .nt::before { left: 5px; }
+    .nt li { grid-template-columns: 1fr; padding-left: 1.6rem; }
+    .nt-item::before { left: 0; }
+    .nt-year::before { left: -2px; }
+    .nt-year span, .nt-month { text-align: left; }
+    .nt-month { padding-top: 0; }
+    .nt-older > summary { margin-left: 0; }
+  }
+</style>
+
+<div class="nt-wrap">
+{% for nt_group in (1..2) %}
+  {% if nt_group == 1 %}
+    {% assign nt_items = nt_recent %}
+  {% else %}
+    {% assign nt_items = nt_older %}
+    {% if nt_items.size == 0 %}{% break %}{% endif %}
+    <details class="nt-older">
+      <summary><span class="more">Show older news</span><span class="less">Hide older news</span></summary>
+  {% endif %}
+
+  <ol class="nt">
+    {% assign nt_prev = "" %}
+    {% for n in nt_items %}
+      {% assign nt_parts = n.date | split: " " %}
+      {% assign nt_year = nt_parts | last %}
+      {% if nt_year != nt_prev %}
+        <li class="nt-year"><span>{{ nt_year }}</span></li>
+        {% assign nt_prev = nt_year %}
+      {% endif %}
+      <li class="nt-item{% if n.type %} nt-{{ n.type }}{% endif %}">
+        <div class="nt-month">{{ nt_parts | first }}</div>
+        <div class="nt-body">
+          {%- if n.type %}<span class="nt-tag">{{ n.type }}</span>{% endif -%}
+          {{ n.text | markdownify | remove: "<p>" | remove: "</p>" | strip }}
+          {%- if n.links %} <span class="nt-links">{% for l in n.links %}<a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a>{% endfor %}</span>{% endif %}
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+
+  {% if nt_group == 2 %}</details>{% endif %}
+{% endfor %}
+</div>
