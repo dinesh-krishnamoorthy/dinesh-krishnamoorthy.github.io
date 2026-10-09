@@ -42,15 +42,26 @@ students:
     affiliation: PhD at TU Eindhoven
     photo: /assets/img/group/christopher.jpg
 
-# Master's thesis students: name and graduation year.
-# (Placeholders below: replace with real names.)
+# Master's thesis and visiting students:
 masters:
-  - name: Student Name
+  - name: Truls Korsmo Sæther
+    year: -
+  - name: Abdirahman Ahmed Yusuf 
+    year: -
+  - name: Endre Kvitnes
+    year: -
+  - name: Rikke Torvanger
     year: 2026
-  - name: Student Name
+  - name: Anders Tørresen
+    year: 2026
+  - name: Tom Minten
     year: 2025
-  - name: Student Name
-    year: 2025
+  - name: Ceasar Kok
+    year: 2024
+  - name: Tom Vreugdenhil
+    year: 2024
+  - name: Jochem Baltussen
+    year: 2023
 
 themes:
   - title: Learning-based control
