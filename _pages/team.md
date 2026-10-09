@@ -23,6 +23,10 @@ students:
     initials: EB
     degree: MSc, NTNU
     photo: /assets/img/group/edvard.jpg
+  - name: Dhruvkumar Patel
+    initials: DP
+    degree: MSc, Chalmers 
+    photo: /assets/img/group/dhruv.jpg
   - name: Merlin Thinnes
     initials: MT
     degree: MSc, RWTH Aachen
