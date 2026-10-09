@@ -19,6 +19,10 @@ students:
     initials: EB
     degree: MSc, NTNU
     photo: /assets/img/group/edvard.jpg
+  - name: Dhruvkumar Patel
+    initials: DP
+    degree: MSc, Chalmers 
+    photo: /assets/img/group/dhruv.jpg
   - name: Merlin Thinnes
     initials: MT
     degree: MSc, RWTH Aachen
@@ -31,7 +35,7 @@ students:
     initials: HV
     degree: MTech, IIT Madras
     affiliation: PhD at TU Eindhoven
-    photo: /assets/img/group/hari.jpg
+    photo: /assets/img/group/hari.jpeg
   - name: Christopher Orrico
     initials: CO
     degree: MSc, TU Eindhoven
