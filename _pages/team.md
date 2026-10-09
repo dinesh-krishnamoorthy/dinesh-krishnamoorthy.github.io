@@ -45,11 +45,11 @@ students:
 # Master's thesis and visiting students:
 masters:
   - name: Truls Korsmo Sæther
-    year: -
+    year: 2027
   - name: Abdirahman Ahmed Yusuf 
-    year: -
+    year: 2027
   - name: Endre Kvitnes
-    year: -
+    year: 2027
   - name: Rikke Torvanger
     year: 2026
   - name: Anders Tørresen
