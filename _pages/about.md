@@ -35,13 +35,18 @@ His research interests include distributed optimization, numerical optimal contr
 
 
 ## News
+* Oct 2026 - Inducted as a Member of the Norwegian Academy of Young Researchers [[link](https://akademietforyngreforskere.no/mot-vare-nye-medlemmer-akademiet-for-yngre-forskere-tar-opp-ti-nye-medlemmer-i-2026/)].
 * Aug 2026 - IFAC Journal of Process Control Paper Prize, category Theory, for the triennium 2023-26 [[paper](https://www.dropbox.com/scl/fi/0965fo7c5ydz9296tfzeo/ECCBO_main.pdf?rlkey=yhjtptox7wfjv671r41t7oq41&st=old4rylx&e=1&dl=0)]. 
 * July 2026 -  Outstanding Student Paper Prize from the IEEE CSS TC on Process Control for Chris Orrico. [[paper](https://arxiv.org/pdf/2510.04784)]
-* June 2026 - Selected for the Outstanding Academic Fellows Program at NTNU.
+* June 2026 - Selected for the Outstanding Academic Fellows Program at NTNU [[link](https://www.ntnu.edu/outstanding-academic-fellows-programme/2026-2030)].
 * Mar 2026 - Awarded a FRIPRO Early Career Talent Grant from the Research Council of Norway. [[link](https://www.forskningsradet.no/nyheter/2026/banebrytande-forskarar-far-236-millionar-kroner/)]
 * May 2025 - Started as an Associate Professor at the Department of Engineering Cybernetics, NTNU, while maintaining a 20% part-time Visiting Professorship at TU/e.
 * Dec 2024 - Outstanding Student Paper Prize from the IEEE CSS TC on Energy Systems for Chris Orrico. [[paper](https://arxiv.org/pdf/2306.00415)]
 * Jul 2024 - Keynote talk at IFAC ADCHEM, Toronto, Canada.
+
+<details>
+  <summary>Older news ... </summary>
+
 * Nov 2023 -  Obtained University Teaching Qualification ([UTQ](https://www.universiteitenvannederland.nl/en_GB/utq)) certification.
 * Sept 2023 - Elevated to IEEE Senior Member grade.  
 * Aug 2023 - Received the prestigious VENI grant from  NWO - which is a Dutch early career starting grant (success rate = 11%). 
@@ -51,9 +56,6 @@ His research interests include distributed optimization, numerical optimal contr
 * Feb 2021 - Paper entitled "Optimal Resource Allocation using Distributed Feedback Real-time Optimization" has been accepted as a Keynote paper at [IFAC ADCHEM 2021](https://www.adchem2021.org/). 
 * Jan 2021 - [Best PhD Fellow Award](https://www.youtube.com/watch?v=QuHFnoTiy-k&ab_channel=NTNUFakultetfornaturvitenskap) from the Faculty of Natural Sciences at NTNU.  
 * Oct 2020 - Recognized with the prestigious [Dimitris N. Chorafas Foundation Award](https://www.weizmann.ac.il/feinberg/about/dimitris-n-chorafas-prize/about-foundation-and-prize) for best PhD thesis (one of 35 worldwide). [[link](https://www.weizmann.ac.il/feinberg/sites/feinberg/files/uploads/files/chorafas_winners_2020_by_year_and_univeristy.pdf)]
-<details>
-  <summary>Show More</summary>
-
 * Sept 2020 - Article (in Norwegian) about my PhD award and my views on early career research appears on Universitets Avisa. [[link](https://www.universitetsavisa.no/forskning/hvordan-skal-ntnu-bli-et-bedre-forskningsuniversitet/103076)] 
 * Sept 2020 - Recieved the Excellence in [Computer Aided Process Engineering Award](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/) from the CAPE working party of the European Federation of Chemical Engineers (EFCE).
 * Aug 2020 - Peder Sather Research grant awarded together with Prof. Ali Mesbah at UC Berkeley (USD24k).
