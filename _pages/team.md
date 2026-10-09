@@ -3,7 +3,7 @@ layout: page
 title: COLLAB Group
 permalink: /group/
 nav: true
-nav_order: 4
+nav_order: 3
 
 # ===============================================================
 # Edit the lists below to update the page — no HTML needed.
