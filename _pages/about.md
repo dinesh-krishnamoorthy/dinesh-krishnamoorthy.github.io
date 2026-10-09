@@ -53,12 +53,12 @@ His research interests include distributed optimization, numerical optimal contr
 * Oct 2020 - Recognized with the prestigious [Dimitris N. Chorafas Foundation Award](https://www.weizmann.ac.il/feinberg/about/dimitris-n-chorafas-prize/about-foundation-and-prize) for best PhD thesis (one of 35 worldwide). [[link](https://www.weizmann.ac.il/feinberg/sites/feinberg/files/uploads/files/chorafas_winners_2020_by_year_and_univeristy.pdf)]
 <details>
   <summary>Show More</summary>
+
 * Sept 2020 - Article (in Norwegian) about my PhD award and my views on early career research appears on Universitets Avisa. [[link](https://www.universitetsavisa.no/forskning/hvordan-skal-ntnu-bli-et-bedre-forskningsuniversitet/103076)] 
 * Sept 2020 - Recieved the Excellence in [Computer Aided Process Engineering Award](https://www.wp-cape.eu/index.php/outstanding-phd-thesis-on-cape/) from the CAPE working party of the European Federation of Chemical Engineers (EFCE).
 * Aug 2020 - Peder Sather Research grant awarded together with Prof. Ali Mesbah at UC Berkeley (USD24k).
 * Nov 2019 - Successfully defended PhD thesis entitled "[Novel Approaches to Online Process Optimization under Uncertainty](http://folk.ntnu.no/dineshk/Research/PhD_thesis/Thesis_Main.pdf)" [[photo](http://folk.ntnu.no/dineshk/Photos/PhD_Morari_JayLee.jpeg)]
 * July 2018 - Keynote talk at [IFAC ADCHEM 2018](http://folk.ntnu.no/skoge/prost/proceedings/ADCHEM-2018/), held in Shenyang, China. [[pdf](https://dinesh-krishnamoorthy.github.io/publication/2019JPCADCHEM)] [[slides](http://folk.ntnu.no/dineshk/Presentations/ADCHEM_slides.pdf)] 
-
 
 <a href="https://info.flagcounter.com/0V1v"><img src="https://s11.flagcounter.com/count2/0V1v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
