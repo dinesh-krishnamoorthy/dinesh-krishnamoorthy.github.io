@@ -33,6 +33,8 @@ Dinesh is the recipient of the [Dimitirs. N. Chorafas Foundation Award](https://
 
 His research interests include distributed optimization, numerical optimal control, real-time optimization, and Bayesian optimization, with applications mainly to energy systems.
 
+[Download full CV](https://www.dropbox.com/scl/fi/u2y69miafvu4gzo7fgmz8/Dinesh_Krishnamoorthy_CV_full.pdf?rlkey=bx4wm5ry0qhv13plupn5buhcl&st=ww0ntnh5&e=1&dl=0)
+
 
 ## News
 * Oct 2026 - Inducted as a Member of the Norwegian Academy of Young Researchers [[link](https://akademietforyngreforskere.no/mot-vare-nye-medlemmer-akademiet-for-yngre-forskere-tar-opp-ti-nye-medlemmer-i-2026/)].
