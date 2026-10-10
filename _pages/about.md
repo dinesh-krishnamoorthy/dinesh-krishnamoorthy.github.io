@@ -55,10 +55,10 @@ social: true  # includes social icons at the bottom of the page
 
 <p>
 Dinesh Krishnamoorthy is an Associate Professor at the <a href="https://www.ntnu.edu/itk">Department of Engineering Cybernetics</a>,
-NTNU, where he leads the COLLAB research group. From 2022 to 2025 he was an Assistant Professor at the Department of Mechanical
+NTNU, where he leads the <a href="https://dinesh-krishnamoorthy.github.io/group/">COLLAB research group. From 2022 to 2025 he was an Assistant Professor at the Department of Mechanical
 Engineering at <a href="https://www.tue.nl/en/our-university/departments/mechanical-engineering/">TU Eindhoven</a>, in the
 <a href="https://www.tue.nl/en/research/research-groups/control-systems-technology/">Control Systems Technology</a> group,
-where he remains a part-time (20%) Visiting Professor. From 2021 to 2022 he was a postdoctoral researcher at the Harvard John A. Paulson
+where he remains a Visiting Professor. From 2021 to 2022 he was a postdoctoral researcher at the Harvard John A. Paulson
 School of Engineering and Applied Sciences.
 </p>
 
@@ -102,25 +102,18 @@ coordinate their decisions toward a common goal, safely and in real time, using 
 <div class="ab-themes">
   <div class="ab-theme">
     <h3>Distributed optimization &amp; feedback-optimizing control</h3>
-    <p>Decomposition-based algorithms (primal decomposition, ADMM) and feedback control structures that steer large-scale interconnected systems to optimal operation directly from measurements.</p>
+    <p>Decomposition-based algorithms  and feedback control structures that steer large-scale interconnected systems to optimal operation directly from measurements.</p>
   </div>
   <div class="ab-theme">
-    <h3>Model predictive control under uncertainty</h3>
-    <p>Multistage, scenario-based and mixed-integer MPC, and learning-based MPC: learned controllers and value functions that keep MPC's guarantees.</p>
+    <h3>Model predictive control</h3>
+    <p> Distributed,  mixed-integer, and learning-based MPC: learned controllers and value functions that keep MPC's guarantees.</p>
   </div>
   <div class="ab-theme">
-    <h3>Safe Bayesian optimization</h3>
-    <p>Sample-efficient learning for systems where every experiment is costly and constraint violations are not an option.</p>
+    <h3> Bayesian optimization for real-time decisions</h3>
+    <p>Sample-efficient learning to optimize in real-time where constraint violations are not an option.</p>
   </div>
 </div>
 
-<div class="ab-apps">
-  <span class="lbl">Applications:</span>
-  <span class="app">Process &amp; energy systems</span>
-  <span class="app">Nuclear fusion</span>
-  <span class="app">Personalized medicine</span>
-  <span class="app">Robotics</span>
-</div>
 
 <details class="ab-visitors">
   <summary>Visitor map</summary>
