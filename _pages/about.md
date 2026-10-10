@@ -55,7 +55,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p>
 Dinesh Krishnamoorthy is an Associate Professor at the <a href="https://www.ntnu.edu/itk">Department of Engineering Cybernetics</a>,
-NTNU, where he leads the <a href="https://dinesh-krishnamoorthy.github.io/group/">COLLAB research group. From 2022 to 2025 he was an Assistant Professor at the Department of Mechanical
+NTNU, where he leads the <a href="https://dinesh-krishnamoorthy.github.io/group/">COLLAB</a> research group. From 2022 to 2025 he was an Assistant Professor at the Department of Mechanical
 Engineering at <a href="https://www.tue.nl/en/our-university/departments/mechanical-engineering/">TU Eindhoven</a>, in the
 <a href="https://www.tue.nl/en/research/research-groups/control-systems-technology/">Control Systems Technology</a> group,
 where he remains a Visiting Professor. From 2021 to 2022 he was a postdoctoral researcher at the Harvard John A. Paulson
