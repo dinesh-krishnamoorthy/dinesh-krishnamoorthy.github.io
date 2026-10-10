@@ -50,33 +50,33 @@
   # EXAMPLE entries: replace with your own files
   materials:
     - title: "Lecture 1: Problem Formulation"
-      url: /assets/pdf/teaching/ttk4135/lecture_1.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_1.pdf
     - title: "Lecture 2: Convex Optimization"
-      url: /assets/pdf/teaching/ttk4135/lecture_2.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_2.pdf
     - title: "Lecture 3: Optimality conditions"
-      url: /assets/pdf/teaching/ttk4135/lecture_3.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_3.pdf
     - title: "Lecture 4: Linear Programming"
-      url: /assets/pdf/teaching/ttk4135/lecture_4.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_4.pdf
     - title: "Lecture 5: Quadratic programming"
-      url: /assets/pdf/teaching/ttk4135/lecture_5.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_5.pdf
     - title: "Lecture 6: Optimization-based control - I "
-      url: /assets/pdf/teaching/ttk4135/lecture_6.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_6.pdf
     - title: "Lecture 7: Optimization-based control - II"
-      url: /assets/pdf/teaching/ttk4135/lecture_7.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_7.pdf
     - title: "Lecture 8: Unconstrained Optimization - I"
-      url: /assets/pdf/teaching/ttk4135/lecture_8.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_8.pdf
     - title: "Lecture 9: Unconstrained Optimization - II"
-      url: /assets/pdf/teaching/ttk4135/lecture_9.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_9.pdf
     - title: "Lecture 10: Penalty methods"
-      url: /assets/pdf/teaching/ttk4135/lecture_10.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_10.pdf
     - title: "Lecture 11: Constrained Optimization - SQP"
-      url: /assets/pdf/teaching/ttk4135/lecture_11.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_11.pdf
     - title: "Lecture 12: Calculating derivatives"
-      url: /assets/pdf/teaching/ttk4135/lecture_12.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_12.pdf
     - title: "Lecture 13: Parametric NLP"
-      url: /assets/pdf/teaching/ttk4135/lecture_13.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_13.pdf
     - title: "Lecture 14: Optimization for ML"
-      url: /assets/pdf/teaching/ttk4135/lecture_14.pdf
+      url: /assets/pdf/teaching/ttk4135/Lecture_14.pdf
    
 
 - code: TTK4115
