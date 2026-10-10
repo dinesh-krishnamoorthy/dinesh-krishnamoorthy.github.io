@@ -1,45 +1,77 @@
-     
-- title: Courses
-  type: time_table
-  contents:
-    - year: 2024 - 2025
-      items: 
-        - Lecturer - [4DM20] Engineering Optimization, TU/e
-        - Lecturer and Course coordinator - [4SC090] Control and Operation of Future Energy Systems, TU/e
-        - Lecturer and Course coordinator - [DISC] Numerical Optimal Control, Dutch Invtue for Systems and Control  
-    - year: 2023 - 2024
-      items: 
-        - Lecturer - [4DM20] Engineering Optimization, TU/e
-        - Lecturer - [4SC010] Control and Operation of Fusion Tokamaks, TU/e
-        
-    - year: 2022 - 2023
-      items: 
-        - Lecturer - [4DM20] Engineering Optimization, TU/e
-        
-    - year: 2021 - 2022
-      items: 
-        - Lecturer and Course coordinator - [KP3100] Chemical Engineering, NTNU
-        
-    - year: 2020 - 2021
-      items: 
-        - Lecturer and Course coordinator - [KP3100] Chemical Engineering, NTNU
-        - Lecturer - [KP8115] Advanced Process Control, NTNU
-        
-    - year: 2019 - 2020
-      items: 
-        - Lecturer - [KP8115] Advanced Process Control, NTNU
-          
-    - year: 2018 - 2019
-      items: 
-        - Teaching Assistant - [KP8115] Advanced Process Control, NTNU
-        
-        
-- title: Short courses 
-  type: time_table
-  contents:
-    - year: 2019
-      items: 
-        - Lecturer - Numerical Optimal Control - Federal University of Rio de Janeiro
-       
-     
+# ===============================================================
+# Courses shown on the Teaching page, in the order listed.
+#   current: true    -> listed under "Currently teaching"
+#   terms:           free text shown on the right
+#   about:           optional one-line description (Markdown allowed)
+#   link:            optional course page (e.g. NTNU course catalogue)
+#   materials:       list of lectures / files. Each item:
+#                      title: shown in the list
+#                      url:   PDF or link. Put files in /assets/pdf/teaching/<code>/
+#                      label: optional button text (default "slides")
+#   note:            optional text shown instead of / above materials
+#                    (e.g. "Materials are on Blackboard.")
+# ===============================================================
 
+- code: TTK39
+  title: Theory and Practice of Model Predictive Control
+  institution: NTNU
+  level: Graduate
+  terms: Fall 2026 –
+  current: true
+  link:
+  materials:
+
+- code: TTK4135
+  title: Optimization and Control
+  institution: NTNU
+  level: Graduate
+  terms: Spring 2026 –
+  current: true
+  link: "https://www.ntnu.edu/studies/courses/TTK4135"
+  # EXAMPLE entries: replace with your own files
+  materials:
+    - title: "Lecture 1: Introduction and course overview"
+      url: /assets/pdf/teaching/ttk4135/lecture01.pdf
+    - title: "Lecture 2: Convexity and optimality conditions"
+      url: /assets/pdf/teaching/ttk4135/lecture02.pdf
+    - title: "Lecture 3: Linear programming"
+      url: /assets/pdf/teaching/ttk4135/lecture03.pdf
+    - title: "Exercise set 1"
+      url: /assets/pdf/teaching/ttk4135/exercise01.pdf
+      label: exercise
+
+- code: TTK4115
+  title: Linear Systems Theory
+  institution: NTNU
+  level: Undergraduate
+  terms: Fall 2025
+  link: "https://www.ntnu.edu/studies/courses/TTK4115"
+  materials:
+
+- code: 4SC090
+  title: Control and Operation of Future Energy Systems
+  institution: TU/e
+  level: Graduate
+  terms: Spring 2024 – 2026
+  materials:
+
+- code: 4DM20
+  title: Engineering Optimization
+  institution: TU/e
+  level: Graduate
+  terms: Spring 2023 – 2025
+  materials:
+
+- code: KP3100
+  title: Introduction to Chemical Engineering
+  institution: NTNU
+  level: Undergraduate
+  terms: Fall 2020, 2021
+  materials:
+
+- code: KP8115
+  title: Advanced Process Control
+  institution: NTNU
+  level: Graduate
+  terms: Fall 2019, 2020
+  materials:
