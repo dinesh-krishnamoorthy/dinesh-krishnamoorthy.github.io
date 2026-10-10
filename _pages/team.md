@@ -3,7 +3,7 @@ layout: page
 title: Group
 permalink: /group/
 nav: true
-nav_order: 3
+nav_order: 2
 
 # ===============================================================
 # Edit the lists below to update the page — no HTML needed.
