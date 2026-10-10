@@ -36,12 +36,14 @@ His research interests include distributed optimization, numerical optimal contr
 [Download full CV](https://www.dropbox.com/scl/fi/u2y69miafvu4gzo7fgmz8/Dinesh_Krishnamoorthy_CV_full.pdf?rlkey=bx4wm5ry0qhv13plupn5buhcl&st=ww0ntnh5&e=1&dl=0)
 
 
-## News
+<details>
+  <summary>Show more</summary>
 
- {% include news_timeline.liquid %}
+<a href="https://info.flagcounter.com/0V1v"><img src="https://s11.flagcounter.com/count2/0V1v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</details>
 
  
-<a href="https://info.flagcounter.com/0V1v"><img src="https://s11.flagcounter.com/count2/0V1v/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 
 
