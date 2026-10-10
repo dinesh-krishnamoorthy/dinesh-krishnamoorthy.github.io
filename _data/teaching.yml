@@ -18,8 +18,27 @@
   level: Graduate
   terms: Fall 2026 –
   current: true
-  link:
+  link: "https://www.itk.ntnu.no/emner/fordypning/ttk39"
   materials:
+    - title: "Lecture 1: Dynamic programming and LQR"
+      url: /assets/pdf/teaching/ttk39/Lecture_1.pdf
+    - title: "Lecture 2: Foundations"
+      url: /assets/pdf/teaching/ttk39/Lecture_2.pdf
+    - title: "Lecture 3: Linear MPC"
+      url: /assets/pdf/teaching/ttk39/Lecture_3.pdf
+    - title: "Lecture 4: Nonlinear MPC"
+      url: /assets/pdf/teaching/ttk39/Lecture_4.pdf
+    - title: "Lecture 5: Suboptimal MPC"
+      url: /assets/pdf/teaching/ttk39/Lecture_5.pdf
+    - title: "Lecture 6: Economic MPC"
+      url: /assets/pdf/teaching/ttk39/Lecture_6.pdf
+    - title: "Lecture 7: Inherent Robustness"
+      url: /assets/pdf/teaching/ttk39/Lecture_7.pdf
+    - title: "Lecture 8: Robust MPC"
+      url: /assets/pdf/teaching/ttk39/Lecture_8.pdf
+    - title: "Lecture 9: Mixed integer MPC"
+      url: /assets/pdf/teaching/ttk39/Lecture_9.pdf
+
 
 - code: TTK4135
   title: Optimization and Control
@@ -30,15 +49,35 @@
   link: "https://www.ntnu.edu/studies/courses/TTK4135"
   # EXAMPLE entries: replace with your own files
   materials:
-    - title: "Lecture 1: Introduction and course overview"
-      url: /assets/pdf/teaching/ttk4135/lecture01.pdf
-    - title: "Lecture 2: Convexity and optimality conditions"
-      url: /assets/pdf/teaching/ttk4135/lecture02.pdf
-    - title: "Lecture 3: Linear programming"
-      url: /assets/pdf/teaching/ttk4135/lecture03.pdf
-    - title: "Exercise set 1"
-      url: /assets/pdf/teaching/ttk4135/exercise01.pdf
-      label: exercise
+    - title: "Lecture 1: Problem Formulation"
+      url: /assets/pdf/teaching/ttk4135/lecture_1.pdf
+    - title: "Lecture 2: Convex Optimization"
+      url: /assets/pdf/teaching/ttk4135/lecture_2.pdf
+    - title: "Lecture 3: Optimality conditions"
+      url: /assets/pdf/teaching/ttk4135/lecture_3.pdf
+    - title: "Lecture 4: Linear Programming"
+      url: /assets/pdf/teaching/ttk4135/lecture_4.pdf
+    - title: "Lecture 5: Quadratic programming"
+      url: /assets/pdf/teaching/ttk4135/lecture_5.pdf
+    - title: "Lecture 6: Optimization-based control - I "
+      url: /assets/pdf/teaching/ttk4135/lecture_6.pdf
+    - title: "Lecture 7: Optimization-based control - II"
+      url: /assets/pdf/teaching/ttk4135/lecture_7.pdf
+    - title: "Lecture 8: Unconstrained Optimization - I"
+      url: /assets/pdf/teaching/ttk4135/lecture_8.pdf
+    - title: "Lecture 9: Unconstrained Optimization - II"
+      url: /assets/pdf/teaching/ttk4135/lecture_9.pdf
+    - title: "Lecture 10: Penalty methods"
+      url: /assets/pdf/teaching/ttk4135/lecture_10.pdf
+    - title: "Lecture 11: Constrained Optimization - SQP"
+      url: /assets/pdf/teaching/ttk4135/lecture_11.pdf
+    - title: "Lecture 12: Calculating derivatives"
+      url: /assets/pdf/teaching/ttk4135/lecture_12.pdf
+    - title: "Lecture 13: Parametric NLP"
+      url: /assets/pdf/teaching/ttk4135/lecture_13.pdf
+    - title: "Lecture 14: Optimization for ML"
+      url: /assets/pdf/teaching/ttk4135/lecture_14.pdf
+   
 
 - code: TTK4115
   title: Linear Systems Theory
