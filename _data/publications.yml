@@ -561,9 +561,10 @@ conference:
 patents:
 
 - year: 2022
-  authors: "Krishnamoorthy, D., Doyle III, F. J."
-  title: "System and Methods for Individualized Bolus Calculations"
-  venue: "US serial no. 63/338,363"
+  authors: "Ryde, T.E., Krishnamoorthy, D., Aradottir, T.B., Bengtsson, H., Boiroux, D."
+  title: "Systems and methods for personalized insulin titration"
+  venue: "EP4473540A1, JP2025503223A, CN118661227A, US20250118409A1"
+  links: { link: "https://patents.google.com/patent/US20250118409A1/en" }
 
 - year: 2017
   authors: "Krishnamoorthy, D., Fjalestad, K."
