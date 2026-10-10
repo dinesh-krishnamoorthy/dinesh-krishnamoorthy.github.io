@@ -1,9 +1,13 @@
+---
 layout: page
 title: teaching
 permalink: /teaching/
 nav: true
 nav_order: 4
 description: Courses I teach and have taught. Click a course to see its lecture material.
+---
+
+
 {% comment %} All course data lives in _data/teaching.yml {% endcomment %}
 
 <style>
