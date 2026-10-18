@@ -86,6 +86,8 @@
   terms: Fall 2025
   link: "https://www.ntnu.edu/studies/courses/TTK4115"
   materials:
+    - title: "Course Lecture notes"
+      url: /assets/pdf/teaching/ttk4115/notes_all.pdf
 
 - code: 4SC090
   title: Control and Operation of Future Energy Systems
