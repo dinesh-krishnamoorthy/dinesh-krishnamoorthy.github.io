@@ -12,6 +12,12 @@
 journal:
 
 - year: 2026
+  authors: "van der Peet, I., Krishnamoorthy, D., Deen, N."
+  title: "Optimization of power allocation scheduling and component sizing in battery-assisted electrolyser systems"
+  venue: "Applied Energy"
+  details: "In press"
+  
+- year: 2026
   authors: "Gabrielsen, T. A., Imsland, L., Krishnamoorthy, D."
   title: "Output Sensitivity Modification for Nonlinear Model Predictive Control"
   venue: "IEEE Control Systems Letters"
