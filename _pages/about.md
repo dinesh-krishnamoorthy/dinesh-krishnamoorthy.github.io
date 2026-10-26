@@ -6,7 +6,7 @@ subtitle: Associate Professor, Department of Engineering Cybernetics, Norwegian 
 
 profile:
   align: left
-  image: NTNUsubproDinesh-6419v2 (2).jpeg
+  image: profil3036.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>O.S. Bragstads plass 2D</p>
